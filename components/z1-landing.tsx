@@ -1,5 +1,6 @@
 "use client";
 
+import Image from "next/image";
 import { FormEvent, useEffect, useMemo, useState } from "react";
 import { createWhatsAppUrl } from "@/lib/config";
 import { getAttribution, track } from "@/lib/tracking";
@@ -60,7 +61,9 @@ export function Z1Landing({ properties }: { properties: Property[] }) {
 
   return <main className="z1">
     <header className="z1-header">
-      <a className="z1-logo" href="#inicio" aria-label="7Cantos Residência, início"><b>7</b><span>cantos<small>RESIDÊNCIA</small></span></a>
+      <a className="z1-logo" href="#inicio" aria-label="7Cantos Residência, início">
+        <Image src="/logo-7cantos.png" alt="7Cantos.com" width={744} height={222} priority />
+      </a>
       <nav aria-label="Navegação da landing"><a href="#como-funciona">Como funciona</a><a href="#imoveis">Imóveis</a><a href="#chegada">Sua chegada</a></nav>
       <button className="z1-btn z1-btn-sm" onClick={openPlan}>Montar meu plano</button>
     </header>
@@ -116,7 +119,7 @@ export function Z1Landing({ properties }: { properties: Property[] }) {
 
     <section className="z1-final"><p className="z1-eyebrow">Comece sua chegada</p><h2>Sua residência já vai exigir muito de você. <em>Sua mudança não precisa.</em></h2><p>A 7Cantos ajuda você a escolher onde morar, encontrar seu apartamento e organizar sua chegada.</p><button className="z1-btn z1-btn-light" onClick={openPlan}>Montar meu plano de mudança ↗</button></section>
 
-    <footer className="z1-footer"><a className="z1-logo" href="#inicio"><b>7</b><span>cantos<small>RESIDÊNCIA</small></span></a><p>Escolher · Alugar · Mudar · Viver</p><p>© {new Date().getFullYear()} 7Cantos</p></footer>
+    <footer className="z1-footer"><a className="z1-logo" href="#inicio" aria-label="7Cantos, voltar ao início"><Image src="/logo-7cantos.png" alt="7Cantos.com" width={744} height={222} /></a><p>Escolher · Alugar · Mudar · Viver</p><p>© {new Date().getFullYear()} 7Cantos</p></footer>
 
     {modalOpen && <div className="z1-modal-backdrop" role="presentation" onMouseDown={(e) => e.target === e.currentTarget && setModalOpen(false)}><section className="z1-modal" role="dialog" aria-modal="true" aria-labelledby="modal-title"><button className="z1-close" onClick={() => setModalOpen(false)} aria-label="Fechar formulário">×</button><p className="z1-eyebrow">Seu plano de mudança</p><h2 id="modal-title">Conte para a gente onde você quer chegar.</h2><form onSubmit={submitLead}><label>Nome<input name="nome" autoComplete="name" required /></label><label>WhatsApp<input name="whatsapp" type="tel" autoComplete="tel" required /></label><label>Cidade atual<input name="cidade" autoComplete="address-level2" required /></label><label>Hospital ou programa<input name="hospital" required /></label><label>Data prevista de mudança<input name="mudanca" type="month" required /></label><label>Orçamento mensal<input name="orcamento" inputMode="numeric" required /></label><label>Como vai morar?<select name="moradia" required defaultValue=""><option value="" disabled>Selecione</option><option>Sozinho</option><option>Casal</option><option>Dividir apartamento</option><option>Família</option></select></label><label className="z1-consent"><input type="checkbox" required /> Autorizo a 7Cantos a entrar em contato comigo sobre este plano de mudança.</label>{!createWhatsAppUrl("teste") && <p className="z1-config-warning">O WhatsApp ainda não foi configurado. Preencha NEXT_PUBLIC_WHATSAPP_NUMBER para ativar o envio.</p>}<button className="z1-btn" type="submit" disabled={!createWhatsAppUrl("teste")}>Enviar pelo WhatsApp</button></form></section></div>}
   </main>;

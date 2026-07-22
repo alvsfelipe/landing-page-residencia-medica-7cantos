@@ -1,3 +1,5 @@
+import Image from "next/image";
+
 const whatsappNumber = process.env.NEXT_PUBLIC_WHATSAPP_NUMBER?.replace(/\D/g, "") || "5585999999999";
 const whatsappUrl = `https://wa.me/${whatsappNumber}?text=${encodeURIComponent("Olá! Quero conhecer a preparação para residência médica da 7Cantos.")}`;
 
@@ -17,9 +19,8 @@ export function ResidenceLanding() {
   return (
     <main>
       <header className="site-header">
-        <a className="brand" href="#inicio" aria-label="7Cantos Residência — início">
-          <span className="brand-mark">7</span>
-          <span>cantos<small>residência</small></span>
+        <a className="brand brand-image" href="#inicio" aria-label="7Cantos Residência — início">
+          <Image src="/logo-7cantos.png" alt="7Cantos.com" width={744} height={222} priority />
         </a>
         <nav aria-label="Navegação principal">
           <a href="#metodo">O método</a>
@@ -93,7 +94,7 @@ export function ResidenceLanding() {
         <a className="button button-light" href={whatsappUrl} target="_blank" rel="noreferrer">Falar com a 7Cantos <span>↗</span></a>
       </section>
 
-      <footer><a className="brand brand-footer" href="#inicio"><span className="brand-mark">7</span><span>cantos<small>residência</small></span></a><p>Preparação com direção, constância e cuidado.</p><p>© {new Date().getFullYear()} 7Cantos Residência</p></footer>
+      <footer><a className="brand brand-image brand-footer" href="#inicio" aria-label="7Cantos, voltar ao início"><Image src="/logo-7cantos.png" alt="7Cantos.com" width={744} height={222} /></a><p>Preparação com direção, constância e cuidado.</p><p>© {new Date().getFullYear()} 7Cantos Residência</p></footer>
     </main>
   );
 }
