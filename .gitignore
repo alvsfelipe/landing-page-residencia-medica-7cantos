@@ -8,3 +8,4 @@ npm-debug.log*
 # Evidências locais de QA visual
 /desktop-residencia.png
 /mobile-residencia.png
+.vercel
