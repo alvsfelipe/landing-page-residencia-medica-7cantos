@@ -1,0 +1,10 @@
+/node_modules
+/.next
+/.vercel
+.env*
+!.env.example
+npm-debug.log*
+
+# Evidências locais de QA visual
+/desktop-residencia.png
+/mobile-residencia.png
