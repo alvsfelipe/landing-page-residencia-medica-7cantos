@@ -1,1 +1,3294 @@
-[]
+[
+  {
+    "id": "56155",
+    "bairro": "Vila Clementino",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04021-051",
+    "endereco": "Rua Sena Madureira, 767",
+    "aluguel": 5600,
+    "condominio": 0,
+    "iptu": 265,
+    "area": 114,
+    "quartos": 3,
+    "banheiros": 2,
+    "suites": 0,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1768246924_5db8878de79da71b8d61481c68a5bfc1.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1768246924_5db8878de79da71b8d61481c68a5bfc1.jpg"
+    ]
+  },
+  {
+    "id": "56160",
+    "bairro": "Vila Clementino",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04044-060",
+    "endereco": "Rua Primeiro de Janeiro, 159",
+    "aluguel": 3990,
+    "condominio": 0,
+    "iptu": 590,
+    "area": 120,
+    "quartos": 3,
+    "banheiros": 2,
+    "suites": 0,
+    "vagas": 1,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1768326241_8e3d6e23f70f65ff8b18b89b4b61f33c.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1768326241_8e3d6e23f70f65ff8b18b89b4b61f33c.jpg"
+    ]
+  },
+  {
+    "id": "56330",
+    "bairro": "Vila Clementino",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04026-001",
+    "endereco": "Rua Doutor Bacelar, 780",
+    "aluguel": 3200,
+    "condominio": 450,
+    "iptu": 50,
+    "area": 27,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 1,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1774901511_edc4de258a0fd2efc6c7967deb1a769e.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1774901511_edc4de258a0fd2efc6c7967deb1a769e.jpg"
+    ]
+  },
+  {
+    "id": "56299",
+    "bairro": "Vila Clementino",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04026-001",
+    "endereco": "Rua Doutor Bacelar, 780",
+    "aluguel": 3300,
+    "condominio": 450,
+    "iptu": 50,
+    "area": 26,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 1,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1773068448_8ef966cd42429041f765c7bcc8e2103a.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1773068448_8ef966cd42429041f765c7bcc8e2103a.jpg"
+    ]
+  },
+  {
+    "id": "56244",
+    "bairro": "Vila Clementino",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04026-001",
+    "endereco": "Rua Doutor Bacelar, 780",
+    "aluguel": 8000,
+    "condominio": 1180,
+    "iptu": 194,
+    "area": 80,
+    "quartos": 3,
+    "banheiros": 2,
+    "suites": 1,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1770817300_1913709af85ec230cd049f2136f6a1c1.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1770817300_1913709af85ec230cd049f2136f6a1c1.jpg"
+    ]
+  },
+  {
+    "id": "56239",
+    "bairro": "Vila Clementino",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04026-001",
+    "endereco": "Rua Doutor Bacelar, 780",
+    "aluguel": 3500,
+    "condominio": 450,
+    "iptu": 50,
+    "area": 26,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 1,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1770744899_656c6e3a827ca248665c70bc8f14a8c9.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1770744899_656c6e3a827ca248665c70bc8f14a8c9.jpg"
+    ]
+  },
+  {
+    "id": "56238",
+    "bairro": "Vila Clementino",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04026-001",
+    "endereco": "Rua Doutor Bacelar, 780",
+    "aluguel": 3200,
+    "condominio": 550,
+    "iptu": 50,
+    "area": 26,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 1,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1770744076_7574805d4e21eb1a5a41ceadc70564af.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1770744076_7574805d4e21eb1a5a41ceadc70564af.jpg"
+    ]
+  },
+  {
+    "id": "56237",
+    "bairro": "Vila Clementino",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04026-001",
+    "endereco": "Rua Doutor Bacelar, 780",
+    "aluguel": 3000,
+    "condominio": 450,
+    "iptu": 50,
+    "area": 26,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 1,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1770742457_a3c842f4004cf7816f0c62e6fd642303.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1770742457_a3c842f4004cf7816f0c62e6fd642303.jpg"
+    ]
+  },
+  {
+    "id": "56236",
+    "bairro": "Vila Clementino",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04026-001",
+    "endereco": "Rua Doutor Bacelar, 780",
+    "aluguel": 3000,
+    "condominio": 450,
+    "iptu": 50,
+    "area": 26,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 1,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1770737026_2562503d5e99662eff24eefb8584ccdd.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1770737026_2562503d5e99662eff24eefb8584ccdd.jpg"
+    ]
+  },
+  {
+    "id": "56235",
+    "bairro": "Vila Clementino",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04026-001",
+    "endereco": "Rua Doutor Bacelar, 780",
+    "aluguel": 3000,
+    "condominio": 550,
+    "iptu": 50,
+    "area": 26,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 1,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1770736398_5044bfbfc2894119a048dc18376b1f89.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1770736398_5044bfbfc2894119a048dc18376b1f89.jpg"
+    ]
+  },
+  {
+    "id": "56234",
+    "bairro": "Vila Clementino",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04026-001",
+    "endereco": "Rua Doutor Bacelar, 780",
+    "aluguel": 3000,
+    "condominio": 550,
+    "iptu": 50,
+    "area": 26,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 1,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1770734262_29689f05e574ae1fa307a88f6e4648a4.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1770734262_29689f05e574ae1fa307a88f6e4648a4.jpg"
+    ]
+  },
+  {
+    "id": "56178",
+    "bairro": "Vila Clementino",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04026-001",
+    "endereco": "Rua Doutor Bacelar, 780",
+    "aluguel": 2650,
+    "condominio": 570,
+    "iptu": 58,
+    "area": 21,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 1,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1768827461_49d36726dfb4433df55dfa3487e9237a.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1768827461_49d36726dfb4433df55dfa3487e9237a.jpg"
+    ]
+  },
+  {
+    "id": "56061",
+    "bairro": "Vila Clementino",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04026-001",
+    "endereco": "Rua Doutor Bacelar, 780",
+    "aluguel": 2900,
+    "condominio": 450,
+    "iptu": 50,
+    "area": 28,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 1,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1765381803_95d90bd0c92b54800929129950982808.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1765381803_95d90bd0c92b54800929129950982808.jpg"
+    ]
+  },
+  {
+    "id": "56060",
+    "bairro": "Vila Clementino",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04026-001",
+    "endereco": "Rua Doutor Bacelar, 780",
+    "aluguel": 3000,
+    "condominio": 450,
+    "iptu": 50,
+    "area": 28,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 1,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1765381419_504326c4115afed3f8efa4a517dd2b49.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1765381419_504326c4115afed3f8efa4a517dd2b49.jpg"
+    ]
+  },
+  {
+    "id": "56059",
+    "bairro": "Vila Clementino",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04026-001",
+    "endereco": "Rua Doutor Bacelar, 780",
+    "aluguel": 3000,
+    "condominio": 450,
+    "iptu": 50,
+    "area": 28,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 1,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1765379947_6d587fcd92927ee6a90be7132b12a6dc.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1765379947_6d587fcd92927ee6a90be7132b12a6dc.jpg"
+    ]
+  },
+  {
+    "id": "56058",
+    "bairro": "Vila Clementino",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04026-001",
+    "endereco": "Rua Doutor Bacelar, 780",
+    "aluguel": 3200,
+    "condominio": 450,
+    "iptu": 50,
+    "area": 28,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 1,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1765379282_3dcfe7d620d44a941b1fbbf215bc211c.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1765379282_3dcfe7d620d44a941b1fbbf215bc211c.jpg"
+    ]
+  },
+  {
+    "id": "56057",
+    "bairro": "Vila Clementino",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04026-001",
+    "endereco": "Rua Doutor Bacelar, 780",
+    "aluguel": 3600,
+    "condominio": 500,
+    "iptu": 100,
+    "area": 28,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 1,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1765378017_f1a2a8a38313ad9cfe1a1370476d9edb.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1765378017_f1a2a8a38313ad9cfe1a1370476d9edb.jpg"
+    ]
+  },
+  {
+    "id": "56056",
+    "bairro": "Vila Clementino",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04026-001",
+    "endereco": "Rua Doutor Bacelar, 780",
+    "aluguel": 3100,
+    "condominio": 500,
+    "iptu": 100,
+    "area": 28,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 1,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1765377826_f23d269091e18f1e4bf1e4bc10037874.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1765377826_f23d269091e18f1e4bf1e4bc10037874.jpg"
+    ]
+  },
+  {
+    "id": "56025",
+    "bairro": "Vila Clementino",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04026-001",
+    "endereco": "Rua Doutor Bacelar, 780",
+    "aluguel": 3450,
+    "condominio": 480,
+    "iptu": 70,
+    "area": 28,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 1,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1763756235_e0c39b313a2daf5fac5e86d0fae73ba8.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1763756235_e0c39b313a2daf5fac5e86d0fae73ba8.jpg"
+    ]
+  },
+  {
+    "id": "56023",
+    "bairro": "Vila Clementino",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04026-001",
+    "endereco": "Rua Doutor Bacelar, 780",
+    "aluguel": 2330,
+    "condominio": 500,
+    "iptu": 70,
+    "area": 28,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 1,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1763754074_1e8b6ab44906912cd3531386f0734394.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1763754074_1e8b6ab44906912cd3531386f0734394.jpg"
+    ]
+  },
+  {
+    "id": "56022",
+    "bairro": "Vila Clementino",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04026-001",
+    "endereco": "Rua Doutor Bacelar, 780",
+    "aluguel": 5600,
+    "condominio": 800,
+    "iptu": 60,
+    "area": 42,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 1,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1763752777_3956558a782c9360fe852a515befc677.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1763752777_3956558a782c9360fe852a515befc677.jpg"
+    ]
+  },
+  {
+    "id": "56021",
+    "bairro": "Vila Clementino",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04026-001",
+    "endereco": "Rua Doutor Bacelar, 780",
+    "aluguel": 2500,
+    "condominio": 283.91,
+    "iptu": 53.1,
+    "area": 28,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 1,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1763751178_6b98fe62878cc794228770495473feca.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1763751178_6b98fe62878cc794228770495473feca.jpg"
+    ]
+  },
+  {
+    "id": "56020",
+    "bairro": "Vila Clementino",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04026-001",
+    "endereco": "Rua Doutor Bacelar, 780",
+    "aluguel": 2500,
+    "condominio": 500,
+    "iptu": 20,
+    "area": 28,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 1,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1763750147_87bd4bd6fe08f2e0118dcfa3e6054776.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1763750147_87bd4bd6fe08f2e0118dcfa3e6054776.jpg"
+    ]
+  },
+  {
+    "id": "56019",
+    "bairro": "Vila Clementino",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04026-001",
+    "endereco": "Rua Doutor Bacelar, 780",
+    "aluguel": 2000,
+    "condominio": 477.13,
+    "iptu": 45.6,
+    "area": 28,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 1,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1763748634_da77917be6f3cd7b7b1474af30abedda.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1763748634_da77917be6f3cd7b7b1474af30abedda.jpg"
+    ]
+  },
+  {
+    "id": "56018",
+    "bairro": "Vila Clementino",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04026-001",
+    "endereco": "Rua Doutor Bacelar, 780",
+    "aluguel": 5000,
+    "condominio": 700,
+    "iptu": 60,
+    "area": 42,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 1,
+    "vagas": 1,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1763747575_c9294b5f75c28915b94c2ab794b94c5a.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1763747575_c9294b5f75c28915b94c2ab794b94c5a.jpg"
+    ]
+  },
+  {
+    "id": "56017",
+    "bairro": "Vila Clementino",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04026-001",
+    "endereco": "Rua Doutor Bacelar, 780",
+    "aluguel": 3000,
+    "condominio": 283.91,
+    "iptu": 53.1,
+    "area": 28,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 1,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1763746658_e73069a6c3a761442669362c55f9077d.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1763746658_e73069a6c3a761442669362c55f9077d.jpg"
+    ]
+  },
+  {
+    "id": "55962",
+    "bairro": "Vila Clementino",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04026-001",
+    "endereco": "Rua Doutor Bacelar, 780",
+    "aluguel": 3050,
+    "condominio": 450,
+    "iptu": 50,
+    "area": 30,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 0,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1761847458_cf30c3529d534c3541c4b2d9d9cd3aee.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1761847458_cf30c3529d534c3541c4b2d9d9cd3aee.jpg"
+    ]
+  },
+  {
+    "id": "56417",
+    "bairro": "Vila Clementino",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "60175-005",
+    "endereco": "Rua Doutor Bacelar, 780",
+    "aluguel": 3200,
+    "condominio": 450,
+    "iptu": 50,
+    "area": 27,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 0,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1778544091_66dd1a2ac0be88975de8ac8d49be9583.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1778544091_66dd1a2ac0be88975de8ac8d49be9583.jpg"
+    ]
+  },
+  {
+    "id": "56508",
+    "bairro": "Vila Clementino",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04037-020",
+    "endereco": "Rua Mairinque, 70",
+    "aluguel": 3700,
+    "condominio": 300,
+    "iptu": 92,
+    "area": 30,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 0,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1782232324_4f6b999904ea5fd69b95912fd6b836ea.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1782232324_4f6b999904ea5fd69b95912fd6b836ea.jpg"
+    ]
+  },
+  {
+    "id": "56507",
+    "bairro": "Vila Clementino",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04037-020",
+    "endereco": "Rua Mairinque, 70",
+    "aluguel": 3700,
+    "condominio": 300,
+    "iptu": 92,
+    "area": 30,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 0,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1782231631_fc0584f8862b7697f0edd39228575bed.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1782231631_fc0584f8862b7697f0edd39228575bed.jpg"
+    ]
+  },
+  {
+    "id": "56481",
+    "bairro": "Vila Clementino",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04026-040",
+    "endereco": "Rua Agostinho Rodrigues Filho, 546",
+    "aluguel": 2800,
+    "condominio": 350,
+    "iptu": 102,
+    "area": 27,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 0,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1781552293_30ccc893de99e0cd7c668ea1873744bb.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1781552293_30ccc893de99e0cd7c668ea1873744bb.jpg"
+    ]
+  },
+  {
+    "id": "56543",
+    "bairro": "Vila Clementino",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04026-001",
+    "endereco": "Rua Doutor Bacelar, 780",
+    "aluguel": 3050,
+    "condominio": 450,
+    "iptu": 50,
+    "area": 26,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 0,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1783340498_986b271839c87a194e7b905d73b117c2.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1783340498_986b271839c87a194e7b905d73b117c2.jpg"
+    ]
+  },
+  {
+    "id": "56535",
+    "bairro": "Vila Clementino",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04026-001",
+    "endereco": "Rua Doutor Bacelar, 780",
+    "aluguel": 3100,
+    "condominio": 450,
+    "iptu": 50,
+    "area": 26,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 0,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1783009148_4c13104a3abae6133a99ff605542adf6.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1783009148_4c13104a3abae6133a99ff605542adf6.jpg"
+    ]
+  },
+  {
+    "id": "56526",
+    "bairro": "Vila Clementino",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04026-001",
+    "endereco": "Rua Doutor Bacelar, 780",
+    "aluguel": 5000,
+    "condominio": 900,
+    "iptu": 100,
+    "area": 42,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 1,
+    "vagas": 1,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1782844704_0b99ce18a3cbb0804b8d0bf5aa201df7.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1782844704_0b99ce18a3cbb0804b8d0bf5aa201df7.jpg"
+    ]
+  },
+  {
+    "id": "56353",
+    "bairro": "Vila Clementino",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04026-001",
+    "endereco": "Rua Doutor Bacelar, 780",
+    "aluguel": 3200,
+    "condominio": 450,
+    "iptu": 50,
+    "area": 26,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 1,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1775747775_51f99d107132b4b7fd1fe61453111173.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1775747775_51f99d107132b4b7fd1fe61453111173.jpg"
+    ]
+  },
+  {
+    "id": "55797",
+    "bairro": "Moema",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04075-020",
+    "endereco": "Avenida Açocê, 50",
+    "aluguel": 5000,
+    "condominio": 1000,
+    "iptu": 250,
+    "area": 35,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 0,
+    "vagas": 1,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1754327179_0529574ade2f29a53290399c1e98d03b.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1754327179_0529574ade2f29a53290399c1e98d03b.jpg"
+    ]
+  },
+  {
+    "id": "55823",
+    "bairro": "Planalto Paulista",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04078-001",
+    "endereco": "Avenida Jamaris, 407",
+    "aluguel": 3400,
+    "condominio": 450,
+    "iptu": 83,
+    "area": 26,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 0,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1755538124_a6ea248ab8d064af7f1f6c3492d91f57.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1755538124_a6ea248ab8d064af7f1f6c3492d91f57.jpg"
+    ]
+  },
+  {
+    "id": "56413",
+    "bairro": "Vila Mariana",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04126-000",
+    "endereco": "Rua Jorge Tibiriçá, 50",
+    "aluguel": 3100,
+    "condominio": 374,
+    "iptu": 0,
+    "area": 28,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 0,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1778285110_67f01c3bc9e7c07049ba5f803ac593cd.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1778285110_67f01c3bc9e7c07049ba5f803ac593cd.jpg"
+    ]
+  },
+  {
+    "id": "55954",
+    "bairro": "Vila Mariana",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04010-200",
+    "endereco": "Rua Domingos de Morais, 1832",
+    "aluguel": 3500,
+    "condominio": 540,
+    "iptu": 108,
+    "area": 32,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 0,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1761740740_cd476ad43cd8ef257e6c965c376c27fd.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1761740740_cd476ad43cd8ef257e6c965c376c27fd.jpg"
+    ]
+  },
+  {
+    "id": "56131",
+    "bairro": "Vila Nova Conceição",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04520-010",
+    "endereco": "Rua Inhambu, 66",
+    "aluguel": 48000,
+    "condominio": 8200,
+    "iptu": 3500,
+    "area": 288,
+    "quartos": 3,
+    "banheiros": 5,
+    "suites": 3,
+    "vagas": 5,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1767636446_93a227be6c42ddd67eb13ce833041965.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1767636446_93a227be6c42ddd67eb13ce833041965.jpg"
+    ]
+  },
+  {
+    "id": "55778",
+    "bairro": "Indianópolis",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04524-020",
+    "endereco": "Avenida Ibijaú, 355",
+    "aluguel": 8350,
+    "condominio": 1200,
+    "iptu": 450,
+    "area": 70,
+    "quartos": 2,
+    "banheiros": 2,
+    "suites": 0,
+    "vagas": 1,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1753118862_60dd85a9669275602c75fcddd1cfc6ae.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1753118862_60dd85a9669275602c75fcddd1cfc6ae.jpg"
+    ]
+  },
+  {
+    "id": "56139",
+    "bairro": "Moema",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04512-001",
+    "endereco": "Rua Diogo Jácome, 554",
+    "aluguel": 6900,
+    "condominio": 1422,
+    "iptu": 280,
+    "area": 48,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 1,
+    "vagas": 1,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1767721527_4a1d22aced31a3874d64e237ad18e652.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1767721527_4a1d22aced31a3874d64e237ad18e652.jpg"
+    ]
+  },
+  {
+    "id": "56120",
+    "bairro": "Vila Mariana",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04101-200",
+    "endereco": "Rua Vergueiro, 2469",
+    "aluguel": 4900,
+    "condominio": 570,
+    "iptu": 130,
+    "area": 24,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 0,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1767015725_0478734cb767c09395fcdadcc1f80a51.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1767015725_0478734cb767c09395fcdadcc1f80a51.jpg"
+    ]
+  },
+  {
+    "id": "56412",
+    "bairro": "Vila Mariana",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04013-060",
+    "endereco": "Rua Azevedo Macedo, 142",
+    "aluguel": 3000,
+    "condominio": 450,
+    "iptu": 50,
+    "area": 24,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 0,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1778277134_748d5f10d1c677b771ffcaebd155c4f1.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1778277134_748d5f10d1c677b771ffcaebd155c4f1.jpg"
+    ]
+  },
+  {
+    "id": "55960",
+    "bairro": "Vila Mariana",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04106-020",
+    "endereco": "Rua Manuel de Paiva, 76",
+    "aluguel": 3300,
+    "condominio": 1200,
+    "iptu": 150,
+    "area": 45,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 0,
+    "vagas": 1,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1761827097_b3a289e23d1c754e4e193b88260e6b95.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1761827097_b3a289e23d1c754e4e193b88260e6b95.jpg"
+    ]
+  },
+  {
+    "id": "56531",
+    "bairro": "Moema",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04086-010",
+    "endereco": "Avenida dos Carinás, 64",
+    "aluguel": 4500,
+    "condominio": 480,
+    "iptu": 0,
+    "area": 35,
+    "quartos": 2,
+    "banheiros": 1,
+    "suites": 0,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1783349222_1475ef5656f9711a84c5155881ad3de7.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1783349222_1475ef5656f9711a84c5155881ad3de7.jpg"
+    ]
+  },
+  {
+    "id": "56105",
+    "bairro": "Vila Mariana",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04111-081",
+    "endereco": "Rua Dona Brígida, 620",
+    "aluguel": 3200,
+    "condominio": 320,
+    "iptu": 100,
+    "area": 25,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 1,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1766408583_b8d10a0e3d052d274f325e9b4b6af538.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1766408583_b8d10a0e3d052d274f325e9b4b6af538.jpg"
+    ]
+  },
+  {
+    "id": "56429",
+    "bairro": "Vila Mariana",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04111-081",
+    "endereco": "Rua Dona Brígida, 620",
+    "aluguel": 2290,
+    "condominio": 540,
+    "iptu": 45,
+    "area": 25,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 1,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1779195141_6d46b78d372735a67c3b9682e7245f3a.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1779195141_6d46b78d372735a67c3b9682e7245f3a.jpg"
+    ]
+  },
+  {
+    "id": "55952",
+    "bairro": "Vila Mariana",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04106-000",
+    "endereco": "Rua Machado de Assis, 150",
+    "aluguel": 2700,
+    "condominio": 550,
+    "iptu": 0,
+    "area": 29,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 0,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1761673456_15fd69b10d5b574dd2c39cd91039739c.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1761673456_15fd69b10d5b574dd2c39cd91039739c.jpg"
+    ]
+  },
+  {
+    "id": "56326",
+    "bairro": "Vila Mariana",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04106-000",
+    "endereco": "Rua Machado de Assis, 150",
+    "aluguel": 3200,
+    "condominio": 550,
+    "iptu": 0,
+    "area": 30,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 0,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1774872237_816f0e36ba39ae244f336f0e2452af9f.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1774872237_816f0e36ba39ae244f336f0e2452af9f.jpg"
+    ]
+  },
+  {
+    "id": "56424",
+    "bairro": "Vila Mariana",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04105-001",
+    "endereco": "Rua Doutor Nicolau de Sousa Queirós, 461",
+    "aluguel": 3100,
+    "condominio": 1210,
+    "iptu": 25,
+    "area": 31,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 0,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1778775762_d6d8e58086a526c2d72f248a8b9bfae0.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1778775762_d6d8e58086a526c2d72f248a8b9bfae0.jpg"
+    ]
+  },
+  {
+    "id": "55934",
+    "bairro": "Vila Mariana",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04101-000",
+    "endereco": "Rua Vergueiro, 1825",
+    "aluguel": 6000,
+    "condominio": 1328,
+    "iptu": 200,
+    "area": 35,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 0,
+    "vagas": 0,
+    "fotos": []
+  },
+  {
+    "id": "55935",
+    "bairro": "Vila Mariana",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04101-000",
+    "endereco": "Rua Vergueiro, 1825",
+    "aluguel": 4000,
+    "condominio": 1003,
+    "iptu": 140,
+    "area": 27,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 0,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1761139820_286a08aea0830f25c14aec3ef03a446a.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1761139820_286a08aea0830f25c14aec3ef03a446a.jpg"
+    ]
+  },
+  {
+    "id": "56128",
+    "bairro": "Paraíso",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04006-052",
+    "endereco": "Rua Afonso de Freitas, 700",
+    "aluguel": 5700,
+    "condominio": 860,
+    "iptu": 330,
+    "area": 83,
+    "quartos": 2,
+    "banheiros": 1,
+    "suites": 0,
+    "vagas": 1,
+    "fotos": []
+  },
+  {
+    "id": "56405",
+    "bairro": "Vila Mariana",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04105-002",
+    "endereco": "Rua Doutor Nicolau de Sousa Queirós, 673",
+    "complemento": "Ap: 1204",
+    "aluguel": 3390,
+    "condominio": 455,
+    "iptu": 0,
+    "area": 0,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 1,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1778080477_b1a1e3e26c7e1bc4d43d08f4219b3801.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1778080477_b1a1e3e26c7e1bc4d43d08f4219b3801.jpg"
+    ]
+  },
+  {
+    "id": "56143",
+    "bairro": "Campo Belo",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04613-003",
+    "endereco": "Rua Otávio Tarquínio de Sousa, 1152",
+    "aluguel": 2700,
+    "condominio": 720,
+    "iptu": 150,
+    "area": 28,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 0,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1767797890_786d0151d7b0242d8126e9f6aff6862a.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1767797890_786d0151d7b0242d8126e9f6aff6862a.jpg"
+    ]
+  },
+  {
+    "id": "56129",
+    "bairro": "Vila Olímpia",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04547-001",
+    "endereco": "Rua Gomes de Carvalho, 300",
+    "aluguel": 5150,
+    "condominio": 350,
+    "iptu": 974,
+    "area": 43,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 0,
+    "vagas": 1,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1767369331_13d89bb07c81c05539ef6446e125df21.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1767369331_13d89bb07c81c05539ef6446e125df21.jpg"
+    ]
+  },
+  {
+    "id": "56140",
+    "bairro": "Vila Nova Conceição",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04543-120",
+    "endereco": "Rua Doutor Eduardo de Souza Aranha, 252",
+    "aluguel": 30000,
+    "condominio": 2900,
+    "iptu": 1200,
+    "area": 147,
+    "quartos": 3,
+    "banheiros": 4,
+    "suites": 3,
+    "vagas": 2,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1767722903_3dd063250697494ee85a5c8155483184.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1767722903_3dd063250697494ee85a5c8155483184.jpg"
+    ]
+  },
+  {
+    "id": "56497",
+    "bairro": "Nova Klabin",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04125-210",
+    "endereco": "Rua Adib Miguel Haddad, 28",
+    "aluguel": 5500,
+    "condominio": 1000,
+    "iptu": 150,
+    "area": 70,
+    "quartos": 3,
+    "banheiros": 2,
+    "suites": 0,
+    "vagas": 1,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1781877122_aacf1135224ccaa97dd6bc9e371e5ffb.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1781877122_aacf1135224ccaa97dd6bc9e371e5ffb.jpg"
+    ]
+  },
+  {
+    "id": "56498",
+    "bairro": "Nova Klabin",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04125-210",
+    "endereco": "Rua Adib Miguel Haddad, 28",
+    "aluguel": 5000,
+    "condominio": 1000,
+    "iptu": 150,
+    "area": 64,
+    "quartos": 2,
+    "banheiros": 2,
+    "suites": 0,
+    "vagas": 1,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1781878285_1c40668faa23d62d7ab835ac3b714234.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1781878285_1c40668faa23d62d7ab835ac3b714234.jpg"
+    ]
+  },
+  {
+    "id": "56499",
+    "bairro": "Nova Klabin",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04125-210",
+    "endereco": "Rua Adib Miguel Haddad, 28",
+    "aluguel": 5800,
+    "condominio": 1000,
+    "iptu": 150,
+    "area": 70,
+    "quartos": 3,
+    "banheiros": 2,
+    "suites": 0,
+    "vagas": 1,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1781879238_8fc9e5de67d715e01f1f5f223371bde3.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1781879238_8fc9e5de67d715e01f1f5f223371bde3.jpg"
+    ]
+  },
+  {
+    "id": "56363",
+    "bairro": "Vila Olímpia",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04546-043",
+    "endereco": "Rua Quatá, 555",
+    "aluguel": 3450,
+    "condominio": 410,
+    "iptu": 70,
+    "area": 30,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 0,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1776178245_ed9aa85546cf05df2ae23f4a71385e1b.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1776178245_ed9aa85546cf05df2ae23f4a71385e1b.jpg"
+    ]
+  },
+  {
+    "id": "56218",
+    "bairro": "Paraíso",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "02327-100",
+    "endereco": "Rua do Paraíso, 667",
+    "aluguel": 3900,
+    "condominio": 768,
+    "iptu": 167,
+    "area": 54,
+    "quartos": 1,
+    "banheiros": 2,
+    "suites": 0,
+    "vagas": 1,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1770053125_f47b73a4978db612a4d2f9d47255710a.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1770053125_f47b73a4978db612a4d2f9d47255710a.jpg"
+    ]
+  },
+  {
+    "id": "56219",
+    "bairro": "Paraíso",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "02327-100",
+    "endereco": "Rua do Paraíso, 667",
+    "aluguel": 3900,
+    "condominio": 580,
+    "iptu": 130,
+    "area": 50,
+    "quartos": 1,
+    "banheiros": 2,
+    "suites": 0,
+    "vagas": 1,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1770055309_a25c165a49aa8b59ed50629d56cb2108.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1770055309_a25c165a49aa8b59ed50629d56cb2108.jpg"
+    ]
+  },
+  {
+    "id": "56563",
+    "bairro": "Itaim Bibi",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04533-000",
+    "endereco": "Rua Tabapuã, 114",
+    "aluguel": 5715.18,
+    "condominio": 2820,
+    "iptu": 454.82,
+    "area": 134,
+    "quartos": 3,
+    "banheiros": 3,
+    "suites": 1,
+    "vagas": 1,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1784142864_f87c2bd78835d1a88914a9c863f0e19e.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1784142864_f87c2bd78835d1a88914a9c863f0e19e.jpg"
+    ]
+  },
+  {
+    "id": "56138",
+    "bairro": "Vila Olímpia",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04548-003",
+    "endereco": "Avenida Doutor Cardoso de Melo, 585",
+    "aluguel": 24500,
+    "condominio": 3617.62,
+    "iptu": 2090,
+    "area": 210,
+    "quartos": 3,
+    "banheiros": 5,
+    "suites": 3,
+    "vagas": 4,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1767720239_13cb5418eb7a7fc2dde0ce9d71a17e8f.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1767720239_13cb5418eb7a7fc2dde0ce9d71a17e8f.jpg"
+    ]
+  },
+  {
+    "id": "55992",
+    "bairro": "Vila Olímpia",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04550-003",
+    "endereco": "Rua Alvorada, 616",
+    "aluguel": 2850,
+    "condominio": 490,
+    "iptu": 65,
+    "area": 30,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 1,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1762880249_d546aaf438f9916c9a15d93fe304e149.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1762880249_d546aaf438f9916c9a15d93fe304e149.jpg"
+    ]
+  },
+  {
+    "id": "56101",
+    "bairro": "Vila Olímpia",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04550-003",
+    "endereco": "Rua Alvorada, 616",
+    "aluguel": 3400,
+    "condominio": 508,
+    "iptu": 45,
+    "area": 26,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 1,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1768335335_31f983c3b720eb24728c04ef6aeaf635.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1768335335_31f983c3b720eb24728c04ef6aeaf635.jpg"
+    ]
+  },
+  {
+    "id": "56102",
+    "bairro": "Vila Olímpia",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04550-003",
+    "endereco": "Rua Alvorada, 616",
+    "aluguel": 3500,
+    "condominio": 508,
+    "iptu": 45,
+    "area": 26,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 1,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1766175600_0f44a1c513fab1307a4cb35cad6bb393.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1766175600_0f44a1c513fab1307a4cb35cad6bb393.jpg"
+    ]
+  },
+  {
+    "id": "56000",
+    "bairro": "Campo Belo",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04616-005",
+    "endereco": "Rua Pascal, 1973",
+    "aluguel": 8500,
+    "condominio": 1500,
+    "iptu": 400,
+    "area": 95,
+    "quartos": 2,
+    "banheiros": 2,
+    "suites": 1,
+    "vagas": 1,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1768584753_dca222f1e1375c226b5da501cf7eca9f.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1768584753_dca222f1e1375c226b5da501cf7eca9f.jpg"
+    ]
+  },
+  {
+    "id": "56271",
+    "bairro": "Jardim Paulista",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "01425-020",
+    "endereco": "Rua Queluz, 109",
+    "aluguel": 9500,
+    "condominio": 2222,
+    "iptu": 1122.74,
+    "area": 178,
+    "quartos": 3,
+    "banheiros": 3,
+    "suites": 1,
+    "vagas": 2,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1772202847_b4bd2afa573d3114ff46ecdd03505ed9.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1772202847_b4bd2afa573d3114ff46ecdd03505ed9.jpg"
+    ]
+  },
+  {
+    "id": "55822",
+    "bairro": "Jardim Paulista",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "01423-001",
+    "endereco": "Rua José Maria Lisboa, 177",
+    "aluguel": 7400,
+    "condominio": 1400,
+    "iptu": 393.63,
+    "area": 108,
+    "quartos": 3,
+    "banheiros": 3,
+    "suites": 0,
+    "vagas": 1,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1755524469_af9c7e2af0d6a596ec2b8203187b892e.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1755524469_af9c7e2af0d6a596ec2b8203187b892e.jpg"
+    ]
+  },
+  {
+    "id": "56562",
+    "bairro": "Brooklin",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04555-001",
+    "endereco": "Avenida Santo Amaro, 3527",
+    "aluguel": 3400,
+    "condominio": 500,
+    "iptu": 100,
+    "area": 24,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 0,
+    "vagas": 1,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1784140252_172d3ce48fee97fe3342786315641462.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1784140252_172d3ce48fee97fe3342786315641462.jpg"
+    ]
+  },
+  {
+    "id": "56006",
+    "bairro": "Campo Belo",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04618-003",
+    "endereco": "Rua João de Sousa Dias, 939",
+    "aluguel": 2650,
+    "condominio": 323,
+    "iptu": 44,
+    "area": 27,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 0,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1763404701_b8035cd2cb48ee76d64cd1e64f432e0d.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1763404701_b8035cd2cb48ee76d64cd1e64f432e0d.jpg"
+    ]
+  },
+  {
+    "id": "56491",
+    "bairro": "Jardim Paulista",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "01420-000",
+    "endereco": "Alameda Jaú, 20",
+    "aluguel": 3500,
+    "condominio": 727,
+    "iptu": 0,
+    "area": 26,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 0,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1781789401_5f72593ffb763b4cd67190330cdde505.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1781789401_5f72593ffb763b4cd67190330cdde505.jpg"
+    ]
+  },
+  {
+    "id": "56492",
+    "bairro": "Jardim Paulista",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "01420-000",
+    "endereco": "Alameda Jaú, 20",
+    "aluguel": 3700,
+    "condominio": 727,
+    "iptu": 0,
+    "area": 26,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 0,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1781790348_556170dcc1133251cea5c60cdefaa17d.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1781790348_556170dcc1133251cea5c60cdefaa17d.jpg"
+    ]
+  },
+  {
+    "id": "56524",
+    "bairro": "Jardim Paulista",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "01420-000",
+    "endereco": "Alameda Jaú, 20",
+    "aluguel": 3600,
+    "condominio": 727,
+    "iptu": 0,
+    "area": 26,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 0,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1782826480_2033d6018c56303f3ed6494ff625df73.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1782826480_2033d6018c56303f3ed6494ff625df73.jpg"
+    ]
+  },
+  {
+    "id": "55890",
+    "bairro": "Vila Olímpia",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04547-004",
+    "endereco": "Rua Gomes de Carvalho, 1146",
+    "aluguel": 5850,
+    "condominio": 1000,
+    "iptu": 134,
+    "area": 55,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 1,
+    "vagas": 1,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1758898497_d75d9989e8826b3b21ddfb07e68d1968.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1758898497_d75d9989e8826b3b21ddfb07e68d1968.jpg"
+    ]
+  },
+  {
+    "id": "56559",
+    "bairro": "Vila Olímpia",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04547-090",
+    "endereco": "Rua Júlio Diniz, 145",
+    "aluguel": 3950,
+    "condominio": 1050,
+    "iptu": 490,
+    "area": 54,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 0,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1783966208_aacc63d6b83bbb40c11dc174afe32106.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1783966208_aacc63d6b83bbb40c11dc174afe32106.jpg"
+    ]
+  },
+  {
+    "id": "55983",
+    "bairro": "Itaim Bibi",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04536-070",
+    "endereco": "Rua Manuel Guedes, 135",
+    "aluguel": 7000,
+    "condominio": 2500,
+    "iptu": 500,
+    "area": 135,
+    "quartos": 3,
+    "banheiros": 3,
+    "suites": 1,
+    "vagas": 1,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1762532377_5d613d21e8d033017e612bfb41f14446.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1762532377_5d613d21e8d033017e612bfb41f14446.jpg"
+    ]
+  },
+  {
+    "id": "55808",
+    "bairro": "Cidade Monções",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04565-000",
+    "endereco": "Rua Flórida, 103",
+    "aluguel": 4300,
+    "condominio": 850,
+    "iptu": 200,
+    "area": 40,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 1,
+    "vagas": 1,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1758804258_c5fbc6a0a642d24c0c62f709c241a542.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1758804258_c5fbc6a0a642d24c0c62f709c241a542.jpg"
+    ]
+  },
+  {
+    "id": "55898",
+    "bairro": "Cidade Monções",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04565-000",
+    "endereco": "Rua Flórida, 103",
+    "aluguel": 3900,
+    "condominio": 850,
+    "iptu": 0,
+    "area": 40,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 1,
+    "vagas": 1,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1759350826_5b9d6cd5f871c1548fa30be0987d3d98.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1759350826_5b9d6cd5f871c1548fa30be0987d3d98.jpg"
+    ]
+  },
+  {
+    "id": "55989",
+    "bairro": "Bela Vista",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "01321-001",
+    "endereco": "Rua Martiniano de Carvalho, 807",
+    "aluguel": 4800,
+    "condominio": 1300,
+    "iptu": 180,
+    "area": 50,
+    "quartos": 1,
+    "banheiros": 2,
+    "suites": 0,
+    "vagas": 1,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1762868689_528205749894a7a40987bf80ab7dc11e.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1762868689_528205749894a7a40987bf80ab7dc11e.jpg"
+    ]
+  },
+  {
+    "id": "55815",
+    "bairro": "Jardim Paulista",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "01422-002",
+    "endereco": "Alameda Franca, 584",
+    "aluguel": 6220,
+    "condominio": 2380,
+    "iptu": 900,
+    "area": 62,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 0,
+    "vagas": 1,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1754931529_2eaf904dab0b32e0e5d0adefdd630ec5.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1754931529_2eaf904dab0b32e0e5d0adefdd630ec5.jpg"
+    ]
+  },
+  {
+    "id": "56152",
+    "bairro": "Vila Olímpia",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04551-090",
+    "endereco": "Alameda Raja Gabaglia, 271",
+    "aluguel": 3800,
+    "condominio": 400,
+    "iptu": 0,
+    "area": 27,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 0,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1768226075_a0f070e89f1ccd112a0fb20aba6f8025.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1768226075_a0f070e89f1ccd112a0fb20aba6f8025.jpg"
+    ]
+  },
+  {
+    "id": "56164",
+    "bairro": "Jardim Oriental",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04346-010",
+    "endereco": "Rua Murutinga, 59",
+    "aluguel": 3200,
+    "condominio": 0,
+    "iptu": 180,
+    "area": 60,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 1,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1768411666_b96aea83c2d017954655f530628f4649.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1768411666_b96aea83c2d017954655f530628f4649.jpg"
+    ]
+  },
+  {
+    "id": "56135",
+    "bairro": "Brooklin",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04622-001",
+    "endereco": "Rua Laplace, 1099",
+    "aluguel": 19000,
+    "condominio": 3200,
+    "iptu": 846,
+    "area": 383,
+    "quartos": 3,
+    "banheiros": 5,
+    "suites": 3,
+    "vagas": 4,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1767706716_a416f01f2b8a916296f5f9bfae09215e.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1767706716_a416f01f2b8a916296f5f9bfae09215e.jpg"
+    ]
+  },
+  {
+    "id": "56010",
+    "bairro": "Brooklin",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04582-030",
+    "endereco": "Rua Godói Colaço, 575",
+    "aluguel": 2700,
+    "condominio": 400,
+    "iptu": 0,
+    "area": 28,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 1,
+    "vagas": 1,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1763559469_9eb25ef3427f4c674aff55dcb7409405.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1763559469_9eb25ef3427f4c674aff55dcb7409405.jpg"
+    ]
+  },
+  {
+    "id": "56190",
+    "bairro": "Brooklin",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04582-030",
+    "endereco": "Rua Godói Colaço, 575",
+    "aluguel": 2500,
+    "condominio": 398.26,
+    "iptu": 73.73,
+    "area": 28,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 0,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1769085362_2a16e71488c2a5f354524e8c8d0585ef.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1769085362_2a16e71488c2a5f354524e8c8d0585ef.jpg"
+    ]
+  },
+  {
+    "id": "56206",
+    "bairro": "Brooklin",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04582-030",
+    "endereco": "Rua Godói Colaço, 575",
+    "aluguel": 3200,
+    "condominio": 398.26,
+    "iptu": 73.73,
+    "area": 26,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 0,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1769541579_55df071185c55e7a64386d9b5be99863.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1769541579_55df071185c55e7a64386d9b5be99863.jpg"
+    ]
+  },
+  {
+    "id": "56207",
+    "bairro": "Vila Cordeiro",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04582-030",
+    "endereco": "Rua Godói Colaço, 575",
+    "aluguel": 3100,
+    "condominio": 398.26,
+    "iptu": 73.73,
+    "area": 26,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 0,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1769542722_0692746f01b7b220183c7c4d75f641ae.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1769542722_0692746f01b7b220183c7c4d75f641ae.jpg"
+    ]
+  },
+  {
+    "id": "56267",
+    "bairro": "Vila Cordeiro",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04582-030",
+    "endereco": "Rua Godói Colaço, 575",
+    "aluguel": 2800,
+    "condominio": 415,
+    "iptu": 90,
+    "area": 24,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 1,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1772116522_a209054dc2f4c8d00750ab09d9f8a1b4.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1772116522_a209054dc2f4c8d00750ab09d9f8a1b4.jpg"
+    ]
+  },
+  {
+    "id": "56306",
+    "bairro": "Brooklin",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04582-030",
+    "endereco": "Rua Godói Colaço, 575",
+    "aluguel": 2800,
+    "condominio": 415,
+    "iptu": 85,
+    "area": 25,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 1,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1773239092_34ae230fac0e1c33b1b09c85b8492f82.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1773239092_34ae230fac0e1c33b1b09c85b8492f82.jpg"
+    ]
+  },
+  {
+    "id": "56307",
+    "bairro": "Brooklin",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04582-030",
+    "endereco": "Rua Godói Colaço, 575",
+    "aluguel": 2800,
+    "condominio": 415,
+    "iptu": 50,
+    "area": 25,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 1,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1773240358_a8f5f66efce892c4ee4455ddea878e42.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1773240358_a8f5f66efce892c4ee4455ddea878e42.jpg"
+    ]
+  },
+  {
+    "id": "56308",
+    "bairro": "Brooklin",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04582-030",
+    "endereco": "Rua Godói Colaço, 575",
+    "aluguel": 2500,
+    "condominio": 415,
+    "iptu": 90,
+    "area": 25,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 1,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1773241116_280f0a8f1a0d40b7d33a56f083eaf568.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1773241116_280f0a8f1a0d40b7d33a56f083eaf568.jpg"
+    ]
+  },
+  {
+    "id": "56317",
+    "bairro": "Brooklin",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04582-030",
+    "endereco": "Rua Godói Colaço, 575",
+    "aluguel": 2800,
+    "condominio": 407,
+    "iptu": 0,
+    "area": 26,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 0,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1773840805_148e35044133a3d0a31da003f939a681.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1773840805_148e35044133a3d0a31da003f939a681.jpg"
+    ]
+  },
+  {
+    "id": "56325",
+    "bairro": "Brooklin",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04582-030",
+    "endereco": "Rua Godói Colaço, 575",
+    "aluguel": 2800,
+    "condominio": 415,
+    "iptu": 90,
+    "area": 26,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 0,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1774530702_dae0aef91ca534fd1dc27ae55f0f30f3.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1774530702_dae0aef91ca534fd1dc27ae55f0f30f3.jpg"
+    ]
+  },
+  {
+    "id": "56364",
+    "bairro": "Brooklin",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04582-030",
+    "endereco": "Rua Godói Colaço, 575",
+    "aluguel": 2700,
+    "condominio": 390,
+    "iptu": 73.73,
+    "area": 26,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 1,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1776180751_be7c53e77b3c0ea1167d92c9768a03bf.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1776180751_be7c53e77b3c0ea1167d92c9768a03bf.jpg"
+    ]
+  },
+  {
+    "id": "56395",
+    "bairro": "Booklin",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04582-030",
+    "endereco": "Rua Godói Colaço, 575",
+    "aluguel": 3100,
+    "condominio": 292,
+    "iptu": 70,
+    "area": 27,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 1,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1777399302_13f82ec932b7b50d37a5f03374df8d7e.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1777399302_13f82ec932b7b50d37a5f03374df8d7e.jpg"
+    ]
+  },
+  {
+    "id": "56453",
+    "bairro": "Brooklin",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04582-030",
+    "endereco": "Rua Godói Colaço, 575",
+    "aluguel": 2700,
+    "condominio": 350,
+    "iptu": 50,
+    "area": 26,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 0,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1780409226_780222c90cb5a731271765f73c1548ab.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1780409226_780222c90cb5a731271765f73c1548ab.jpg"
+    ]
+  },
+  {
+    "id": "56454",
+    "bairro": "Brooklin",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04582-030",
+    "endereco": "Rua Godói Colaço, 575",
+    "aluguel": 2600,
+    "condominio": 350,
+    "iptu": 50,
+    "area": 26,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 0,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1780410466_b7ef122d8160f9fb278319d56f767408.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1780410466_b7ef122d8160f9fb278319d56f767408.jpg"
+    ]
+  },
+  {
+    "id": "56540",
+    "bairro": "Brooklin",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04582-030",
+    "endereco": "Rua Godói Colaço, 575",
+    "aluguel": 2700,
+    "condominio": 350,
+    "iptu": 90,
+    "area": 26,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 0,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1783106586_2c1a52aeda5a9679a6eb10d1a57af5f3.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1783106586_2c1a52aeda5a9679a6eb10d1a57af5f3.jpg"
+    ]
+  },
+  {
+    "id": "56541",
+    "bairro": "Brooklin",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04582-030",
+    "endereco": "Rua Godói Colaço, 575",
+    "aluguel": 2800,
+    "condominio": 350,
+    "iptu": 90,
+    "area": 26,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 0,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1783107438_b403c6800547bded93075606cd09e909.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1783107438_b403c6800547bded93075606cd09e909.jpg"
+    ]
+  },
+  {
+    "id": "55872",
+    "bairro": "Brooklin",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04603-000",
+    "endereco": "Rua Barão do Triunfo, 314",
+    "aluguel": 2800,
+    "condominio": 906.52,
+    "iptu": 198.76,
+    "area": 45,
+    "quartos": 1,
+    "banheiros": 2,
+    "suites": 1,
+    "vagas": 1,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1758206947_994dd4f15870e23231a1cc24feb485fd.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1758206947_994dd4f15870e23231a1cc24feb485fd.jpg"
+    ]
+  },
+  {
+    "id": "55874",
+    "bairro": "Brooklin",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04603-000",
+    "endereco": "Rua Barão do Triunfo, 314",
+    "aluguel": 2900,
+    "condominio": 850.59,
+    "iptu": 55.32,
+    "area": 40,
+    "quartos": 1,
+    "banheiros": 2,
+    "suites": 1,
+    "vagas": 1,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1758208882_777a33400b760faad88a9081a4c435d2.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1758208882_777a33400b760faad88a9081a4c435d2.jpg"
+    ]
+  },
+  {
+    "id": "55873",
+    "bairro": "Brooklin",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04603-001",
+    "endereco": "Avenida Vereador José Diniz, 2275",
+    "aluguel": 6500,
+    "condominio": 911,
+    "iptu": 371.38,
+    "area": 64,
+    "quartos": 2,
+    "banheiros": 2,
+    "suites": 1,
+    "vagas": 1,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1774295661_f01b5b1baf6055bea9fbe98a5f8548e5.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1774295661_f01b5b1baf6055bea9fbe98a5f8548e5.jpg"
+    ]
+  },
+  {
+    "id": "56175",
+    "bairro": "Brooklin",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04603-001",
+    "endereco": "Avenida Vereador José Diniz, 2275",
+    "aluguel": 7000,
+    "condominio": 950,
+    "iptu": 390,
+    "area": 75,
+    "quartos": 1,
+    "banheiros": 2,
+    "suites": 1,
+    "vagas": 1,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1768504846_6ae551aba382c6fbc3aab35bfcdbdabc.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1768504846_6ae551aba382c6fbc3aab35bfcdbdabc.jpg"
+    ]
+  },
+  {
+    "id": "56358",
+    "bairro": "Brooklin",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04603-001",
+    "endereco": "Avenida Vereador José Diniz, 2275",
+    "aluguel": 5500,
+    "condominio": 910.91,
+    "iptu": 371.38,
+    "area": 66,
+    "quartos": 2,
+    "banheiros": 2,
+    "suites": 1,
+    "vagas": 1,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1775824812_10c60f8b70155bb7feb91c2ab6a2c0c7.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1775824812_10c60f8b70155bb7feb91c2ab6a2c0c7.jpg"
+    ]
+  },
+  {
+    "id": "56329",
+    "bairro": "Brooklin",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04602-010",
+    "endereco": "Rua Sebastião Gomes, 75",
+    "aluguel": 2300,
+    "condominio": 474,
+    "iptu": 78,
+    "area": 24,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 0,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1774889062_ec0577563a229d93b87f1b63c33938e5.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1774889062_ec0577563a229d93b87f1b63c33938e5.jpg"
+    ]
+  },
+  {
+    "id": "56379",
+    "bairro": "Jardim das Acacias",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04704-000",
+    "endereco": "Rua Pássaros e Flores, 56",
+    "aluguel": 7500,
+    "condominio": 2100,
+    "iptu": 460,
+    "area": 100,
+    "quartos": 2,
+    "banheiros": 4,
+    "suites": 1,
+    "vagas": 2,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1776876661_409aa085de4f5366f200d4673a31ffc7.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1776876661_409aa085de4f5366f200d4673a31ffc7.jpg"
+    ]
+  },
+  {
+    "id": "56328",
+    "bairro": "Brooklin",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04602-030",
+    "endereco": "Rua Eleutério, 59",
+    "aluguel": 2700,
+    "condominio": 570,
+    "iptu": 97,
+    "area": 25,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 0,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1774881671_2c92fd87d56b9b86ec79434b8839eeae.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1774881671_2c92fd87d56b9b86ec79434b8839eeae.jpg"
+    ]
+  },
+  {
+    "id": "56335",
+    "bairro": "Brooklin",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04602-030",
+    "endereco": "Rua Eleutério, 59",
+    "aluguel": 3900,
+    "condominio": 800,
+    "iptu": 186,
+    "area": 28,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 1,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1775054078_5f1bed417c3ac8ec84264fb32d7c3cfd.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1775054078_5f1bed417c3ac8ec84264fb32d7c3cfd.jpg"
+    ]
+  },
+  {
+    "id": "56397",
+    "bairro": "Brooklin",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04582-030",
+    "endereco": "Rua Godói Colaço, 575",
+    "aluguel": 2250,
+    "condominio": 292,
+    "iptu": 70,
+    "area": 26,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 0,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1777476497_967b4ef45a73794cdc4f6ff0f9a750ce.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1777476497_967b4ef45a73794cdc4f6ff0f9a750ce.jpg"
+    ]
+  },
+  {
+    "id": "56146",
+    "bairro": "Cerqueira César",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "01414-001",
+    "endereco": "Rua Haddock Lobo, 867",
+    "aluguel": 3600,
+    "condominio": 2417,
+    "iptu": 486,
+    "area": 44,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 0,
+    "vagas": 1,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1767964099_330f14f2595b8c897795a910b378afcf.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1767964099_330f14f2595b8c897795a910b378afcf.jpg"
+    ]
+  },
+  {
+    "id": "56432",
+    "bairro": "Consolação",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "01415-006",
+    "endereco": "Rua Bela Cintra, 1760",
+    "aluguel": 7800,
+    "condominio": 2389,
+    "iptu": 617,
+    "area": 120,
+    "quartos": 3,
+    "banheiros": 3,
+    "suites": 1,
+    "vagas": 1,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1779197799_db582fdd556bc0805dc4aab6f8aaf4d2.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1779197799_db582fdd556bc0805dc4aab6f8aaf4d2.jpg"
+    ]
+  },
+  {
+    "id": "56327",
+    "bairro": "Brooklin",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04707-020",
+    "endereco": "Rua Professor Doutor José Marques da Cruz, 92",
+    "aluguel": 3100,
+    "condominio": 440,
+    "iptu": 210,
+    "area": 30,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 0,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1774876956_9f1cb6d0a483970e2cafcb90d9f06ee7.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1774876956_9f1cb6d0a483970e2cafcb90d9f06ee7.jpg"
+    ]
+  },
+  {
+    "id": "56191",
+    "bairro": "Bela Vista",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "01312-001",
+    "endereco": "Avenida Nove de Julho, 1510",
+    "aluguel": 4500,
+    "condominio": 550,
+    "iptu": 0,
+    "area": 35,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 0,
+    "vagas": 1,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1769086280_546022914cf370c04118836bde513554.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1769086280_546022914cf370c04118836bde513554.jpg"
+    ]
+  },
+  {
+    "id": "56323",
+    "bairro": "Ipiranga",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04208-000",
+    "endereco": "Rua Silva Bueno, 1290",
+    "aluguel": 1900,
+    "condominio": 380,
+    "iptu": 0,
+    "area": 25,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 0,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1774292469_bc06a7683deaa7fc0b3b3e65678e0c78.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1774292469_bc06a7683deaa7fc0b3b3e65678e0c78.jpg"
+    ]
+  },
+  {
+    "id": "56414",
+    "bairro": "Bela Vista",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "01308-000",
+    "endereco": "Rua Barata Ribeiro, 212",
+    "aluguel": 3000,
+    "condominio": 941,
+    "iptu": 59,
+    "area": 31,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 0,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1778297794_c7df97395ac2bd30a32fe4054a99862f.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1778297794_c7df97395ac2bd30a32fe4054a99862f.jpg"
+    ]
+  },
+  {
+    "id": "55956",
+    "bairro": "Jardim das Acacias",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04704-060",
+    "endereco": "Rua Cacilda Becker, 112",
+    "aluguel": 2500,
+    "condominio": 550,
+    "iptu": 0,
+    "area": 27,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 1,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1761749869_c09821dd662a8a170563634e40ab777a.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1761749869_c09821dd662a8a170563634e40ab777a.jpg"
+    ]
+  },
+  {
+    "id": "56195",
+    "bairro": "Jardins",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "01417-010",
+    "endereco": "Rua Doutor Melo Alves, 268",
+    "aluguel": 6028.54,
+    "condominio": 619.63,
+    "iptu": 151.83,
+    "area": 32,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 1,
+    "vagas": 1,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1769112353_44dd2d0bd74ed9d0149c74c7a8ce118d.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1769112353_44dd2d0bd74ed9d0149c74c7a8ce118d.jpg"
+    ]
+  },
+  {
+    "id": "56088",
+    "bairro": "Jardins",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "05401-150",
+    "endereco": "Avenida Rebouças, 1145",
+    "aluguel": 13950,
+    "condominio": 2778,
+    "iptu": 722,
+    "area": 92,
+    "quartos": 2,
+    "banheiros": 3,
+    "suites": 2,
+    "vagas": 1,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1766061580_a4d681d9dc58b6dfeed6c37b40ea7ae5.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1766061580_a4d681d9dc58b6dfeed6c37b40ea7ae5.jpg"
+    ]
+  },
+  {
+    "id": "56193",
+    "bairro": "Jardins",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "01416-001",
+    "endereco": "Rua da Consolação, 2825",
+    "aluguel": 20000,
+    "condominio": 1860,
+    "iptu": 650,
+    "area": 100,
+    "quartos": 2,
+    "banheiros": 1,
+    "suites": 0,
+    "vagas": 1,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1769096042_efd6721de7e753e5882d280f920b362f.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1769096042_efd6721de7e753e5882d280f920b362f.jpg"
+    ]
+  },
+  {
+    "id": "56438",
+    "bairro": "Brooklin",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04702-000",
+    "endereco": "Avenida Santo Amaro, 5176",
+    "aluguel": 2400,
+    "condominio": 500,
+    "iptu": 120,
+    "area": 25,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 1,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1779309894_c06e09114a08f54f1b89eac3c2735f95.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1779309894_c06e09114a08f54f1b89eac3c2735f95.jpg"
+    ]
+  },
+  {
+    "id": "56439",
+    "bairro": "Brooklin",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04702-000",
+    "endereco": "Avenida Santo Amaro, 5176",
+    "aluguel": 2400,
+    "condominio": 500,
+    "iptu": 120,
+    "area": 25,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 1,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1779366324_b0c0d708ed372d242fd161a354b2d0b5.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1779366324_b0c0d708ed372d242fd161a354b2d0b5.jpg"
+    ]
+  },
+  {
+    "id": "56440",
+    "bairro": "Brooklin",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04702-000",
+    "endereco": "Avenida Santo Amaro, 5176",
+    "aluguel": 2400,
+    "condominio": 500,
+    "iptu": 120,
+    "area": 25,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 1,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1779367483_42469f5f5105962caa4ee18292d5a92e.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1779367483_42469f5f5105962caa4ee18292d5a92e.jpg"
+    ]
+  },
+  {
+    "id": "56433",
+    "bairro": "Pinheiros",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "05411-000",
+    "endereco": "Rua Cristiano Viana, 62",
+    "aluguel": 4700,
+    "condominio": 960,
+    "iptu": 293,
+    "area": 45,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 0,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1779202805_6eb8a2c03de69381aa6b848795168e66.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1779202805_6eb8a2c03de69381aa6b848795168e66.jpg"
+    ]
+  },
+  {
+    "id": "55969",
+    "bairro": "Vila Paulista",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04361-000",
+    "endereco": "Rua Jorge Duprat Figueiredo, 811",
+    "aluguel": 3500,
+    "condominio": 1711,
+    "iptu": 480,
+    "area": 166,
+    "quartos": 2,
+    "banheiros": 2,
+    "suites": 1,
+    "vagas": 2,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1761935030_840afe3fa89030d2dbbd670d8bcbc79a.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1761935030_840afe3fa89030d2dbbd670d8bcbc79a.jpg"
+    ]
+  },
+  {
+    "id": "56518",
+    "bairro": "Consolação",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "01304-001",
+    "endereco": "Rua Augusta, 1088",
+    "aluguel": 3000,
+    "condominio": 400,
+    "iptu": 150,
+    "area": 22,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 0,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1782416215_8fde3f9f1e2f18441c3a77526e9dd7a2.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1782416215_8fde3f9f1e2f18441c3a77526e9dd7a2.jpg"
+    ]
+  },
+  {
+    "id": "56423",
+    "bairro": "Bela Vista",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "01316-020",
+    "endereco": "Rua Aguiar de Barros, 69",
+    "aluguel": 2900,
+    "condominio": 440,
+    "iptu": 0,
+    "area": 31,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 0,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1778715783_df2c415bd4cef505b0f4511d38ad4fdc.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1778715783_df2c415bd4cef505b0f4511d38ad4fdc.jpg"
+    ]
+  },
+  {
+    "id": "56300",
+    "bairro": "Santo Amaro",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04709-011",
+    "endereco": "Rua do Estilo Barroco, 695",
+    "aluguel": 3500,
+    "condominio": 400,
+    "iptu": 50,
+    "area": 30,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 1,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1773075059_e4687211973e94b54855f2943a911711.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1773075059_e4687211973e94b54855f2943a911711.jpg"
+    ]
+  },
+  {
+    "id": "56529",
+    "bairro": "Pinheiros",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "05412-001",
+    "endereco": "Rua João Moura, 737",
+    "aluguel": 5500,
+    "condominio": 1500,
+    "iptu": 245,
+    "area": 42,
+    "quartos": 2,
+    "banheiros": 1,
+    "suites": 0,
+    "vagas": 1,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1782928633_6c80c42545e4de7cdef318175d8f9d5c.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1782928633_6c80c42545e4de7cdef318175d8f9d5c.jpg"
+    ]
+  },
+  {
+    "id": "56202",
+    "bairro": "Vila Mascote",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04370-020",
+    "endereco": "Rua Joaquim Morais, 358",
+    "aluguel": 3200,
+    "condominio": 1045,
+    "iptu": 75,
+    "area": 63,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 0,
+    "vagas": 1,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1769448443_1fc504d902314aff497cd1e81590b30b.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1769448443_1fc504d902314aff497cd1e81590b30b.jpg"
+    ]
+  },
+  {
+    "id": "56245",
+    "bairro": "Pinheiros",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "05406-100",
+    "endereco": "Rua Teodoro Sampaio, 1342",
+    "aluguel": 3600,
+    "condominio": 400,
+    "iptu": 0,
+    "area": 25,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 1,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1770820728_d623117e098017e54d6913f0a1726ea6.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1770820728_d623117e098017e54d6913f0a1726ea6.jpg"
+    ]
+  },
+  {
+    "id": "56469",
+    "bairro": "Pinheiros",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "05406-100",
+    "endereco": "Rua Teodoro Sampaio, 1342",
+    "aluguel": 3300,
+    "condominio": 355,
+    "iptu": 109.26,
+    "area": 25,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 1,
+    "vagas": 1,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1781119235_853c23771df9d113f25560b6f69f1bc3.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1781119235_853c23771df9d113f25560b6f69f1bc3.jpg"
+    ]
+  },
+  {
+    "id": "56431",
+    "bairro": "Vila Buarque",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "01221-040",
+    "endereco": "Rua Maria Borba, 67",
+    "aluguel": 3500,
+    "condominio": 1200,
+    "iptu": 20,
+    "area": 38,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 0,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1779197007_a73be29e8a1402fe39d7696d9e19d652.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1779197007_a73be29e8a1402fe39d7696d9e19d652.jpg"
+    ]
+  },
+  {
+    "id": "56337",
+    "bairro": "Pinheiros",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "05424-000",
+    "endereco": "Rua Butantã, 550",
+    "aluguel": 2800,
+    "condominio": 300,
+    "iptu": 0,
+    "area": 26,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 1,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1775072481_57d0ea050904ec337acacd3e40bb7a6c.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1775072481_57d0ea050904ec337acacd3e40bb7a6c.jpg"
+    ]
+  },
+  {
+    "id": "56148",
+    "bairro": "Vila Madalena",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "05436-100",
+    "endereco": "Rua Gonçalo Afonso, 27",
+    "aluguel": 9900,
+    "condominio": 0,
+    "iptu": 1400,
+    "area": 250,
+    "quartos": 3,
+    "banheiros": 2,
+    "suites": 0,
+    "vagas": 2,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1767966579_5c4dba7294943e00f80d7eddac6b2ad4.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1767966579_5c4dba7294943e00f80d7eddac6b2ad4.jpg"
+    ]
+  },
+  {
+    "id": "55980",
+    "bairro": "Pinheiros",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "05427-010",
+    "endereco": "Rua Fernão Dias, 323",
+    "aluguel": 11800,
+    "condominio": 2200,
+    "iptu": 5000,
+    "area": 90,
+    "quartos": 1,
+    "banheiros": 2,
+    "suites": 1,
+    "vagas": 2,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1762350382_422c45ceaede1dbb80c5885b93777968.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1762350382_422c45ceaede1dbb80c5885b93777968.jpg"
+    ]
+  },
+  {
+    "id": "56375",
+    "bairro": "Pinheiros",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "05427-000",
+    "endereco": "Rua Fernão Dias, 374",
+    "aluguel": 4417.8,
+    "condominio": 470,
+    "iptu": 0,
+    "area": 28,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 0,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1776715853_5e0dd4eea7ba9b7e4151f831cab3ce27.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1776715853_5e0dd4eea7ba9b7e4151f831cab3ce27.jpg"
+    ]
+  },
+  {
+    "id": "56384",
+    "bairro": "Pinheiros",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "05427-000",
+    "endereco": "Rua Fernão Dias, 374",
+    "aluguel": 2760,
+    "condominio": 450,
+    "iptu": 50,
+    "area": 25,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 0,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1776973585_895bf3cf20d025afe83e5f9925e7e787.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1776973585_895bf3cf20d025afe83e5f9925e7e787.jpg"
+    ]
+  },
+  {
+    "id": "56385",
+    "bairro": "Pinheiros",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "05427-000",
+    "endereco": "Rua Fernão Dias, 374",
+    "aluguel": 3200,
+    "condominio": 430,
+    "iptu": 0,
+    "area": 30,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 0,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1776974570_8abd8c6c77a2df8cbb54570569c10e1f.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1776974570_8abd8c6c77a2df8cbb54570569c10e1f.jpg"
+    ]
+  },
+  {
+    "id": "56388",
+    "bairro": "Pinheiros",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "05427-000",
+    "endereco": "Rua Fernão Dias, 374",
+    "aluguel": 2900,
+    "condominio": 450,
+    "iptu": 0,
+    "area": 25,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 1,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1777315651_a7e756e65661bd7dfb09518069facb6f.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1777315651_a7e756e65661bd7dfb09518069facb6f.jpg"
+    ]
+  },
+  {
+    "id": "56016",
+    "bairro": "Santo Amaro",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04604-007",
+    "endereco": "Avenida Vereador José Diniz, 3944",
+    "aluguel": 2400,
+    "condominio": 345,
+    "iptu": 82,
+    "area": 25,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 0,
+    "vagas": 0,
+    "fotos": []
+  },
+  {
+    "id": "56516",
+    "bairro": "Butantã",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "05503-001",
+    "endereco": "Avenida Vital Brasil, 157",
+    "aluguel": 3200,
+    "condominio": 283,
+    "iptu": 330,
+    "area": 25,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 0,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1782395066_09e6aabe973db8cd2d777ff8b0315218.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1782395066_09e6aabe973db8cd2d777ff8b0315218.jpg"
+    ]
+  },
+  {
+    "id": "56137",
+    "bairro": "Higienópolis",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "01231-000",
+    "endereco": "Rua Baronesa de Itu, 830",
+    "aluguel": 15000,
+    "condominio": 5300,
+    "iptu": 1700,
+    "area": 212,
+    "quartos": 3,
+    "banheiros": 4,
+    "suites": 3,
+    "vagas": 2,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1767710904_6ced83abb8121f5a581e20174930bbc6.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1767710904_6ced83abb8121f5a581e20174930bbc6.jpg"
+    ]
+  },
+  {
+    "id": "56313",
+    "bairro": "Butantã",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "05509-002",
+    "endereco": "Rua Alvarenga, 1129",
+    "aluguel": 3500,
+    "condominio": 500,
+    "iptu": 0,
+    "area": 34,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 0,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1773666665_fbbfbb59738b998c4b9f03d479c4db47.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1773666665_fbbfbb59738b998c4b9f03d479c4db47.jpg"
+    ]
+  },
+  {
+    "id": "56184",
+    "bairro": "Jardim Marajoara",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04664-000",
+    "endereco": "Avenida Manoel dos Reis Araújo, 52",
+    "aluguel": 15000,
+    "condominio": 0,
+    "iptu": 1650,
+    "area": 540,
+    "quartos": 4,
+    "banheiros": 6,
+    "suites": 4,
+    "vagas": 5,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1769006739_0e38a3ae3a5fac7eb0204d27e5a49eb8.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1769006739_0e38a3ae3a5fac7eb0204d27e5a49eb8.jpg"
+    ]
+  },
+  {
+    "id": "56095",
+    "bairro": "Barra Funda",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "01152-000",
+    "endereco": "Rua Barra Funda, 101",
+    "aluguel": 3700,
+    "condominio": 1240,
+    "iptu": 305,
+    "area": 90,
+    "quartos": 3,
+    "banheiros": 3,
+    "suites": 1,
+    "vagas": 1,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1766149424_4fb3deb3c683d514aea147f251f6d235.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1766149424_4fb3deb3c683d514aea147f251f6d235.jpg"
+    ]
+  },
+  {
+    "id": "56314",
+    "bairro": "Fazenda Morumbi",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "05661-020",
+    "endereco": "Rua Antônio Júlio dos Santos, 73",
+    "aluguel": 14000,
+    "condominio": 4000,
+    "iptu": 1720,
+    "area": 636,
+    "quartos": 4,
+    "banheiros": 5,
+    "suites": 4,
+    "vagas": 3,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1773689783_f3bf9624163b7e7c348b1d7e87ca7a93.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1773689783_f3bf9624163b7e7c348b1d7e87ca7a93.jpg"
+    ]
+  },
+  {
+    "id": "56383",
+    "bairro": "Alto de Pinheiros",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "05441-080",
+    "endereco": "Rua Djalma Coelho, 195",
+    "aluguel": 3500,
+    "condominio": 800,
+    "iptu": 0,
+    "area": 30,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 0,
+    "vagas": 1,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1776972221_99b1344f77b00652fc0f7f32a5e1e00d.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1776972221_99b1344f77b00652fc0f7f32a5e1e00d.jpg"
+    ]
+  },
+  {
+    "id": "56038",
+    "bairro": "Perdizes",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "05015-030",
+    "endereco": "Rua Domício da Gama, 110",
+    "aluguel": 3200,
+    "condominio": 514,
+    "iptu": 40,
+    "area": 27,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 1,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1764348654_51e49b121facbd23203cf94b4bd56241.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1764348654_51e49b121facbd23203cf94b4bd56241.jpg"
+    ]
+  },
+  {
+    "id": "56220",
+    "bairro": "Perdizes",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "05015-030",
+    "endereco": "Rua Domício da Gama, 110",
+    "aluguel": 3000,
+    "condominio": 540,
+    "iptu": 40,
+    "area": 28,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 0,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1770056418_d61bbcc8b2074d1f67f79230b449f580.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1770056418_d61bbcc8b2074d1f67f79230b449f580.jpg"
+    ]
+  },
+  {
+    "id": "55809",
+    "bairro": "Jardim Colombo",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "05628-060",
+    "endereco": "Rua Armando Barreto, 132",
+    "aluguel": 2800,
+    "condominio": 0,
+    "iptu": 0,
+    "area": 40,
+    "quartos": 2,
+    "banheiros": 1,
+    "suites": 0,
+    "vagas": 1,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1754672336_a065c8b9aa0ade37685fd9b69f9fa43f.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1754672336_a065c8b9aa0ade37685fd9b69f9fa43f.jpg"
+    ]
+  },
+  {
+    "id": "55810",
+    "bairro": "Jardim Colombo",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "05628-060",
+    "endereco": "Rua Armando Barreto, 132",
+    "aluguel": 3000,
+    "condominio": 0,
+    "iptu": 0,
+    "area": 40,
+    "quartos": 2,
+    "banheiros": 1,
+    "suites": 0,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1754672437_75037e8472d36b8031ef75cbf5c228f9.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1754672437_75037e8472d36b8031ef75cbf5c228f9.jpg"
+    ]
+  },
+  {
+    "id": "56480",
+    "bairro": "Perdizes",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "05018-010",
+    "endereco": "Rua Aimberê, 126",
+    "aluguel": 6400,
+    "condominio": 835,
+    "iptu": 145,
+    "area": 58,
+    "quartos": 2,
+    "banheiros": 2,
+    "suites": 0,
+    "vagas": 1,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1781544816_33b5acd1274725a645492b8acf9537a2.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1781544816_33b5acd1274725a645492b8acf9537a2.jpg"
+    ]
+  },
+  {
+    "id": "56136",
+    "bairro": "Alto de Pinheiros",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "05461-010",
+    "endereco": "Avenida Professor Fonseca Rodrigues, 546",
+    "aluguel": 60000,
+    "condominio": 0,
+    "iptu": 7000,
+    "area": 383,
+    "quartos": 3,
+    "banheiros": 4,
+    "suites": 3,
+    "vagas": 3,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1767708686_873e6015cbf5c3243d7a892d28a717fc.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1767708686_873e6015cbf5c3243d7a892d28a717fc.jpg"
+    ]
+  },
+  {
+    "id": "56421",
+    "bairro": "Santo Amaro",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04724-003",
+    "endereco": "Avenida João Dias, 2192",
+    "aluguel": 5500,
+    "condominio": 1200,
+    "iptu": 273.33,
+    "area": 68,
+    "quartos": 2,
+    "banheiros": 2,
+    "suites": 0,
+    "vagas": 2,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1778696252_410567583fe5b858731a9b572ba2d6d5.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1778696252_410567583fe5b858731a9b572ba2d6d5.jpg"
+    ]
+  },
+  {
+    "id": "56157",
+    "bairro": "Vila Suzana",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "05630-130",
+    "endereco": "Rua Professor José Horácio Meirelles Teixeira, 806",
+    "aluguel": 1950,
+    "condominio": 890,
+    "iptu": 180,
+    "area": 43,
+    "quartos": 1,
+    "banheiros": 2,
+    "suites": 0,
+    "vagas": 1,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1768250021_85f9a7e078bf6759863ef4b9dc12b776.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1768250021_85f9a7e078bf6759863ef4b9dc12b776.jpg"
+    ]
+  },
+  {
+    "id": "55941",
+    "bairro": "Vila Suzana",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "05630-130",
+    "endereco": "Rua Professor José Horácio Meirelles Teixeira, 896",
+    "aluguel": 3000,
+    "condominio": 1550,
+    "iptu": 250,
+    "area": 88,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 0,
+    "vagas": 1,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1761312633_3894235beabe7d49e2ba3ad4fd5075ac.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1761312633_3894235beabe7d49e2ba3ad4fd5075ac.jpg"
+    ]
+  },
+  {
+    "id": "56065",
+    "bairro": "Jardim Morumbi",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "05711-001",
+    "endereco": "Rua Doutor Luiz Migliano, 871",
+    "aluguel": 2760,
+    "condominio": 900,
+    "iptu": 240,
+    "area": 76,
+    "quartos": 3,
+    "banheiros": 3,
+    "suites": 0,
+    "vagas": 1,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1765485544_c55bb4d5a3b2391f7881df9f4aa4f81b.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1765485544_c55bb4d5a3b2391f7881df9f4aa4f81b.jpg"
+    ]
+  },
+  {
+    "id": "56054",
+    "bairro": "Jardim Vazani",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "05711-001",
+    "endereco": "Rua Doutor Luiz Migliano, 761",
+    "aluguel": 3425,
+    "condominio": 1136.7,
+    "iptu": 140,
+    "area": 72,
+    "quartos": 3,
+    "banheiros": 3,
+    "suites": 1,
+    "vagas": 2,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1765309857_a7c931b81095ddbaf993649882e2b0c9.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1765309857_a7c931b81095ddbaf993649882e2b0c9.jpg"
+    ]
+  },
+  {
+    "id": "55919",
+    "bairro": "Vila Andrade",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "05729-090",
+    "endereco": "Rua Alexandre Benois, 17",
+    "aluguel": 2700,
+    "condominio": 618,
+    "iptu": 50,
+    "area": 50,
+    "quartos": 2,
+    "banheiros": 1,
+    "suites": 0,
+    "vagas": 1,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1762951449_b396f964738692f5b24de0e5c6f4f242.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1762951449_b396f964738692f5b24de0e5c6f4f242.jpg"
+    ]
+  },
+  {
+    "id": "56505",
+    "bairro": "Vila Andrade",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "05729-090",
+    "endereco": "Rua Alexandre Benois, 17",
+    "aluguel": 3000,
+    "condominio": 618,
+    "iptu": 0,
+    "area": 50,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 0,
+    "vagas": 1,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1782140699_c365cc62026c957f857ceab0eb00315e.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1782140699_c365cc62026c957f857ceab0eb00315e.jpg"
+    ]
+  },
+  {
+    "id": "56528",
+    "bairro": "Vila Andrade",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "05729-090",
+    "endereco": "Rua Alexandre Benois, 330",
+    "aluguel": 2780,
+    "condominio": 1412,
+    "iptu": 237,
+    "area": 75,
+    "quartos": 3,
+    "banheiros": 2,
+    "suites": 0,
+    "vagas": 0,
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1782916356_dd80c4b6bc9c6dd55cc667251b21649f.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1782916356_dd80c4b6bc9c6dd55cc667251b21649f.jpg"
+    ]
+  }
+]
