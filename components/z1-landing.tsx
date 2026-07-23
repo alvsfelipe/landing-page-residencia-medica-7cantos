@@ -342,9 +342,6 @@ export function Z1Landing({ properties, hospitals, mobilityAnchorSetId, mobility
     }
   }
 
-  const heroProperty = properties.find((property) => property.fotos?.[0] || property.foto);
-  const heroImage = heroProperty?.fotos?.[0] || heroProperty?.foto;
-
   return <main className="z1">
     <header className="z1-header">
       <a className="z1-logo" href="#inicio" aria-label="7Cantos Residência, início">
@@ -357,7 +354,7 @@ export function Z1Landing({ properties, hospitals, mobilityAnchorSetId, mobility
     <section className="z1-hero" id="inicio">
       <div className="z1-hero-copy"><p className="z1-eyebrow">7Cantos Residência · Vila Clementino</p><h1>Sua residência já vai ser intensa. <em>Sua mudança não precisa ser.</em></h1><p>Encontre onde morar, visite apartamentos selecionados perto da sua rotina e chegue a São Paulo com tudo preparado.</p><div className="z1-actions"><button className="z1-btn" onClick={openPlan}>Montar meu plano de mudança <span>↗</span></button><a href="#imoveis">Ver imóveis disponíveis ↓</a></div></div>
       <div className="z1-hero-home">
-        {heroImage && <Image src={heroImage} alt="Apartamento disponível na Vila Clementino" fill priority sizes="(min-width: 1000px) 46vw, 100vw" />}
+        <Image src="/hero-residencia-medica.png" alt="Apartamento compacto da 7Cantos com cozinha integrada" fill priority sizes="(min-width: 1000px) 46vw, 100vw" />
         <div className="z1-hero-home-shade" />
         <div className="z1-hero-distance-card"><small>EXEMPLO DE UMA NOVA ROTINA</small><strong><span aria-hidden="true">🚶</span> Você pode morar a 5 minutos a pé da sua residência médica.</strong><p>O tempo real aparece quando você escolhe o hospital e compara os imóveis.</p></div>
       </div>
