@@ -14,6 +14,7 @@
     "banheiros": 2,
     "suites": 0,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56155",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1768246924_5db8878de79da71b8d61481c68a5bfc1.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1768246924_5db8878de79da71b8d61481c68a5bfc1.jpg"
@@ -34,6 +35,7 @@
     "banheiros": 2,
     "suites": 0,
     "vagas": 1,
+    "url_imovel": "https://www.7cantos.com/imovel/56160",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1768326241_8e3d6e23f70f65ff8b18b89b4b61f33c.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1768326241_8e3d6e23f70f65ff8b18b89b4b61f33c.jpg"
@@ -54,6 +56,7 @@
     "banheiros": 1,
     "suites": 1,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56330",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1774901511_edc4de258a0fd2efc6c7967deb1a769e.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1774901511_edc4de258a0fd2efc6c7967deb1a769e.jpg"
@@ -74,6 +77,7 @@
     "banheiros": 1,
     "suites": 1,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56299",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1773068448_8ef966cd42429041f765c7bcc8e2103a.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1773068448_8ef966cd42429041f765c7bcc8e2103a.jpg"
@@ -94,6 +98,7 @@
     "banheiros": 2,
     "suites": 1,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56244",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1770817300_1913709af85ec230cd049f2136f6a1c1.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1770817300_1913709af85ec230cd049f2136f6a1c1.jpg"
@@ -114,6 +119,7 @@
     "banheiros": 1,
     "suites": 1,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56239",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1770744899_656c6e3a827ca248665c70bc8f14a8c9.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1770744899_656c6e3a827ca248665c70bc8f14a8c9.jpg"
@@ -134,6 +140,7 @@
     "banheiros": 1,
     "suites": 1,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56238",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1770744076_7574805d4e21eb1a5a41ceadc70564af.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1770744076_7574805d4e21eb1a5a41ceadc70564af.jpg"
@@ -154,6 +161,7 @@
     "banheiros": 1,
     "suites": 1,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56237",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1770742457_a3c842f4004cf7816f0c62e6fd642303.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1770742457_a3c842f4004cf7816f0c62e6fd642303.jpg"
@@ -174,6 +182,7 @@
     "banheiros": 1,
     "suites": 1,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56236",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1770737026_2562503d5e99662eff24eefb8584ccdd.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1770737026_2562503d5e99662eff24eefb8584ccdd.jpg"
@@ -194,6 +203,7 @@
     "banheiros": 1,
     "suites": 1,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56235",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1770736398_5044bfbfc2894119a048dc18376b1f89.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1770736398_5044bfbfc2894119a048dc18376b1f89.jpg"
@@ -214,6 +224,7 @@
     "banheiros": 1,
     "suites": 1,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56234",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1770734262_29689f05e574ae1fa307a88f6e4648a4.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1770734262_29689f05e574ae1fa307a88f6e4648a4.jpg"
@@ -234,6 +245,7 @@
     "banheiros": 1,
     "suites": 1,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56178",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1768827461_49d36726dfb4433df55dfa3487e9237a.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1768827461_49d36726dfb4433df55dfa3487e9237a.jpg"
@@ -254,6 +266,7 @@
     "banheiros": 1,
     "suites": 1,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56061",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1765381803_95d90bd0c92b54800929129950982808.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1765381803_95d90bd0c92b54800929129950982808.jpg"
@@ -274,6 +287,7 @@
     "banheiros": 1,
     "suites": 1,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56060",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1765381419_504326c4115afed3f8efa4a517dd2b49.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1765381419_504326c4115afed3f8efa4a517dd2b49.jpg"
@@ -294,6 +308,7 @@
     "banheiros": 1,
     "suites": 1,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56059",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1765379947_6d587fcd92927ee6a90be7132b12a6dc.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1765379947_6d587fcd92927ee6a90be7132b12a6dc.jpg"
@@ -314,6 +329,7 @@
     "banheiros": 1,
     "suites": 1,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56058",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1765379282_3dcfe7d620d44a941b1fbbf215bc211c.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1765379282_3dcfe7d620d44a941b1fbbf215bc211c.jpg"
@@ -334,6 +350,7 @@
     "banheiros": 1,
     "suites": 1,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56057",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1765378017_f1a2a8a38313ad9cfe1a1370476d9edb.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1765378017_f1a2a8a38313ad9cfe1a1370476d9edb.jpg"
@@ -354,6 +371,7 @@
     "banheiros": 1,
     "suites": 1,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56056",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1765377826_f23d269091e18f1e4bf1e4bc10037874.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1765377826_f23d269091e18f1e4bf1e4bc10037874.jpg"
@@ -374,6 +392,7 @@
     "banheiros": 1,
     "suites": 1,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56025",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1763756235_e0c39b313a2daf5fac5e86d0fae73ba8.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1763756235_e0c39b313a2daf5fac5e86d0fae73ba8.jpg"
@@ -394,6 +413,7 @@
     "banheiros": 1,
     "suites": 1,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56023",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1763754074_1e8b6ab44906912cd3531386f0734394.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1763754074_1e8b6ab44906912cd3531386f0734394.jpg"
@@ -414,6 +434,7 @@
     "banheiros": 1,
     "suites": 1,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56022",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1763752777_3956558a782c9360fe852a515befc677.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1763752777_3956558a782c9360fe852a515befc677.jpg"
@@ -434,6 +455,7 @@
     "banheiros": 1,
     "suites": 1,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56021",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1763751178_6b98fe62878cc794228770495473feca.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1763751178_6b98fe62878cc794228770495473feca.jpg"
@@ -454,6 +476,7 @@
     "banheiros": 1,
     "suites": 1,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56020",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1763750147_87bd4bd6fe08f2e0118dcfa3e6054776.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1763750147_87bd4bd6fe08f2e0118dcfa3e6054776.jpg"
@@ -474,6 +497,7 @@
     "banheiros": 1,
     "suites": 1,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56019",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1763748634_da77917be6f3cd7b7b1474af30abedda.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1763748634_da77917be6f3cd7b7b1474af30abedda.jpg"
@@ -494,6 +518,7 @@
     "banheiros": 1,
     "suites": 1,
     "vagas": 1,
+    "url_imovel": "https://www.7cantos.com/imovel/56018",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1763747575_c9294b5f75c28915b94c2ab794b94c5a.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1763747575_c9294b5f75c28915b94c2ab794b94c5a.jpg"
@@ -514,6 +539,7 @@
     "banheiros": 1,
     "suites": 1,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56017",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1763746658_e73069a6c3a761442669362c55f9077d.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1763746658_e73069a6c3a761442669362c55f9077d.jpg"
@@ -534,6 +560,7 @@
     "banheiros": 1,
     "suites": 0,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/55962",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1761847458_cf30c3529d534c3541c4b2d9d9cd3aee.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1761847458_cf30c3529d534c3541c4b2d9d9cd3aee.jpg"
@@ -554,6 +581,7 @@
     "banheiros": 1,
     "suites": 0,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56417",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1778544091_66dd1a2ac0be88975de8ac8d49be9583.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1778544091_66dd1a2ac0be88975de8ac8d49be9583.jpg"
@@ -574,6 +602,7 @@
     "banheiros": 1,
     "suites": 0,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56508",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1782232324_4f6b999904ea5fd69b95912fd6b836ea.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1782232324_4f6b999904ea5fd69b95912fd6b836ea.jpg"
@@ -594,6 +623,7 @@
     "banheiros": 1,
     "suites": 0,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56507",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1782231631_fc0584f8862b7697f0edd39228575bed.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1782231631_fc0584f8862b7697f0edd39228575bed.jpg"
@@ -614,6 +644,7 @@
     "banheiros": 1,
     "suites": 0,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56481",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1781552293_30ccc893de99e0cd7c668ea1873744bb.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1781552293_30ccc893de99e0cd7c668ea1873744bb.jpg"
@@ -634,6 +665,7 @@
     "banheiros": 1,
     "suites": 0,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56543",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1783340498_986b271839c87a194e7b905d73b117c2.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1783340498_986b271839c87a194e7b905d73b117c2.jpg"
@@ -654,6 +686,7 @@
     "banheiros": 1,
     "suites": 0,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56535",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1783009148_4c13104a3abae6133a99ff605542adf6.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1783009148_4c13104a3abae6133a99ff605542adf6.jpg"
@@ -674,6 +707,7 @@
     "banheiros": 1,
     "suites": 1,
     "vagas": 1,
+    "url_imovel": "https://www.7cantos.com/imovel/56526",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1782844704_0b99ce18a3cbb0804b8d0bf5aa201df7.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1782844704_0b99ce18a3cbb0804b8d0bf5aa201df7.jpg"
@@ -694,6 +728,7 @@
     "banheiros": 1,
     "suites": 1,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56353",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1775747775_51f99d107132b4b7fd1fe61453111173.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1775747775_51f99d107132b4b7fd1fe61453111173.jpg"
@@ -714,6 +749,7 @@
     "banheiros": 1,
     "suites": 0,
     "vagas": 1,
+    "url_imovel": "https://www.7cantos.com/imovel/55797",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1754327179_0529574ade2f29a53290399c1e98d03b.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1754327179_0529574ade2f29a53290399c1e98d03b.jpg"
@@ -734,6 +770,7 @@
     "banheiros": 1,
     "suites": 0,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/55823",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1755538124_a6ea248ab8d064af7f1f6c3492d91f57.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1755538124_a6ea248ab8d064af7f1f6c3492d91f57.jpg"
@@ -754,6 +791,7 @@
     "banheiros": 1,
     "suites": 0,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56413",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1778285110_67f01c3bc9e7c07049ba5f803ac593cd.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1778285110_67f01c3bc9e7c07049ba5f803ac593cd.jpg"
@@ -774,6 +812,7 @@
     "banheiros": 1,
     "suites": 0,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/55954",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1761740740_cd476ad43cd8ef257e6c965c376c27fd.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1761740740_cd476ad43cd8ef257e6c965c376c27fd.jpg"
@@ -794,6 +833,7 @@
     "banheiros": 5,
     "suites": 3,
     "vagas": 5,
+    "url_imovel": "https://www.7cantos.com/imovel/56131",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1767636446_93a227be6c42ddd67eb13ce833041965.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1767636446_93a227be6c42ddd67eb13ce833041965.jpg"
@@ -814,6 +854,7 @@
     "banheiros": 2,
     "suites": 0,
     "vagas": 1,
+    "url_imovel": "https://www.7cantos.com/imovel/55778",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1753118862_60dd85a9669275602c75fcddd1cfc6ae.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1753118862_60dd85a9669275602c75fcddd1cfc6ae.jpg"
@@ -834,6 +875,7 @@
     "banheiros": 1,
     "suites": 1,
     "vagas": 1,
+    "url_imovel": "https://www.7cantos.com/imovel/56139",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1767721527_4a1d22aced31a3874d64e237ad18e652.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1767721527_4a1d22aced31a3874d64e237ad18e652.jpg"
@@ -854,6 +896,7 @@
     "banheiros": 1,
     "suites": 0,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56120",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1767015725_0478734cb767c09395fcdadcc1f80a51.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1767015725_0478734cb767c09395fcdadcc1f80a51.jpg"
@@ -874,6 +917,7 @@
     "banheiros": 1,
     "suites": 0,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56412",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1778277134_748d5f10d1c677b771ffcaebd155c4f1.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1778277134_748d5f10d1c677b771ffcaebd155c4f1.jpg"
@@ -894,6 +938,7 @@
     "banheiros": 1,
     "suites": 0,
     "vagas": 1,
+    "url_imovel": "https://www.7cantos.com/imovel/55960",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1761827097_b3a289e23d1c754e4e193b88260e6b95.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1761827097_b3a289e23d1c754e4e193b88260e6b95.jpg"
@@ -914,6 +959,7 @@
     "banheiros": 1,
     "suites": 0,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56531",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1783349222_1475ef5656f9711a84c5155881ad3de7.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1783349222_1475ef5656f9711a84c5155881ad3de7.jpg"
@@ -934,6 +980,7 @@
     "banheiros": 1,
     "suites": 1,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56105",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1766408583_b8d10a0e3d052d274f325e9b4b6af538.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1766408583_b8d10a0e3d052d274f325e9b4b6af538.jpg"
@@ -954,6 +1001,7 @@
     "banheiros": 1,
     "suites": 1,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56429",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1779195141_6d46b78d372735a67c3b9682e7245f3a.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1779195141_6d46b78d372735a67c3b9682e7245f3a.jpg"
@@ -974,6 +1022,7 @@
     "banheiros": 1,
     "suites": 0,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/55952",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1761673456_15fd69b10d5b574dd2c39cd91039739c.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1761673456_15fd69b10d5b574dd2c39cd91039739c.jpg"
@@ -994,6 +1043,7 @@
     "banheiros": 1,
     "suites": 0,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56326",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1774872237_816f0e36ba39ae244f336f0e2452af9f.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1774872237_816f0e36ba39ae244f336f0e2452af9f.jpg"
@@ -1014,6 +1064,7 @@
     "banheiros": 1,
     "suites": 0,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56424",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1778775762_d6d8e58086a526c2d72f248a8b9bfae0.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1778775762_d6d8e58086a526c2d72f248a8b9bfae0.jpg"
@@ -1034,6 +1085,7 @@
     "banheiros": 1,
     "suites": 0,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/55934",
     "fotos": []
   },
   {
@@ -1051,6 +1103,7 @@
     "banheiros": 1,
     "suites": 0,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/55935",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1761139820_286a08aea0830f25c14aec3ef03a446a.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1761139820_286a08aea0830f25c14aec3ef03a446a.jpg"
@@ -1071,6 +1124,7 @@
     "banheiros": 1,
     "suites": 0,
     "vagas": 1,
+    "url_imovel": "https://www.7cantos.com/imovel/56128",
     "fotos": []
   },
   {
@@ -1089,6 +1143,7 @@
     "banheiros": 1,
     "suites": 1,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56405",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1778080477_b1a1e3e26c7e1bc4d43d08f4219b3801.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1778080477_b1a1e3e26c7e1bc4d43d08f4219b3801.jpg"
@@ -1109,6 +1164,7 @@
     "banheiros": 1,
     "suites": 0,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56143",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1767797890_786d0151d7b0242d8126e9f6aff6862a.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1767797890_786d0151d7b0242d8126e9f6aff6862a.jpg"
@@ -1129,6 +1185,7 @@
     "banheiros": 1,
     "suites": 0,
     "vagas": 1,
+    "url_imovel": "https://www.7cantos.com/imovel/56129",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1767369331_13d89bb07c81c05539ef6446e125df21.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1767369331_13d89bb07c81c05539ef6446e125df21.jpg"
@@ -1149,6 +1206,7 @@
     "banheiros": 4,
     "suites": 3,
     "vagas": 2,
+    "url_imovel": "https://www.7cantos.com/imovel/56140",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1767722903_3dd063250697494ee85a5c8155483184.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1767722903_3dd063250697494ee85a5c8155483184.jpg"
@@ -1169,6 +1227,7 @@
     "banheiros": 2,
     "suites": 0,
     "vagas": 1,
+    "url_imovel": "https://www.7cantos.com/imovel/56497",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1781877122_aacf1135224ccaa97dd6bc9e371e5ffb.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1781877122_aacf1135224ccaa97dd6bc9e371e5ffb.jpg"
@@ -1189,6 +1248,7 @@
     "banheiros": 2,
     "suites": 0,
     "vagas": 1,
+    "url_imovel": "https://www.7cantos.com/imovel/56498",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1781878285_1c40668faa23d62d7ab835ac3b714234.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1781878285_1c40668faa23d62d7ab835ac3b714234.jpg"
@@ -1209,6 +1269,7 @@
     "banheiros": 2,
     "suites": 0,
     "vagas": 1,
+    "url_imovel": "https://www.7cantos.com/imovel/56499",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1781879238_8fc9e5de67d715e01f1f5f223371bde3.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1781879238_8fc9e5de67d715e01f1f5f223371bde3.jpg"
@@ -1229,6 +1290,7 @@
     "banheiros": 1,
     "suites": 0,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56363",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1776178245_ed9aa85546cf05df2ae23f4a71385e1b.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1776178245_ed9aa85546cf05df2ae23f4a71385e1b.jpg"
@@ -1249,6 +1311,7 @@
     "banheiros": 2,
     "suites": 0,
     "vagas": 1,
+    "url_imovel": "https://www.7cantos.com/imovel/56218",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1770053125_f47b73a4978db612a4d2f9d47255710a.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1770053125_f47b73a4978db612a4d2f9d47255710a.jpg"
@@ -1269,6 +1332,7 @@
     "banheiros": 2,
     "suites": 0,
     "vagas": 1,
+    "url_imovel": "https://www.7cantos.com/imovel/56219",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1770055309_a25c165a49aa8b59ed50629d56cb2108.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1770055309_a25c165a49aa8b59ed50629d56cb2108.jpg"
@@ -1289,6 +1353,7 @@
     "banheiros": 3,
     "suites": 1,
     "vagas": 1,
+    "url_imovel": "https://www.7cantos.com/imovel/56563",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1784142864_f87c2bd78835d1a88914a9c863f0e19e.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1784142864_f87c2bd78835d1a88914a9c863f0e19e.jpg"
@@ -1309,6 +1374,7 @@
     "banheiros": 5,
     "suites": 3,
     "vagas": 4,
+    "url_imovel": "https://www.7cantos.com/imovel/56138",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1767720239_13cb5418eb7a7fc2dde0ce9d71a17e8f.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1767720239_13cb5418eb7a7fc2dde0ce9d71a17e8f.jpg"
@@ -1329,6 +1395,7 @@
     "banheiros": 1,
     "suites": 1,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/55992",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1762880249_d546aaf438f9916c9a15d93fe304e149.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1762880249_d546aaf438f9916c9a15d93fe304e149.jpg"
@@ -1349,6 +1416,7 @@
     "banheiros": 1,
     "suites": 1,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56101",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1768335335_31f983c3b720eb24728c04ef6aeaf635.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1768335335_31f983c3b720eb24728c04ef6aeaf635.jpg"
@@ -1369,6 +1437,7 @@
     "banheiros": 1,
     "suites": 1,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56102",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1766175600_0f44a1c513fab1307a4cb35cad6bb393.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1766175600_0f44a1c513fab1307a4cb35cad6bb393.jpg"
@@ -1389,6 +1458,7 @@
     "banheiros": 2,
     "suites": 1,
     "vagas": 1,
+    "url_imovel": "https://www.7cantos.com/imovel/56000",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1768584753_dca222f1e1375c226b5da501cf7eca9f.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1768584753_dca222f1e1375c226b5da501cf7eca9f.jpg"
@@ -1409,6 +1479,7 @@
     "banheiros": 3,
     "suites": 1,
     "vagas": 2,
+    "url_imovel": "https://www.7cantos.com/imovel/56271",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1772202847_b4bd2afa573d3114ff46ecdd03505ed9.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1772202847_b4bd2afa573d3114ff46ecdd03505ed9.jpg"
@@ -1429,6 +1500,7 @@
     "banheiros": 3,
     "suites": 0,
     "vagas": 1,
+    "url_imovel": "https://www.7cantos.com/imovel/55822",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1755524469_af9c7e2af0d6a596ec2b8203187b892e.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1755524469_af9c7e2af0d6a596ec2b8203187b892e.jpg"
@@ -1449,6 +1521,7 @@
     "banheiros": 1,
     "suites": 0,
     "vagas": 1,
+    "url_imovel": "https://www.7cantos.com/imovel/56562",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1784140252_172d3ce48fee97fe3342786315641462.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1784140252_172d3ce48fee97fe3342786315641462.jpg"
@@ -1469,6 +1542,7 @@
     "banheiros": 1,
     "suites": 0,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56006",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1763404701_b8035cd2cb48ee76d64cd1e64f432e0d.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1763404701_b8035cd2cb48ee76d64cd1e64f432e0d.jpg"
@@ -1489,6 +1563,7 @@
     "banheiros": 1,
     "suites": 0,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56491",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1781789401_5f72593ffb763b4cd67190330cdde505.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1781789401_5f72593ffb763b4cd67190330cdde505.jpg"
@@ -1509,6 +1584,7 @@
     "banheiros": 1,
     "suites": 0,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56492",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1781790348_556170dcc1133251cea5c60cdefaa17d.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1781790348_556170dcc1133251cea5c60cdefaa17d.jpg"
@@ -1529,6 +1605,7 @@
     "banheiros": 1,
     "suites": 0,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56524",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1782826480_2033d6018c56303f3ed6494ff625df73.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1782826480_2033d6018c56303f3ed6494ff625df73.jpg"
@@ -1549,6 +1626,7 @@
     "banheiros": 1,
     "suites": 1,
     "vagas": 1,
+    "url_imovel": "https://www.7cantos.com/imovel/55890",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1758898497_d75d9989e8826b3b21ddfb07e68d1968.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1758898497_d75d9989e8826b3b21ddfb07e68d1968.jpg"
@@ -1569,6 +1647,7 @@
     "banheiros": 1,
     "suites": 0,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56559",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1783966208_aacc63d6b83bbb40c11dc174afe32106.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1783966208_aacc63d6b83bbb40c11dc174afe32106.jpg"
@@ -1589,6 +1668,7 @@
     "banheiros": 3,
     "suites": 1,
     "vagas": 1,
+    "url_imovel": "https://www.7cantos.com/imovel/55983",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1762532377_5d613d21e8d033017e612bfb41f14446.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1762532377_5d613d21e8d033017e612bfb41f14446.jpg"
@@ -1609,6 +1689,7 @@
     "banheiros": 1,
     "suites": 1,
     "vagas": 1,
+    "url_imovel": "https://www.7cantos.com/imovel/55808",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1758804258_c5fbc6a0a642d24c0c62f709c241a542.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1758804258_c5fbc6a0a642d24c0c62f709c241a542.jpg"
@@ -1629,6 +1710,7 @@
     "banheiros": 1,
     "suites": 1,
     "vagas": 1,
+    "url_imovel": "https://www.7cantos.com/imovel/55898",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1759350826_5b9d6cd5f871c1548fa30be0987d3d98.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1759350826_5b9d6cd5f871c1548fa30be0987d3d98.jpg"
@@ -1649,6 +1731,7 @@
     "banheiros": 2,
     "suites": 0,
     "vagas": 1,
+    "url_imovel": "https://www.7cantos.com/imovel/55989",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1762868689_528205749894a7a40987bf80ab7dc11e.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1762868689_528205749894a7a40987bf80ab7dc11e.jpg"
@@ -1669,6 +1752,7 @@
     "banheiros": 1,
     "suites": 0,
     "vagas": 1,
+    "url_imovel": "https://www.7cantos.com/imovel/55815",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1754931529_2eaf904dab0b32e0e5d0adefdd630ec5.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1754931529_2eaf904dab0b32e0e5d0adefdd630ec5.jpg"
@@ -1689,6 +1773,7 @@
     "banheiros": 1,
     "suites": 0,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56152",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1768226075_a0f070e89f1ccd112a0fb20aba6f8025.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1768226075_a0f070e89f1ccd112a0fb20aba6f8025.jpg"
@@ -1709,6 +1794,7 @@
     "banheiros": 1,
     "suites": 1,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56164",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1768411666_b96aea83c2d017954655f530628f4649.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1768411666_b96aea83c2d017954655f530628f4649.jpg"
@@ -1729,6 +1815,7 @@
     "banheiros": 5,
     "suites": 3,
     "vagas": 4,
+    "url_imovel": "https://www.7cantos.com/imovel/56135",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1767706716_a416f01f2b8a916296f5f9bfae09215e.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1767706716_a416f01f2b8a916296f5f9bfae09215e.jpg"
@@ -1749,6 +1836,7 @@
     "banheiros": 1,
     "suites": 1,
     "vagas": 1,
+    "url_imovel": "https://www.7cantos.com/imovel/56010",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1763559469_9eb25ef3427f4c674aff55dcb7409405.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1763559469_9eb25ef3427f4c674aff55dcb7409405.jpg"
@@ -1769,6 +1857,7 @@
     "banheiros": 1,
     "suites": 0,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56190",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1769085362_2a16e71488c2a5f354524e8c8d0585ef.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1769085362_2a16e71488c2a5f354524e8c8d0585ef.jpg"
@@ -1789,6 +1878,7 @@
     "banheiros": 1,
     "suites": 0,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56206",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1769541579_55df071185c55e7a64386d9b5be99863.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1769541579_55df071185c55e7a64386d9b5be99863.jpg"
@@ -1809,6 +1899,7 @@
     "banheiros": 1,
     "suites": 0,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56207",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1769542722_0692746f01b7b220183c7c4d75f641ae.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1769542722_0692746f01b7b220183c7c4d75f641ae.jpg"
@@ -1829,6 +1920,7 @@
     "banheiros": 1,
     "suites": 1,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56267",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1772116522_a209054dc2f4c8d00750ab09d9f8a1b4.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1772116522_a209054dc2f4c8d00750ab09d9f8a1b4.jpg"
@@ -1849,6 +1941,7 @@
     "banheiros": 1,
     "suites": 1,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56306",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1773239092_34ae230fac0e1c33b1b09c85b8492f82.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1773239092_34ae230fac0e1c33b1b09c85b8492f82.jpg"
@@ -1869,6 +1962,7 @@
     "banheiros": 1,
     "suites": 1,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56307",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1773240358_a8f5f66efce892c4ee4455ddea878e42.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1773240358_a8f5f66efce892c4ee4455ddea878e42.jpg"
@@ -1889,6 +1983,7 @@
     "banheiros": 1,
     "suites": 1,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56308",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1773241116_280f0a8f1a0d40b7d33a56f083eaf568.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1773241116_280f0a8f1a0d40b7d33a56f083eaf568.jpg"
@@ -1909,6 +2004,7 @@
     "banheiros": 1,
     "suites": 0,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56317",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1773840805_148e35044133a3d0a31da003f939a681.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1773840805_148e35044133a3d0a31da003f939a681.jpg"
@@ -1929,6 +2025,7 @@
     "banheiros": 1,
     "suites": 0,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56325",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1774530702_dae0aef91ca534fd1dc27ae55f0f30f3.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1774530702_dae0aef91ca534fd1dc27ae55f0f30f3.jpg"
@@ -1949,6 +2046,7 @@
     "banheiros": 1,
     "suites": 1,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56364",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1776180751_be7c53e77b3c0ea1167d92c9768a03bf.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1776180751_be7c53e77b3c0ea1167d92c9768a03bf.jpg"
@@ -1969,6 +2067,7 @@
     "banheiros": 1,
     "suites": 1,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56395",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1777399302_13f82ec932b7b50d37a5f03374df8d7e.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1777399302_13f82ec932b7b50d37a5f03374df8d7e.jpg"
@@ -1989,6 +2088,7 @@
     "banheiros": 1,
     "suites": 0,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56453",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1780409226_780222c90cb5a731271765f73c1548ab.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1780409226_780222c90cb5a731271765f73c1548ab.jpg"
@@ -2009,6 +2109,7 @@
     "banheiros": 1,
     "suites": 0,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56454",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1780410466_b7ef122d8160f9fb278319d56f767408.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1780410466_b7ef122d8160f9fb278319d56f767408.jpg"
@@ -2029,6 +2130,7 @@
     "banheiros": 1,
     "suites": 0,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56540",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1783106586_2c1a52aeda5a9679a6eb10d1a57af5f3.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1783106586_2c1a52aeda5a9679a6eb10d1a57af5f3.jpg"
@@ -2049,6 +2151,7 @@
     "banheiros": 1,
     "suites": 0,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56541",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1783107438_b403c6800547bded93075606cd09e909.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1783107438_b403c6800547bded93075606cd09e909.jpg"
@@ -2069,6 +2172,7 @@
     "banheiros": 2,
     "suites": 1,
     "vagas": 1,
+    "url_imovel": "https://www.7cantos.com/imovel/55872",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1758206947_994dd4f15870e23231a1cc24feb485fd.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1758206947_994dd4f15870e23231a1cc24feb485fd.jpg"
@@ -2089,6 +2193,7 @@
     "banheiros": 2,
     "suites": 1,
     "vagas": 1,
+    "url_imovel": "https://www.7cantos.com/imovel/55874",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1758208882_777a33400b760faad88a9081a4c435d2.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1758208882_777a33400b760faad88a9081a4c435d2.jpg"
@@ -2109,6 +2214,7 @@
     "banheiros": 2,
     "suites": 1,
     "vagas": 1,
+    "url_imovel": "https://www.7cantos.com/imovel/55873",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1774295661_f01b5b1baf6055bea9fbe98a5f8548e5.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1774295661_f01b5b1baf6055bea9fbe98a5f8548e5.jpg"
@@ -2129,6 +2235,7 @@
     "banheiros": 2,
     "suites": 1,
     "vagas": 1,
+    "url_imovel": "https://www.7cantos.com/imovel/56175",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1768504846_6ae551aba382c6fbc3aab35bfcdbdabc.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1768504846_6ae551aba382c6fbc3aab35bfcdbdabc.jpg"
@@ -2149,6 +2256,7 @@
     "banheiros": 2,
     "suites": 1,
     "vagas": 1,
+    "url_imovel": "https://www.7cantos.com/imovel/56358",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1775824812_10c60f8b70155bb7feb91c2ab6a2c0c7.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1775824812_10c60f8b70155bb7feb91c2ab6a2c0c7.jpg"
@@ -2169,6 +2277,7 @@
     "banheiros": 1,
     "suites": 0,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56329",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1774889062_ec0577563a229d93b87f1b63c33938e5.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1774889062_ec0577563a229d93b87f1b63c33938e5.jpg"
@@ -2189,6 +2298,7 @@
     "banheiros": 4,
     "suites": 1,
     "vagas": 2,
+    "url_imovel": "https://www.7cantos.com/imovel/56379",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1776876661_409aa085de4f5366f200d4673a31ffc7.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1776876661_409aa085de4f5366f200d4673a31ffc7.jpg"
@@ -2209,6 +2319,7 @@
     "banheiros": 1,
     "suites": 0,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56328",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1774881671_2c92fd87d56b9b86ec79434b8839eeae.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1774881671_2c92fd87d56b9b86ec79434b8839eeae.jpg"
@@ -2229,6 +2340,7 @@
     "banheiros": 1,
     "suites": 1,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56335",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1775054078_5f1bed417c3ac8ec84264fb32d7c3cfd.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1775054078_5f1bed417c3ac8ec84264fb32d7c3cfd.jpg"
@@ -2249,6 +2361,7 @@
     "banheiros": 1,
     "suites": 0,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56397",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1777476497_967b4ef45a73794cdc4f6ff0f9a750ce.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1777476497_967b4ef45a73794cdc4f6ff0f9a750ce.jpg"
@@ -2269,6 +2382,7 @@
     "banheiros": 1,
     "suites": 0,
     "vagas": 1,
+    "url_imovel": "https://www.7cantos.com/imovel/56146",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1767964099_330f14f2595b8c897795a910b378afcf.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1767964099_330f14f2595b8c897795a910b378afcf.jpg"
@@ -2289,6 +2403,7 @@
     "banheiros": 3,
     "suites": 1,
     "vagas": 1,
+    "url_imovel": "https://www.7cantos.com/imovel/56432",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1779197799_db582fdd556bc0805dc4aab6f8aaf4d2.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1779197799_db582fdd556bc0805dc4aab6f8aaf4d2.jpg"
@@ -2309,6 +2424,7 @@
     "banheiros": 1,
     "suites": 0,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56327",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1774876956_9f1cb6d0a483970e2cafcb90d9f06ee7.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1774876956_9f1cb6d0a483970e2cafcb90d9f06ee7.jpg"
@@ -2329,6 +2445,7 @@
     "banheiros": 1,
     "suites": 0,
     "vagas": 1,
+    "url_imovel": "https://www.7cantos.com/imovel/56191",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1769086280_546022914cf370c04118836bde513554.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1769086280_546022914cf370c04118836bde513554.jpg"
@@ -2349,6 +2466,7 @@
     "banheiros": 1,
     "suites": 0,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56323",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1774292469_bc06a7683deaa7fc0b3b3e65678e0c78.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1774292469_bc06a7683deaa7fc0b3b3e65678e0c78.jpg"
@@ -2369,6 +2487,7 @@
     "banheiros": 1,
     "suites": 0,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56414",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1778297794_c7df97395ac2bd30a32fe4054a99862f.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1778297794_c7df97395ac2bd30a32fe4054a99862f.jpg"
@@ -2389,6 +2508,7 @@
     "banheiros": 1,
     "suites": 1,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/55956",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1761749869_c09821dd662a8a170563634e40ab777a.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1761749869_c09821dd662a8a170563634e40ab777a.jpg"
@@ -2409,6 +2529,7 @@
     "banheiros": 1,
     "suites": 1,
     "vagas": 1,
+    "url_imovel": "https://www.7cantos.com/imovel/56195",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1769112353_44dd2d0bd74ed9d0149c74c7a8ce118d.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1769112353_44dd2d0bd74ed9d0149c74c7a8ce118d.jpg"
@@ -2429,6 +2550,7 @@
     "banheiros": 3,
     "suites": 2,
     "vagas": 1,
+    "url_imovel": "https://www.7cantos.com/imovel/56088",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1766061580_a4d681d9dc58b6dfeed6c37b40ea7ae5.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1766061580_a4d681d9dc58b6dfeed6c37b40ea7ae5.jpg"
@@ -2449,6 +2571,7 @@
     "banheiros": 1,
     "suites": 0,
     "vagas": 1,
+    "url_imovel": "https://www.7cantos.com/imovel/56193",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1769096042_efd6721de7e753e5882d280f920b362f.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1769096042_efd6721de7e753e5882d280f920b362f.jpg"
@@ -2469,6 +2592,7 @@
     "banheiros": 1,
     "suites": 1,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56438",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1779309894_c06e09114a08f54f1b89eac3c2735f95.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1779309894_c06e09114a08f54f1b89eac3c2735f95.jpg"
@@ -2489,6 +2613,7 @@
     "banheiros": 1,
     "suites": 1,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56439",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1779366324_b0c0d708ed372d242fd161a354b2d0b5.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1779366324_b0c0d708ed372d242fd161a354b2d0b5.jpg"
@@ -2509,6 +2634,7 @@
     "banheiros": 1,
     "suites": 1,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56440",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1779367483_42469f5f5105962caa4ee18292d5a92e.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1779367483_42469f5f5105962caa4ee18292d5a92e.jpg"
@@ -2529,6 +2655,7 @@
     "banheiros": 1,
     "suites": 0,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56433",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1779202805_6eb8a2c03de69381aa6b848795168e66.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1779202805_6eb8a2c03de69381aa6b848795168e66.jpg"
@@ -2549,6 +2676,7 @@
     "banheiros": 2,
     "suites": 1,
     "vagas": 2,
+    "url_imovel": "https://www.7cantos.com/imovel/55969",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1761935030_840afe3fa89030d2dbbd670d8bcbc79a.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1761935030_840afe3fa89030d2dbbd670d8bcbc79a.jpg"
@@ -2569,6 +2697,7 @@
     "banheiros": 1,
     "suites": 0,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56518",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1782416215_8fde3f9f1e2f18441c3a77526e9dd7a2.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1782416215_8fde3f9f1e2f18441c3a77526e9dd7a2.jpg"
@@ -2589,6 +2718,7 @@
     "banheiros": 1,
     "suites": 0,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56423",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1778715783_df2c415bd4cef505b0f4511d38ad4fdc.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1778715783_df2c415bd4cef505b0f4511d38ad4fdc.jpg"
@@ -2609,6 +2739,7 @@
     "banheiros": 1,
     "suites": 1,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56300",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1773075059_e4687211973e94b54855f2943a911711.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1773075059_e4687211973e94b54855f2943a911711.jpg"
@@ -2629,6 +2760,7 @@
     "banheiros": 1,
     "suites": 0,
     "vagas": 1,
+    "url_imovel": "https://www.7cantos.com/imovel/56529",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1782928633_6c80c42545e4de7cdef318175d8f9d5c.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1782928633_6c80c42545e4de7cdef318175d8f9d5c.jpg"
@@ -2649,6 +2781,7 @@
     "banheiros": 1,
     "suites": 0,
     "vagas": 1,
+    "url_imovel": "https://www.7cantos.com/imovel/56202",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1769448443_1fc504d902314aff497cd1e81590b30b.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1769448443_1fc504d902314aff497cd1e81590b30b.jpg"
@@ -2669,6 +2802,7 @@
     "banheiros": 1,
     "suites": 1,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56245",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1770820728_d623117e098017e54d6913f0a1726ea6.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1770820728_d623117e098017e54d6913f0a1726ea6.jpg"
@@ -2689,6 +2823,7 @@
     "banheiros": 1,
     "suites": 1,
     "vagas": 1,
+    "url_imovel": "https://www.7cantos.com/imovel/56469",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1781119235_853c23771df9d113f25560b6f69f1bc3.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1781119235_853c23771df9d113f25560b6f69f1bc3.jpg"
@@ -2709,6 +2844,7 @@
     "banheiros": 1,
     "suites": 0,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56431",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1779197007_a73be29e8a1402fe39d7696d9e19d652.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1779197007_a73be29e8a1402fe39d7696d9e19d652.jpg"
@@ -2729,6 +2865,7 @@
     "banheiros": 1,
     "suites": 1,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56337",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1775072481_57d0ea050904ec337acacd3e40bb7a6c.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1775072481_57d0ea050904ec337acacd3e40bb7a6c.jpg"
@@ -2749,6 +2886,7 @@
     "banheiros": 2,
     "suites": 0,
     "vagas": 2,
+    "url_imovel": "https://www.7cantos.com/imovel/56148",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1767966579_5c4dba7294943e00f80d7eddac6b2ad4.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1767966579_5c4dba7294943e00f80d7eddac6b2ad4.jpg"
@@ -2769,6 +2907,7 @@
     "banheiros": 2,
     "suites": 1,
     "vagas": 2,
+    "url_imovel": "https://www.7cantos.com/imovel/55980",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1762350382_422c45ceaede1dbb80c5885b93777968.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1762350382_422c45ceaede1dbb80c5885b93777968.jpg"
@@ -2789,6 +2928,7 @@
     "banheiros": 1,
     "suites": 0,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56375",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1776715853_5e0dd4eea7ba9b7e4151f831cab3ce27.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1776715853_5e0dd4eea7ba9b7e4151f831cab3ce27.jpg"
@@ -2809,6 +2949,7 @@
     "banheiros": 1,
     "suites": 0,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56384",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1776973585_895bf3cf20d025afe83e5f9925e7e787.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1776973585_895bf3cf20d025afe83e5f9925e7e787.jpg"
@@ -2829,6 +2970,7 @@
     "banheiros": 1,
     "suites": 0,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56385",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1776974570_8abd8c6c77a2df8cbb54570569c10e1f.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1776974570_8abd8c6c77a2df8cbb54570569c10e1f.jpg"
@@ -2849,6 +2991,7 @@
     "banheiros": 1,
     "suites": 1,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56388",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1777315651_a7e756e65661bd7dfb09518069facb6f.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1777315651_a7e756e65661bd7dfb09518069facb6f.jpg"
@@ -2869,6 +3012,7 @@
     "banheiros": 1,
     "suites": 0,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56016",
     "fotos": []
   },
   {
@@ -2886,6 +3030,7 @@
     "banheiros": 1,
     "suites": 0,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56516",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1782395066_09e6aabe973db8cd2d777ff8b0315218.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1782395066_09e6aabe973db8cd2d777ff8b0315218.jpg"
@@ -2906,6 +3051,7 @@
     "banheiros": 4,
     "suites": 3,
     "vagas": 2,
+    "url_imovel": "https://www.7cantos.com/imovel/56137",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1767710904_6ced83abb8121f5a581e20174930bbc6.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1767710904_6ced83abb8121f5a581e20174930bbc6.jpg"
@@ -2926,6 +3072,7 @@
     "banheiros": 1,
     "suites": 0,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56313",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1773666665_fbbfbb59738b998c4b9f03d479c4db47.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1773666665_fbbfbb59738b998c4b9f03d479c4db47.jpg"
@@ -2946,6 +3093,7 @@
     "banheiros": 6,
     "suites": 4,
     "vagas": 5,
+    "url_imovel": "https://www.7cantos.com/imovel/56184",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1769006739_0e38a3ae3a5fac7eb0204d27e5a49eb8.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1769006739_0e38a3ae3a5fac7eb0204d27e5a49eb8.jpg"
@@ -2966,6 +3114,7 @@
     "banheiros": 3,
     "suites": 1,
     "vagas": 1,
+    "url_imovel": "https://www.7cantos.com/imovel/56095",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1766149424_4fb3deb3c683d514aea147f251f6d235.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1766149424_4fb3deb3c683d514aea147f251f6d235.jpg"
@@ -2986,6 +3135,7 @@
     "banheiros": 5,
     "suites": 4,
     "vagas": 3,
+    "url_imovel": "https://www.7cantos.com/imovel/56314",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1773689783_f3bf9624163b7e7c348b1d7e87ca7a93.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1773689783_f3bf9624163b7e7c348b1d7e87ca7a93.jpg"
@@ -3006,6 +3156,7 @@
     "banheiros": 1,
     "suites": 0,
     "vagas": 1,
+    "url_imovel": "https://www.7cantos.com/imovel/56383",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1776972221_99b1344f77b00652fc0f7f32a5e1e00d.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1776972221_99b1344f77b00652fc0f7f32a5e1e00d.jpg"
@@ -3026,6 +3177,7 @@
     "banheiros": 1,
     "suites": 1,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56038",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1764348654_51e49b121facbd23203cf94b4bd56241.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1764348654_51e49b121facbd23203cf94b4bd56241.jpg"
@@ -3046,6 +3198,7 @@
     "banheiros": 1,
     "suites": 0,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56220",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1770056418_d61bbcc8b2074d1f67f79230b449f580.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1770056418_d61bbcc8b2074d1f67f79230b449f580.jpg"
@@ -3066,6 +3219,7 @@
     "banheiros": 1,
     "suites": 0,
     "vagas": 1,
+    "url_imovel": "https://www.7cantos.com/imovel/55809",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1754672336_a065c8b9aa0ade37685fd9b69f9fa43f.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1754672336_a065c8b9aa0ade37685fd9b69f9fa43f.jpg"
@@ -3086,6 +3240,7 @@
     "banheiros": 1,
     "suites": 0,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/55810",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1754672437_75037e8472d36b8031ef75cbf5c228f9.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1754672437_75037e8472d36b8031ef75cbf5c228f9.jpg"
@@ -3106,6 +3261,7 @@
     "banheiros": 2,
     "suites": 0,
     "vagas": 1,
+    "url_imovel": "https://www.7cantos.com/imovel/56480",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1781544816_33b5acd1274725a645492b8acf9537a2.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1781544816_33b5acd1274725a645492b8acf9537a2.jpg"
@@ -3126,6 +3282,7 @@
     "banheiros": 4,
     "suites": 3,
     "vagas": 3,
+    "url_imovel": "https://www.7cantos.com/imovel/56136",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1767708686_873e6015cbf5c3243d7a892d28a717fc.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1767708686_873e6015cbf5c3243d7a892d28a717fc.jpg"
@@ -3146,6 +3303,7 @@
     "banheiros": 2,
     "suites": 0,
     "vagas": 2,
+    "url_imovel": "https://www.7cantos.com/imovel/56421",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1778696252_410567583fe5b858731a9b572ba2d6d5.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1778696252_410567583fe5b858731a9b572ba2d6d5.jpg"
@@ -3166,6 +3324,7 @@
     "banheiros": 2,
     "suites": 0,
     "vagas": 1,
+    "url_imovel": "https://www.7cantos.com/imovel/56157",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1768250021_85f9a7e078bf6759863ef4b9dc12b776.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1768250021_85f9a7e078bf6759863ef4b9dc12b776.jpg"
@@ -3186,6 +3345,7 @@
     "banheiros": 1,
     "suites": 0,
     "vagas": 1,
+    "url_imovel": "https://www.7cantos.com/imovel/55941",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1761312633_3894235beabe7d49e2ba3ad4fd5075ac.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1761312633_3894235beabe7d49e2ba3ad4fd5075ac.jpg"
@@ -3206,6 +3366,7 @@
     "banheiros": 3,
     "suites": 0,
     "vagas": 1,
+    "url_imovel": "https://www.7cantos.com/imovel/56065",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1765485544_c55bb4d5a3b2391f7881df9f4aa4f81b.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1765485544_c55bb4d5a3b2391f7881df9f4aa4f81b.jpg"
@@ -3226,6 +3387,7 @@
     "banheiros": 3,
     "suites": 1,
     "vagas": 2,
+    "url_imovel": "https://www.7cantos.com/imovel/56054",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1765309857_a7c931b81095ddbaf993649882e2b0c9.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1765309857_a7c931b81095ddbaf993649882e2b0c9.jpg"
@@ -3246,6 +3408,7 @@
     "banheiros": 1,
     "suites": 0,
     "vagas": 1,
+    "url_imovel": "https://www.7cantos.com/imovel/55919",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1762951449_b396f964738692f5b24de0e5c6f4f242.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1762951449_b396f964738692f5b24de0e5c6f4f242.jpg"
@@ -3266,6 +3429,7 @@
     "banheiros": 1,
     "suites": 0,
     "vagas": 1,
+    "url_imovel": "https://www.7cantos.com/imovel/56505",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1782140699_c365cc62026c957f857ceab0eb00315e.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1782140699_c365cc62026c957f857ceab0eb00315e.jpg"
@@ -3286,6 +3450,7 @@
     "banheiros": 2,
     "suites": 0,
     "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56528",
     "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1782916356_dd80c4b6bc9c6dd55cc667251b21649f.jpg",
     "fotos": [
       "https://7cantos.s3.sa-east-1.amazonaws.com/image1782916356_dd80c4b6bc9c6dd55cc667251b21649f.jpg"

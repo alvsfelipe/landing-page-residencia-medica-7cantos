@@ -1,0 +1,31 @@
+{
+  "residencia-medica-vila-clementino": {
+    "label": "Hospitais e instituições de saúde",
+    "anchors": [
+      {
+        "id": "hospital-sao-paulo-unifesp",
+        "name": "Hospital São Paulo / UNIFESP",
+        "type": "hospital",
+        "address": "Rua Napoleão de Barros, 715, Vila Clementino, São Paulo - SP, 04024-002"
+      },
+      {
+        "id": "hspe-iamspe",
+        "name": "Hospital do Servidor Público Estadual / IAMSPE",
+        "type": "hospital",
+        "address": "Avenida Ibirapuera, 981, Vila Clementino, São Paulo - SP, 04029-000"
+      },
+      {
+        "id": "instituto-dante-pazzanese",
+        "name": "Instituto Dante Pazzanese de Cardiologia",
+        "type": "hospital",
+        "address": "Avenida Doutor Dante Pazzanese, 500, Vila Mariana, São Paulo - SP, 04012-909"
+      },
+      {
+        "id": "hospital-do-rim",
+        "name": "Hospital do Rim",
+        "type": "hospital",
+        "address": "Rua Borges Lagoa, 960, Vila Clementino, São Paulo - SP, 04038-002"
+      }
+    ]
+  }
+}

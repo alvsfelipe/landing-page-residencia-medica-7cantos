@@ -82,6 +82,7 @@ const properties = parseCsv(propertiesCsv.replace(/^\uFEFF/, ""))
       banheiros: numberOrZero(row.bathrooms),
       suites: numberOrZero(row.suites),
       vagas: numberOrZero(row.parking_spaces),
+      url_imovel: `https://www.7cantos.com/imovel/${row.id}`,
       foto: photo || undefined,
       fotos: photo ? [photo] : [],
     };
