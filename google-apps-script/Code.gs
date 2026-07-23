@@ -1,6 +1,7 @@
 const SPREADSHEET_ID = "1-X3w6j3ZpiYwaKPEzeyWPpDcKiHUQx6haBbge8U1IZ8";
 const SHEET_NAME = "Leads";
 const MOBILITY_SHEET_NAME = "Mobilidade";
+const INTERESTS_SHEET_NAME = "Interesses";
 const MOBILITY_HEADERS = [
   "Chave",
   "Conjunto de âncoras",
@@ -35,6 +36,9 @@ function doPost(event) {
     if (payload.action === "mobility_store") {
       return jsonResponse(storeMobility(payload));
     }
+    if (payload.action === "property_interest") {
+      return jsonResponse(storePropertyInterest(payload));
+    }
 
     const sheet = SpreadsheetApp.openById(SPREADSHEET_ID).getSheetByName(SHEET_NAME);
     if (!sheet) {
@@ -68,6 +72,50 @@ function doPost(event) {
     console.error(error);
     return jsonResponse({ ok: false, error: String(error) });
   }
+}
+
+function getInterestsSheet() {
+  const spreadsheet = SpreadsheetApp.openById(SPREADSHEET_ID);
+  let sheet = spreadsheet.getSheetByName(INTERESTS_SHEET_NAME);
+  const headers = [
+    "Clicado em",
+    "Nome",
+    "WhatsApp",
+    "ID imóvel",
+    "Endereço imóvel",
+    "URL imóvel",
+    "ID hospital",
+    "Hospital escolhido",
+    "utm_source",
+    "utm_medium",
+    "utm_campaign",
+    "ref",
+    "Página de origem",
+  ];
+  if (!sheet) sheet = spreadsheet.insertSheet(INTERESTS_SHEET_NAME);
+  sheet.getRange(1, 1, 1, headers.length).setValues([headers]);
+  sheet.setFrozenRows(1);
+  return sheet;
+}
+
+function storePropertyInterest(payload) {
+  const sheet = getInterestsSheet();
+  sheet.appendRow([
+    payload.clickedAt || new Date().toISOString(),
+    payload.name || "",
+    payload.whatsapp || "",
+    payload.propertyId || "",
+    payload.propertyAddress || "",
+    payload.propertyUrl || "",
+    payload.hospitalId || "",
+    payload.hospitalName || "",
+    payload.utmSource || "",
+    payload.utmMedium || "",
+    payload.utmCampaign || "",
+    payload.ref || "",
+    payload.sourcePageUrl || payload.pageUrl || "",
+  ]);
+  return { ok: true };
 }
 
 function getMobilitySheet() {

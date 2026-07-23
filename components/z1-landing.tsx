@@ -238,9 +238,43 @@ export function Z1Landing({ properties, hospitals, mobilityAnchorSetId, mobility
   }
 
   const openPlan = () => { track("move_plan_started"); setModalOpen(true); };
+  const startSimulation = () => {
+    track("move_plan_started", { destination: "simulator" });
+    setModalOpen(false);
+    document.querySelector("#como-funciona")?.scrollIntoView({ behavior: "smooth", block: "start" });
+    window.setTimeout(() => {
+      document.querySelector<HTMLSelectElement>('.z1-simulator select[name="local"]')?.focus();
+    }, 500);
+  };
 
   const selectedHospitalName = selectedAnchor?.name ??
     (selectedAnchorId === "outro" ? "Outro hospital da região" : "Ainda não sei");
+
+  function registerPropertyInterest(property: Property) {
+    if (!leadCaptured || property.id == null || !property.url_imovel) return;
+    const attribution = getAttribution(new URLSearchParams(window.location.search));
+    track("property_clicked", { property_id: property.id, anchor_id: selectedAnchorId });
+    void fetch("/api/property-interests", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({
+        name: contactName,
+        whatsapp: contactWhatsapp,
+        currentCity,
+        moveDate,
+        budget,
+        livingArrangement,
+        propertyId: String(property.id),
+        propertyAddress: propertyMobilityAddress(property),
+        propertyUrl: property.url_imovel,
+        hospitalId: selectedAnchorId,
+        hospitalName: selectedHospitalName,
+        attribution,
+        pageUrl: window.location.href,
+      }),
+      keepalive: true,
+    }).catch((error) => console.error("Falha ao registrar interesse no imóvel", error));
+  }
 
   function runSimulator(event: FormEvent<HTMLFormElement>) {
     event.preventDefault();
@@ -348,11 +382,11 @@ export function Z1Landing({ properties, hospitals, mobilityAnchorSetId, mobility
         <Image src="/logo-7cantos.png" alt="7Cantos.com" width={744} height={222} priority />
       </a>
       <nav aria-label="Navegação da landing"><a href="#como-funciona">Como funciona</a><a href="#imoveis">Imóveis</a><a href="#chegada">Sua chegada</a></nav>
-      <button className="z1-btn z1-btn-sm" onClick={openPlan}>Começar</button>
+      <button className="z1-btn z1-btn-sm" onClick={startSimulation}>Começar</button>
     </header>
 
     <section className="z1-hero" id="inicio">
-      <div className="z1-hero-copy"><p className="z1-eyebrow">7Cantos Residência · Vila Clementino</p><h1>Sua residência já vai ser intensa. <em>Sua mudança não precisa ser.</em></h1><p>Encontre onde morar, visite apartamentos selecionados perto da sua rotina e chegue a São Paulo com tudo preparado.</p><div className="z1-actions"><button className="z1-btn" onClick={openPlan}>Montar meu plano de mudança <span>↗</span></button><a href="#imoveis">Ver imóveis disponíveis ↓</a></div></div>
+      <div className="z1-hero-copy"><p className="z1-eyebrow">7Cantos Residência · Vila Clementino</p><h1>Sua residência já vai ser intensa. <em>Sua mudança não precisa ser.</em></h1><p>Encontre onde morar, visite apartamentos selecionados perto da sua rotina e chegue a São Paulo com tudo preparado.</p><div className="z1-actions"><button className="z1-btn" onClick={startSimulation}>Montar meu plano de mudança <span>↓</span></button><a href="#imoveis">Ver imóveis disponíveis ↓</a></div></div>
       <div className="z1-hero-home">
         <Image src="/hero-residencia-medica.png" alt="Apartamento compacto da 7Cantos com cozinha integrada" fill priority sizes="(min-width: 1000px) 46vw, 100vw" />
         <div className="z1-hero-home-shade" />
@@ -405,10 +439,13 @@ export function Z1Landing({ properties, hospitals, mobilityAnchorSetId, mobility
             candidateMobility?.mode === mobilityMode
               ? candidateMobility
               : null;
-          return <article className="z1-property" key={item.id || index} onMouseEnter={() => track("property_viewed", { property_id: item.id })}>
+          const card = <article className="z1-property" onMouseEnter={() => track("property_viewed", { property_id: item.id })}>
             <div className="z1-property-image">{image ? <Image src={image} alt={`Imóvel na Vila Clementino${item.endereco ? ` — ${item.endereco}` : ""}`} fill sizes="(min-width: 1000px) 33vw, (min-width: 700px) 50vw, 100vw" /> : <span>Foto não disponível</span>}</div>
-            <div className="z1-property-body"><p>{item.endereco || "Vila Clementino, São Paulo"}</p><h3>{formatMoney(item.aluguel)} <small>/ aluguel</small></h3><ul><li>{item.area || "—"} m²</li><li>{item.quartos ?? "—"} quarto(s)</li><li>{item.banheiros ?? "—"} banheiro(s)</li><li>{item.vagas ?? 0} vaga(s)</li></ul><div className="z1-cost"><span>Custo mensal estimado</span><strong>{formatMoney(total)}</strong><small>Aluguel + condomínio + IPTU</small></div>{selectedAnchor && leadCaptured && <div className="z1-mobility-result"><span>{mobilityMode === "WALK" ? "A pé" : "De carro"} até {selectedAnchor.name}</span>{mobilityLoading && !mobility ? <strong className="z1-route-skeleton" aria-label="Calculando rota" /> : mobility?.status === "ok" && mobility.distanceMeters != null && mobility.durationMinutes != null ? <strong>{mobilityMode === "WALK" ? "🚶" : "🚗"} {formatMobilityDuration(mobility.durationMinutes)} · {formatMobilityDistance(mobility.distanceMeters)}</strong> : <strong>Consulte a rota atual</strong>}{mobility?.status === "ok" && <small>{mobility.provider === "openrouteservice" ? "openrouteservice · © OpenStreetMap contributors" : `Powered by Google, ©${new Date().getFullYear()} Google`}</small>}{mobility?.googleMapsUrl && <a href={mobility.googleMapsUrl} target="_blank" rel="noopener noreferrer" onClick={() => track("mobility_route_clicked", { property_id: item.id, anchor_id: selectedAnchor.id, mode: mobilityMode })}>Ver trajeto no Google Maps ↗</a>}</div>}{item.url_imovel && <a href={item.url_imovel} target="_blank" rel="noopener noreferrer" onClick={() => track("property_clicked", { property_id: item.id })}>Ver anúncio na 7Cantos ↗</a>}</div>
+            <div className="z1-property-body"><p>{item.endereco || "Vila Clementino, São Paulo"}</p><h3>{formatMoney(item.aluguel)} <small>/ aluguel</small></h3><ul><li>{item.area || "—"} m²</li><li>{item.quartos ?? "—"} quarto(s)</li><li>{item.banheiros ?? "—"} banheiro(s)</li><li>{item.vagas ?? 0} vaga(s)</li></ul><div className="z1-cost"><span>Custo mensal estimado</span><strong>{formatMoney(total)}</strong><small>Aluguel + condomínio + IPTU</small></div>{selectedAnchor && leadCaptured && <div className="z1-mobility-result"><span>{mobilityMode === "WALK" ? "A pé" : "De carro"} até {selectedAnchor.name}</span>{mobilityLoading && !mobility ? <strong className="z1-route-skeleton" aria-label="Calculando rota" /> : mobility?.status === "ok" && mobility.distanceMeters != null && mobility.durationMinutes != null ? <strong>{mobilityMode === "WALK" ? "🚶" : "🚗"} {formatMobilityDuration(mobility.durationMinutes)} · {formatMobilityDistance(mobility.distanceMeters)}</strong> : <strong>Consulte a rota atual</strong>}{mobility?.status === "ok" && <small>{mobility.provider === "openrouteservice" ? "openrouteservice · © OpenStreetMap contributors" : `Powered by Google, ©${new Date().getFullYear()} Google`}</small>}</div>}{item.url_imovel && (leadCaptured ? <span className="z1-property-cta">Quero ver! <b aria-hidden="true">↗</b></span> : <button className="z1-property-locked" type="button" onClick={startSimulation}>Salvar meu perfil para ver</button>)}</div>
           </article>;
+          return item.url_imovel && leadCaptured
+            ? <a className="z1-property-card-link" key={item.id || index} href={item.url_imovel} target="_blank" rel="noopener noreferrer" aria-label={`Quero ver o imóvel ${item.endereco || item.id} na 7Cantos`} onClick={() => registerPropertyInterest(item)}>{card}</a>
+            : <div className="z1-property-card-shell" key={item.id || index}>{card}</div>;
         })}
         {!proximityProperties.length && <div className="z1-empty"><b>{compatible.length ? "Nenhum imóvel nesse limite de proximidade" : "Seleção de imóveis em preparação"}</b><p>{compatible.length ? "Aumente o tempo máximo ou remova o filtro para visualizar outras opções." : "Não encontramos imóveis compatíveis com os filtros atuais."}</p>{compatible.length ? <button className="z1-outline-btn" onClick={() => changeProximityFilter("none")}>Remover filtro</button> : <button className="z1-btn" onClick={openPlan}>Quero receber opções</button>}</div>}
       </div>
@@ -443,7 +480,7 @@ export function Z1Landing({ properties, hospitals, mobilityAnchorSetId, mobility
     <section className="z1-ambassador"><div className="z1-placeholder" aria-hidden="true">7C</div><div><p className="z1-eyebrow">Quem já passou por essa mudança</p><h2>Converse com quem já viveu a mesma experiência.</h2><p>Este espaço receberá histórias reais de residentes: cidade de origem, programa, bairro escolhido, vídeo e depoimento.</p><span>Embaixador 7Cantos — em breve</span></div></section>
     */}
 
-    <section className="z1-final"><p className="z1-eyebrow">Comece sua chegada</p><h2>Sua residência já vai exigir muito de você. <em>Sua mudança não precisa.</em></h2><p>A 7Cantos ajuda você a escolher onde morar, encontrar seu apartamento e organizar sua chegada.</p><button className="z1-btn z1-btn-light" onClick={openPlan}>Montar meu plano de mudança ↗</button></section>
+    <section className="z1-final"><p className="z1-eyebrow">Comece sua chegada</p><h2>Sua residência já vai exigir muito de você. <em>Sua mudança não precisa.</em></h2><p>A 7Cantos ajuda você a escolher onde morar, encontrar seu apartamento e organizar sua chegada.</p><button className="z1-btn z1-btn-light" onClick={startSimulation}>Montar meu plano de mudança ↑</button></section>
 
     <footer className="z1-footer"><a className="z1-logo" href="#inicio" aria-label="7Cantos, voltar ao início"><Image src="/logo-7cantos.png" alt="7Cantos.com" width={744} height={222} /></a><p>Escolher · Alugar · Mudar · Viver</p><p>© {new Date().getFullYear()} 7Cantos</p></footer>
 
