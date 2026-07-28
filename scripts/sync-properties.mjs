@@ -10,13 +10,14 @@
  *   npm run sync:properties -- --bairro Moema
  *   npm run sync:properties -- --todos-bairros
  *   npm run sync:properties -- --incluir-alugados  # sem o filtro is_active
+ *   npm run sync:properties -- --sem-fotos         # pula o detalhe (mais rápido, sem imagens)
  *
  * Credenciais em .env.local: SETE_CANTOS_API_TOKEN (obrigatório, formato
  * `7c_live_...`, escopo `imoveis:read`) e SETE_CANTOS_API_URL (opcional).
  */
 import { readFile, writeFile } from "node:fs/promises";
 import path from "node:path";
-import { DEFAULT_BASE_URL, fetchAllImoveis } from "../lib/sete-cantos/client.ts";
+import { DEFAULT_BASE_URL, fetchAllImoveis, hydratePhotos } from "../lib/sete-cantos/client.ts";
 import { findQualityIssues, isAvailable, mapImovel } from "../lib/sete-cantos/map.ts";
 
 const root = process.cwd();
@@ -42,6 +43,7 @@ function parseArgs(argv) {
     city: "São Paulo",
     uf: "SP",
     onlyAvailable: true,
+    comFotos: true,
     out: "data/properties.json",
     pageSize: 100,
     dryRun: false,
@@ -54,6 +56,7 @@ function parseArgs(argv) {
     if (arg === "--dry-run") options.dryRun = true;
     else if (arg === "--todos-bairros") options.neighborhood = "";
     else if (arg === "--incluir-alugados") options.onlyAvailable = false;
+    else if (arg === "--sem-fotos") options.comFotos = false;
     else if (arg === "--bairro") options.neighborhood = next();
     else if (arg === "--cidade") options.city = next();
     else if (arg === "--uf") options.uf = next();
@@ -104,7 +107,19 @@ async function main() {
   const alugados = imoveis.length - disponiveis.length;
   if (alugados > 0) console.log(`Descartados ${alugados} imóveis já alugados (is_rented).`);
 
-  const properties = disponiveis
+  // A listagem não devolve `photos`; sem isso todo card da landing fica sem imagem.
+  let completos = disponiveis;
+  if (options.comFotos) {
+    console.log(`Buscando fotos no endpoint de detalhe (${disponiveis.length} imóveis)...`);
+    completos = await hydratePhotos(
+      { token, baseUrl },
+      disponiveis,
+      { onProgress: (feitos, total) => process.stdout.write(`\r  ${feitos}/${total}`) },
+    );
+    process.stdout.write("\n");
+  }
+
+  const properties = completos
     .map(mapImovel)
     .sort((a, b) => (a.quartos || 0) - (b.quartos || 0) || (a.area || 0) - (b.area || 0));
 

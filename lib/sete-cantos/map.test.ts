@@ -1,5 +1,12 @@
 import { describe, expect, it, vi } from "vitest";
-import { fetchAllImoveis, fetchImoveisPage, parseListResponse, SeteCantosApiError } from "./client.ts";
+import {
+  fetchAllImoveis,
+  fetchImovel,
+  fetchImoveisPage,
+  hydratePhotos,
+  parseListResponse,
+  SeteCantosApiError,
+} from "./client.ts";
 import { findQualityIssues, isAvailable, mapImovel, photoUrls, toNumber } from "./map.ts";
 import type { ImovelResponse } from "./types.ts";
 
@@ -276,5 +283,81 @@ describe("fetchAllImoveis", () => {
 
     expect(todos.map((item) => item.id)).toEqual([1, 2]);
     expect(fetchImpl).toHaveBeenCalledTimes(2);
+  });
+});
+
+describe("fetchImovel", () => {
+  it("busca o detalhe pelo id", async () => {
+    const fetchImpl = vi.fn().mockResolvedValue(jsonResponse(imovel));
+    const detalhe = await fetchImovel({ token: "t", fetchImpl: fetchImpl as unknown as typeof fetch }, 56155);
+
+    expect(detalhe?.id).toBe(56155);
+    expect(fetchImpl.mock.calls[0][0]).toMatch(/\/imoveis\/56155$/);
+  });
+
+  it("devolve null em 404 (imóvel apagado entre a listagem e o detalhe)", async () => {
+    const fetchImpl = vi.fn().mockResolvedValue(jsonResponse({ detail: "not found" }, 404));
+    await expect(fetchImovel({ token: "t", fetchImpl: fetchImpl as unknown as typeof fetch }, 1)).resolves.toBeNull();
+  });
+
+  it("propaga erros que não sejam 404", async () => {
+    const fetchImpl = vi.fn().mockResolvedValue(jsonResponse({ detail: "nope" }, 403));
+    await expect(
+      fetchImovel({ token: "t", fetchImpl: fetchImpl as unknown as typeof fetch }, 1),
+    ).rejects.toThrow(/imoveis:read/);
+  });
+});
+
+describe("hydratePhotos", () => {
+  it("preenche as fotos que a listagem não devolve", async () => {
+    const listados = [{ id: 1 }, { id: 2 }];
+    const fetchImpl = vi.fn().mockImplementation(async (url: string) => {
+      const id = Number(url.split("/").pop());
+      return jsonResponse({ id, photos: [{ id: id * 10, url_l: `https://cdn/${id}.jpg`, is_main: true }] });
+    });
+
+    const hidratados = await hydratePhotos({ token: "t", fetchImpl: fetchImpl as unknown as typeof fetch }, listados);
+
+    expect(hidratados.map((item) => mapImovel(item).foto)).toEqual(["https://cdn/1.jpg", "https://cdn/2.jpg"]);
+    expect(fetchImpl).toHaveBeenCalledTimes(2);
+  });
+
+  it("não gasta requisição para imóvel que já veio com fotos", async () => {
+    const fetchImpl = vi.fn();
+    const hidratados = await hydratePhotos({ token: "t", fetchImpl: fetchImpl as unknown as typeof fetch }, [imovel]);
+
+    expect(fetchImpl).not.toHaveBeenCalled();
+    expect(hidratados[0]).toBe(imovel);
+  });
+
+  it("mantém o imóvel da listagem quando o detalhe some (404)", async () => {
+    const fetchImpl = vi.fn().mockImplementation(async () => jsonResponse({ detail: "gone" }, 404));
+    const listado = { id: 9, rent_value: "1000.00" };
+
+    const hidratados = await hydratePhotos({ token: "t", fetchImpl: fetchImpl as unknown as typeof fetch }, [listado]);
+
+    expect(hidratados).toEqual([listado]);
+  });
+
+  it("respeita o limite de concorrência e reporta progresso", async () => {
+    let ativos = 0;
+    let pico = 0;
+    const fetchImpl = vi.fn().mockImplementation(async (url: string) => {
+      ativos += 1;
+      pico = Math.max(pico, ativos);
+      await new Promise((resolve) => setTimeout(resolve, 5));
+      ativos -= 1;
+      return jsonResponse({ id: Number(url.split("/").pop()), photos: [] });
+    });
+
+    const progresso: number[] = [];
+    const listados = Array.from({ length: 10 }, (_, index) => ({ id: index + 1 }));
+    await hydratePhotos({ token: "t", fetchImpl: fetchImpl as unknown as typeof fetch }, listados, {
+      concurrency: 3,
+      onProgress: (feitos) => progresso.push(feitos),
+    });
+
+    expect(pico).toBeLessThanOrEqual(3);
+    expect(progresso.at(-1)).toBe(10);
   });
 });
