@@ -9,3 +9,6 @@ npm-debug.log*
 /desktop-residencia.png
 /mobile-residencia.png
 .vercel
+
+# Cache incremental do TypeScript
+tsconfig.tsbuildinfo
