@@ -8,6 +8,8 @@
  *   npm run sync:properties                        # Vila Clementino, São Paulo/SP, disponíveis
  *   npm run sync:properties -- --dry-run           # não grava, só relata
  *   npm run sync:properties -- --bairro Moema
+ *   npm run sync:properties -- --bairros "Brooklin,Itaim Bibi,Vila Olímpia"
+ *   npm run sync:properties -- --bairros "Brooklin,Moema" --inventario  # só conta, não grava
  *   npm run sync:properties -- --todos-bairros
  *   npm run sync:properties -- --incluir-alugados  # sem o filtro is_active
  *   npm run sync:properties -- --sem-fotos         # pula o detalhe (mais rápido, sem imagens)
@@ -39,7 +41,8 @@ async function loadLocalEnv() {
 
 function parseArgs(argv) {
   const options = {
-    neighborhood: "Vila Clementino",
+    // Lista para suportar campanhas que cobrem vários bairros; vazia = todos.
+    neighborhoods: ["Vila Clementino"],
     city: "São Paulo",
     uf: "SP",
     onlyAvailable: true,
@@ -54,10 +57,12 @@ function parseArgs(argv) {
     const next = () => argv[++index];
 
     if (arg === "--dry-run") options.dryRun = true;
-    else if (arg === "--todos-bairros") options.neighborhood = "";
+    else if (arg === "--todos-bairros") options.neighborhoods = [];
     else if (arg === "--incluir-alugados") options.onlyAvailable = false;
     else if (arg === "--sem-fotos") options.comFotos = false;
-    else if (arg === "--bairro") options.neighborhood = next();
+    else if (arg === "--bairro") options.neighborhoods = [next()];
+    else if (arg === "--bairros") options.neighborhoods = next().split(",").map((item) => item.trim()).filter(Boolean);
+    else if (arg === "--inventario") options.inventarioApenas = true;
     else if (arg === "--cidade") options.city = next();
     else if (arg === "--uf") options.uf = next();
     else if (arg === "--out") options.out = next();
@@ -79,23 +84,51 @@ async function main() {
     process.exit(1);
   }
 
-  const alvo = [options.neighborhood, options.city, options.uf].filter(Boolean).join(", ") || "todos os bairros";
+  const alvo = options.neighborhoods.length ? options.neighborhoods.join(", ") : "todos os bairros";
   console.log(`Buscando imóveis em ${baseUrl}/imoveis`);
-  console.log(`  filtro: ${alvo}${options.onlyAvailable ? " — apenas disponíveis (is_active=true)" : " — incluindo alugados"}`);
+  console.log(`  filtro: ${alvo} — ${options.city}/${options.uf}${options.onlyAvailable ? " — apenas disponíveis (is_active=true)" : " — incluindo alugados"}`);
 
-  const imoveis = await fetchAllImoveis(
-    { token, baseUrl },
-    {
-      pageSize: options.pageSize,
-      neighborhood: options.neighborhood || undefined,
-      city: options.city || undefined,
-      uf: options.uf || undefined,
-      ...(options.onlyAvailable ? { is_active: true } : {}),
-      onPage: (page) => console.log(`  página ${page.page}: ${page.items.length} imóveis (total ${page.total})`),
-    },
-  );
+  // A API filtra por um bairro de cada vez, então uma consulta por bairro.
+  const buscas = options.neighborhoods.length ? options.neighborhoods : [undefined];
+  const porBairro = new Map();
+  const imoveis = [];
+  const vistos = new Set();
+
+  for (const bairro of buscas) {
+    const encontrados = await fetchAllImoveis(
+      { token, baseUrl },
+      {
+        pageSize: options.pageSize,
+        neighborhood: bairro,
+        city: options.city || undefined,
+        uf: options.uf || undefined,
+        ...(options.onlyAvailable ? { is_active: true } : {}),
+      },
+    );
+
+    porBairro.set(bairro ?? "(todos)", encontrados.length);
+    console.log(`  ${(bairro ?? "todos os bairros").padEnd(24)} ${encontrados.length} imóveis`);
+
+    // Um imóvel pode aparecer em duas buscas se o bairro for grafado de formas diferentes.
+    for (const imovel of encontrados) {
+      if (vistos.has(imovel.id)) continue;
+      vistos.add(imovel.id);
+      imoveis.push(imovel);
+    }
+  }
 
   console.log(`Recebidos ${imoveis.length} imóveis da API.`);
+
+  // Inventário serve para decidir se uma campanha tem estoque antes de construí-la.
+  if (options.inventarioApenas) {
+    const ordenado = [...porBairro.entries()].sort((a, b) => b[1] - a[1]);
+    console.log("\nInventário por bairro:");
+    for (const [bairro, quantidade] of ordenado) {
+      console.log(`  ${String(quantidade).padStart(4)}  ${bairro}${quantidade === 0 ? "  ← sem estoque" : ""}`);
+    }
+    console.log(`\n  ${String(imoveis.length).padStart(4)}  TOTAL (sem duplicados)`);
+    return;
+  }
 
   if (imoveis.length === 0) {
     console.error("\nERRO: a API não devolveu nenhum imóvel — properties.json não foi alterado.");
