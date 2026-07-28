@@ -1,8 +1,8 @@
 /**
  * Sincroniza data/properties.json a partir da API externa da 7Cantos.
  *
- * Substitui o fluxo por CSV (scripts/import-properties.mjs), que dependia de
- * exportações manuais do demand-generator.
+ * Substituiu o fluxo por CSV, que dependia de exportações manuais do
+ * demand-generator.
  *
  * Uso:
  *   npm run sync:properties                        # Vila Clementino, São Paulo/SP, disponíveis
