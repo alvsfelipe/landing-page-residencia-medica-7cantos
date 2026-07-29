@@ -1,0 +1,102 @@
+{
+  "residencia-medica": {
+    "slug": "residencia-medica",
+    "seo": {
+      "title": "7Cantos Residência | Moradia e mudança na Vila Clementino",
+      "description": "Escolha onde morar, encontre seu apartamento e organize sua chegada a São Paulo com a 7Cantos."
+    },
+    "neighborhoods": ["Vila Clementino"],
+    "anchorSetId": "residencia-medica-vila-clementino",
+    "defaultMobilityMode": "WALK",
+    "hero": {
+      "eyebrow": "7Cantos Residência · Vila Clementino",
+      "title": "Sua residência já vai ser intensa.",
+      "emphasis": "Sua mudança não precisa ser.",
+      "subtitle": "Encontre onde morar, visite apartamentos selecionados perto da sua rotina e chegue a São Paulo com tudo preparado.",
+      "image": "/hero-residencia-medica.png",
+      "imageAlt": "Apartamento compacto da 7Cantos com cozinha integrada",
+      "highlight": {
+        "label": "EXEMPLO DE UMA NOVA ROTINA",
+        "icon": "🚶",
+        "text": "Você pode morar a 5 minutos a pé da sua residência médica.",
+        "note": "O tempo real aparece quando você escolhe o hospital e compara os imóveis."
+      },
+      "proof": [
+        "✓ Imóveis selecionados na Vila Clementino",
+        "✓ Visite 2 ou 3 opções na mesma rota",
+        "✓ Organize sua mudança com a 7Cantos"
+      ]
+    },
+    "copy": {
+      "anchorQuestion": "Onde você fará residência ou trabalhará?",
+      "anchorOtherLabel": "Outro hospital da região",
+      "propertiesTitle": "Imóveis na Vila Clementino",
+      "propertiesIntro": "Unidades compactas aparecem primeiro. O custo estimado soma aluguel, condomínio e IPTU informados na base da 7Cantos.",
+      "mobilityGateTitle": "Veja a distância até sua residência médica.",
+      "institutionsEyebrow": "Ecossistema de saúde da região",
+      "institutionsTitle": "Residência perto da sua próxima rotina.",
+      "institutionsIntro": "Mapeamos instituições com programa próprio de residência médica e campos de prática oficialmente documentados na Vila Clementino e no entorno imediato.",
+      "whyTitle": "Por que médicos escolhem morar na Vila Clementino?",
+      "whyIntro": "A proximidade do ecossistema hospitalar simplifica plantões, conecta você ao transporte e mantém serviços essenciais por perto. Menos deslocamento pode significar uma rotina mais prática.",
+      "finalTitle": "Sua residência já vai exigir muito de você.",
+      "finalEmphasis": "Sua mudança não precisa.",
+      "finalIntro": "A 7Cantos ajuda você a escolher onde morar, encontrar seu apartamento e organizar sua chegada."
+    },
+    "institutionsKey": "hospitais-vila-clementino"
+  },
+  "faria-lima-berrini": {
+    "slug": "faria-lima-berrini",
+    "seo": {
+      "title": "7Cantos | Morar perto do trabalho na Faria Lima, Berrini e Vila Olímpia",
+      "description": "Encontre apartamentos na zona sul de São Paulo e veja quanto tempo você leva até o seu escritório."
+    },
+    "neighborhoods": [
+      "Brooklin",
+      "Campo Belo",
+      "Cidade Monções",
+      "Itaim Bibi",
+      "Jardim Marajoara",
+      "Santo Amaro",
+      "Vila Cordeiro",
+      "Vila Mascote",
+      "Vila Olímpia"
+    ],
+    "anchorSetId": "trabalho-faria-lima-berrini",
+    "defaultMobilityMode": "DRIVE",
+    "hero": {
+      "eyebrow": "7Cantos · Faria Lima, Berrini e Vila Olímpia",
+      "title": "Seu trabalho exige foco.",
+      "emphasis": "O trajeto até ele não deveria.",
+      "subtitle": "Encontre apartamentos na zona sul, veja quanto tempo você leva até o seu escritório e organize sua mudança com a 7Cantos.",
+      "image": "/hero-residencia-medica.png",
+      "imageAlt": "Apartamento compacto da 7Cantos com cozinha integrada",
+      "highlight": {
+        "label": "O QUE MUDA NA SUA SEMANA",
+        "icon": "🚗",
+        "text": "Trocar 1 hora de trajeto por 15 minutos devolve 8 horas por semana.",
+        "note": "O tempo real aparece quando você escolhe onde trabalha e compara os imóveis."
+      },
+      "proof": [
+        "✓ Imóveis entre o Brooklin, a Vila Olímpia e o Itaim",
+        "✓ Compare o trajeto até o seu escritório",
+        "✓ Organize sua mudança com a 7Cantos"
+      ]
+    },
+    "copy": {
+      "anchorQuestion": "Onde fica o seu trabalho?",
+      "anchorOtherLabel": "Outro endereço da região",
+      "propertiesTitle": "Imóveis perto do seu trabalho",
+      "propertiesIntro": "Unidades compactas aparecem primeiro. O custo estimado soma aluguel, condomínio e IPTU informados na base da 7Cantos.",
+      "mobilityGateTitle": "Veja quanto tempo você leva até o trabalho.",
+      "institutionsEyebrow": "Polos corporativos da região",
+      "institutionsTitle": "Morar perto do eixo que move a cidade.",
+      "institutionsIntro": "Mapeamos os principais polos de escritórios e estações da Faria Lima, Vila Olímpia e Berrini para você medir o trajeto real de cada imóvel.",
+      "whyTitle": "Por que morar perto do trabalho muda o seu dia?",
+      "whyIntro": "O eixo Faria Lima–Berrini concentra escritórios, transporte e serviços. Morar dentro dele encurta o trajeto diário e devolve horas que hoje ficam no trânsito.",
+      "finalTitle": "Sua rotina já ocupa boa parte do seu dia.",
+      "finalEmphasis": "O trajeto não precisa ocupar o resto.",
+      "finalIntro": "A 7Cantos ajuda você a escolher onde morar, encontrar seu apartamento e organizar sua chegada."
+    },
+    "institutionsKey": "polos-faria-lima-berrini"
+  }
+}

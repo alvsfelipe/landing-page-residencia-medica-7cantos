@@ -9,6 +9,7 @@ import {
 } from "./client.ts";
 import { findQualityIssues, isAvailable, mapImovel, photoUrls, toNumber } from "./map.ts";
 import type { ImovelResponse } from "./types.ts";
+import { belongsToCampaign } from "../campaigns.ts";
 
 /** Imóvel no formato documentado no OpenAPI da API externa. */
 const imovel: ImovelResponse = {
@@ -359,5 +360,27 @@ describe("hydratePhotos", () => {
 
     expect(pico).toBeLessThanOrEqual(3);
     expect(progresso.at(-1)).toBe(10);
+  });
+});
+
+describe("belongsToCampaign", () => {
+  const campanha = {
+    neighborhoods: ["Brooklin", "Vila Olímpia", "Cidade Monções"],
+  } as unknown as Parameters<typeof belongsToCampaign>[1];
+
+  it("aceita os bairros da campanha ignorando acentos e caixa", () => {
+    expect(belongsToCampaign("Brooklin", campanha)).toBe(true);
+    expect(belongsToCampaign("VILA OLÍMPIA", campanha)).toBe(true);
+    expect(belongsToCampaign("cidade moncoes", campanha)).toBe(true);
+  });
+
+  it("recusa bairro de fora e imóvel sem bairro", () => {
+    expect(belongsToCampaign("Vila Clementino", campanha)).toBe(false);
+    expect(belongsToCampaign(undefined, campanha)).toBe(false);
+  });
+
+  it("aceita tudo quando a campanha não restringe bairros", () => {
+    const semFiltro = { neighborhoods: [] } as unknown as Parameters<typeof belongsToCampaign>[1];
+    expect(belongsToCampaign("Qualquer", semFiltro)).toBe(true);
   });
 });
