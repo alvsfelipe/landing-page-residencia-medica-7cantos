@@ -8,6 +8,7 @@
  *   npm run sync:properties                        # Vila Clementino, São Paulo/SP, disponíveis
  *   npm run sync:properties -- --dry-run           # não grava, só relata
  *   npm run sync:properties -- --bairro Moema
+ *   npm run sync:properties -- --campanhas   # todos os bairros de data/campaigns.json
  *   npm run sync:properties -- --bairros "Brooklin,Itaim Bibi,Vila Olímpia"
  *   npm run sync:properties -- --bairros "Brooklin,Moema" --inventario  # só conta, não grava
  *   npm run sync:properties -- --todos-bairros
@@ -21,6 +22,7 @@ import { readFile, writeFile } from "node:fs/promises";
 import path from "node:path";
 import { DEFAULT_BASE_URL, fetchAllImoveis, hydratePhotos } from "../lib/sete-cantos/client.ts";
 import { findQualityIssues, isAvailable, mapImovel } from "../lib/sete-cantos/map.ts";
+import campaigns from "../data/campaigns.json" with { type: "json" };
 
 const root = process.cwd();
 
@@ -63,6 +65,12 @@ function parseArgs(argv) {
     else if (arg === "--bairro") options.neighborhoods = [next()];
     else if (arg === "--bairros") options.neighborhoods = next().split(",").map((item) => item.trim()).filter(Boolean);
     else if (arg === "--inventario") options.inventarioApenas = true;
+    else if (arg === "--campanhas") {
+      // União dos bairros de todas as campanhas — é o que o robô agendado usa.
+      options.neighborhoods = [
+        ...new Set(Object.values(campaigns).flatMap((campanha) => campanha.neighborhoods)),
+      ].sort();
+    }
     else if (arg === "--cidade") options.city = next();
     else if (arg === "--uf") options.uf = next();
     else if (arg === "--out") options.out = next();
@@ -164,8 +172,8 @@ async function main() {
     for (const [problema, quantidade] of porProblema) console.log(`  ${quantidade} imóvel(is) ${problema}`);
   }
 
-  // Um imóvel sem bairro ou sem aluguel não é exibível: a landing filtra por
-  // `bairro === "vila clementino"` e mostra o valor no card.
+  // Um imóvel sem bairro ou sem aluguel não é exibível: a landing recorta os
+  // imóveis pelos bairros da campanha e mostra o valor no card.
   const inexibiveis = properties.filter((property) => !property.bairro || property.aluguel <= 0).length;
   if (inexibiveis === properties.length) {
     console.error(

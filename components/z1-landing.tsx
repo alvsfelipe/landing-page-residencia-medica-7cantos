@@ -8,6 +8,7 @@ import { formatMobilityDistance, formatMobilityDuration } from "@/lib/mobility/c
 import { createMobilityBatches, filterAndSortByProximity } from "@/lib/mobility/proximity";
 import { readSessionMobilityForRoute, writeSessionMobility } from "@/lib/mobility/pair-id";
 import type { MobilityAnchor, MobilityMode, MobilityResult } from "@/lib/mobility/types";
+import { belongsToCampaign, type Campaign } from "@/lib/campaigns";
 
 export type Property = {
   id?: string | number; bairro?: string; foto?: string; fotos?: string[]; aluguel?: number;
@@ -42,7 +43,7 @@ function PropertySearchLoading({ anchorName }: { anchorName: string }) {
   </div>;
 }
 
-export function Z1Landing({ properties, hospitals, mobilityAnchorSetId, mobilityAnchors }: { properties: Property[]; hospitals: Hospital[]; mobilityAnchorSetId: string; mobilityAnchors: MobilityAnchor[] }) {
+export function Z1Landing({ campaign, properties, hospitals, mobilityAnchorSetId, mobilityAnchors }: { campaign: Campaign; properties: Property[]; hospitals: Hospital[]; mobilityAnchorSetId: string; mobilityAnchors: MobilityAnchor[] }) {
   const [modalOpen, setModalOpen] = useState(false);
   const [simulated, setSimulated] = useState(false);
   const [simulatorStep, setSimulatorStep] = useState<"profile" | "contact" | "complete">("profile");
@@ -60,7 +61,7 @@ export function Z1Landing({ properties, hospitals, mobilityAnchorSetId, mobility
   const [leadSubmitting, setLeadSubmitting] = useState(false);
   const [leadError, setLeadError] = useState("");
   const [selectedAnchorId, setSelectedAnchorId] = useState("");
-  const [mobilityMode, setMobilityMode] = useState<MobilityMode>("WALK");
+  const [mobilityMode, setMobilityMode] = useState<MobilityMode>(campaign.defaultMobilityMode);
   const [proximitySelection, setProximitySelection] = useState<ProximitySelection>("none");
   const [mobilityResults, setMobilityResults] = useState<Record<string, MobilityResult>>({});
   const [mobilityLoading, setMobilityLoading] = useState(false);
@@ -86,10 +87,10 @@ export function Z1Landing({ properties, hospitals, mobilityAnchorSetId, mobility
   const compatible = useMemo(() => {
     const ceiling = Number(budget.replace(/\D/g, ""));
     return properties
-      .filter((item) => item.bairro?.toLocaleLowerCase("pt-BR") === "vila clementino")
+      .filter((item) => belongsToCampaign(item.bairro, campaign))
       .filter((item) => !ceiling || (item.aluguel || 0) + (item.condominio || 0) + (item.iptu || 0) <= ceiling)
       .sort((a, b) => (a.quartos || 0) - (b.quartos || 0) || (a.area || 0) - (b.area || 0));
-  }, [budget, properties]);
+  }, [budget, properties, campaign]);
 
   const selectedAnchor = useMemo(
     () => mobilityAnchors.find((anchor) => anchor.id === selectedAnchorId) ?? null,
@@ -386,20 +387,20 @@ export function Z1Landing({ properties, hospitals, mobilityAnchorSetId, mobility
     </header>
 
     <section className="z1-hero" id="inicio">
-      <div className="z1-hero-copy"><p className="z1-eyebrow">7Cantos Residência · Vila Clementino</p><h1>Sua residência já vai ser intensa. <em>Sua mudança não precisa ser.</em></h1><p>Encontre onde morar, visite apartamentos selecionados perto da sua rotina e chegue a São Paulo com tudo preparado.</p><div className="z1-actions"><button className="z1-btn" onClick={startSimulation}>Montar meu plano de mudança <span>↓</span></button><a href="#imoveis">Ver imóveis disponíveis ↓</a></div></div>
+      <div className="z1-hero-copy"><p className="z1-eyebrow">{campaign.hero.eyebrow}</p><h1>{campaign.hero.title} <em>{campaign.hero.emphasis}</em></h1><p>{campaign.hero.subtitle}</p><div className="z1-actions"><button className="z1-btn" onClick={startSimulation}>Montar meu plano de mudança <span>↓</span></button><a href="#imoveis">Ver imóveis disponíveis ↓</a></div></div>
       <div className="z1-hero-home">
-        <Image src="/hero-residencia-medica.png" alt="Apartamento compacto da 7Cantos com cozinha integrada" fill priority sizes="(min-width: 1000px) 46vw, 100vw" />
+        <Image src={campaign.hero.image} alt={campaign.hero.imageAlt} fill priority sizes="(min-width: 1000px) 46vw, 100vw" />
         <div className="z1-hero-home-shade" />
-        <div className="z1-hero-distance-card"><small>EXEMPLO DE UMA NOVA ROTINA</small><strong><span aria-hidden="true">🚶</span> Você pode morar a 5 minutos a pé da sua residência médica.</strong><p>O tempo real aparece quando você escolhe o hospital e compara os imóveis.</p></div>
+        <div className="z1-hero-distance-card"><small>{campaign.hero.highlight.label}</small><strong><span aria-hidden="true">{campaign.hero.highlight.icon}</span> {campaign.hero.highlight.text}</strong><p>{campaign.hero.highlight.note}</p></div>
       </div>
-      <ul className="z1-proof"><li>✓ Imóveis selecionados na Vila Clementino</li><li>✓ Visite 2 ou 3 opções na mesma rota</li><li>✓ Organize sua mudança com a 7Cantos</li></ul>
+      <ul className="z1-proof">{campaign.hero.proof.map((item) => <li key={item}>{item}</li>)}</ul>
     </section>
 
     <section className="z1-simulator" id="como-funciona">
       <div className="z1-section-head"><p className="z1-eyebrow">Comece por você</p><h2>Onde começa sua nova rotina?</h2><p>Conte um pouco sobre seus planos. A gente organiza o primeiro recorte para você.</p></div>
       <div className="z1-simulator-steps" aria-label={`Etapa ${simulatorStep === "profile" ? 1 : 2} de 2`}><span className="active">1. Sua rotina</span><i /><span className={simulatorStep !== "profile" ? "active" : ""}>2. Seu contato</span></div>
       {simulatorStep === "profile" && <form onSubmit={runSimulator} onFocus={() => track("simulator_started")}>
-        <label>Onde você fará residência ou trabalhará?<select name="local" required value={selectedAnchorId} onChange={(event) => changeAnchor(event.target.value)}><option value="" disabled>Selecione uma opção</option>{mobilityAnchors.map((anchor) => <option key={anchor.id} value={anchor.id}>{anchor.name}</option>)}<option value="outro">Outro hospital da região</option><option value="nao-sei">Ainda não sei</option></select></label>
+        <label>{campaign.copy.anchorQuestion}<select name="local" required value={selectedAnchorId} onChange={(event) => changeAnchor(event.target.value)}><option value="" disabled>Selecione uma opção</option>{mobilityAnchors.map((anchor) => <option key={anchor.id} value={anchor.id}>{anchor.name}</option>)}<option value="outro">{campaign.copy.anchorOtherLabel}</option><option value="nao-sei">Ainda não sei</option></select></label>
         <label>Quando pretende se mudar?<input name="data" type="month" required value={moveDate} onChange={(event) => setMoveDate(event.target.value)} /></label>
         <label>Como pretende morar?<select name="moradia" required value={livingArrangement} onChange={(event) => setLivingArrangement(event.target.value)}><option value="" disabled>Selecione uma opção</option><option>Sozinho</option><option>Casal</option><option>Dividir apartamento</option><option>Família</option></select></label>
         <label>Orçamento mensal máximo<input name="orcamento" inputMode="numeric" placeholder="Ex.: 4500" value={budget} onChange={(e) => { setBudget(e.target.value); setPropertyPage(0); setMobilityScanComplete(false); setMobilityLoading(false); }} required /><small>Considere aluguel + condomínio + IPTU.</small></label>
@@ -418,14 +419,14 @@ export function Z1Landing({ properties, hospitals, mobilityAnchorSetId, mobility
     </section>
 
     <section className="z1-properties" id="imoveis">
-      <div className="z1-section-head"><p className="z1-eyebrow">Seleção local · {proximityProperties.length} opções</p><h2>Imóveis na Vila Clementino</h2><p>Unidades compactas aparecem primeiro. O custo estimado soma aluguel, condomínio e IPTU informados na base da 7Cantos.</p></div>
+      <div className="z1-section-head"><p className="z1-eyebrow">Seleção local · {proximityProperties.length} opções</p><h2>{campaign.copy.propertiesTitle}</h2><p>{campaign.copy.propertiesIntro}</p></div>
       <div className="z1-mobility-picker">
         <label>Calcular mobilidade até<select value={selectedAnchorId} onChange={(event) => changeAnchor(event.target.value)}><option value="">Selecione uma âncora</option>{mobilityAnchors.map((anchor) => <option key={anchor.id} value={anchor.id}>{anchor.name}</option>)}</select></label>
         <label>Modo de deslocamento<select value={mobilityMode} onChange={(event) => changeMobilityMode(event.target.value as MobilityMode)}><option value="WALK">A pé</option><option value="DRIVE">De carro</option></select></label>
         <label>Proximidade<select value={proximitySelection} disabled={!selectedAnchor} onChange={(event) => changeProximityFilter(event.target.value as ProximitySelection)}><option value="none">Sem filtro</option><option value="nearest">Mais próximos primeiro</option><option value="10">Até 10 min</option><option value="20">Até 20 min</option><option value="30">Até 30 min</option><option value="45">Até 45 min</option></select></label>
         <p>Compare cada imóvel pela distância e pelo tempo estimado até sua rotina. Se você já preencheu o simulador, a seleção escolhida aparece automaticamente aqui.</p>
       </div>
-      {selectedAnchor && !leadCaptured && <div className="z1-mobility-gate"><strong>Veja a distância até sua residência médica.</strong><span>Complete o simulador acima para calcular e comparar os trajetos.</span><a href="#como-funciona">Completar meu perfil ↑</a></div>}
+      {selectedAnchor && !leadCaptured && <div className="z1-mobility-gate"><strong>{campaign.copy.mobilityGateTitle}</strong><span>Complete o simulador acima para calcular e comparar os trajetos.</span><a href="#como-funciona">Completar meu perfil ↑</a></div>}
       {selectedAnchor && mobilityLoading && <PropertySearchLoading anchorName={selectedAnchor.name} />}
       {selectedAnchor && mobilityLoading && mobilityProgress.total > 1 && <div className="z1-loading-progress" aria-hidden="true"><i style={{ width: `${Math.max(12, (mobilityProgress.completed / mobilityProgress.total) * 100)}%` }} /></div>}
       {selectedAnchor && proximityActive && mobilityScanComplete && <p className="z1-mobility-progress" role="status">{proximityProperties.length} imóveis encontrados e ordenados por proximidade.</p>}
@@ -440,8 +441,8 @@ export function Z1Landing({ properties, hospitals, mobilityAnchorSetId, mobility
               ? candidateMobility
               : null;
           const card = <article className="z1-property" onMouseEnter={() => track("property_viewed", { property_id: item.id })}>
-            <div className="z1-property-image">{image ? <Image src={image} alt={`Imóvel na Vila Clementino${item.endereco ? ` — ${item.endereco}` : ""}`} fill sizes="(min-width: 1000px) 33vw, (min-width: 700px) 50vw, 100vw" /> : <span>Foto não disponível</span>}</div>
-            <div className="z1-property-body"><p>{item.endereco || "Vila Clementino, São Paulo"}</p><h3>{formatMoney(item.aluguel)} <small>/ aluguel</small></h3><ul><li>{item.area || "—"} m²</li><li>{item.quartos ?? "—"} quarto(s)</li><li>{item.banheiros ?? "—"} banheiro(s)</li><li>{item.vagas ?? 0} vaga(s)</li></ul><div className="z1-cost"><span>Custo mensal estimado</span><strong>{formatMoney(total)}</strong><small>Aluguel + condomínio + IPTU</small></div>{selectedAnchor && leadCaptured && <div className="z1-mobility-result"><span>{mobilityMode === "WALK" ? "A pé" : "De carro"} até {selectedAnchor.name}</span>{mobilityLoading && !mobility ? <strong className="z1-route-skeleton" aria-label="Calculando rota" /> : mobility?.status === "ok" && mobility.distanceMeters != null && mobility.durationMinutes != null ? <strong>{mobilityMode === "WALK" ? "🚶" : "🚗"} {formatMobilityDuration(mobility.durationMinutes)} · {formatMobilityDistance(mobility.distanceMeters)}</strong> : <strong>Consulte a rota atual</strong>}{mobility?.status === "ok" && <small>{mobility.provider === "openrouteservice" ? "openrouteservice · © OpenStreetMap contributors" : `Powered by Google, ©${new Date().getFullYear()} Google`}</small>}</div>}{item.url_imovel && (leadCaptured ? <span className="z1-property-cta">Quero ver! <b aria-hidden="true">↗</b></span> : <button className="z1-property-locked" type="button" onClick={startSimulation}>Salvar meu perfil para ver</button>)}</div>
+            <div className="z1-property-image">{image ? <Image src={image} alt={`Imóvel${item.bairro ? ` na ${item.bairro}` : ""}${item.endereco ? ` — ${item.endereco}` : ""}`} fill sizes="(min-width: 1000px) 33vw, (min-width: 700px) 50vw, 100vw" /> : <span>Foto não disponível</span>}</div>
+            <div className="z1-property-body"><p>{item.endereco || `${item.bairro ?? ""}, São Paulo`}</p><h3>{formatMoney(item.aluguel)} <small>/ aluguel</small></h3><ul><li>{item.area || "—"} m²</li><li>{item.quartos ?? "—"} quarto(s)</li><li>{item.banheiros ?? "—"} banheiro(s)</li><li>{item.vagas ?? 0} vaga(s)</li></ul><div className="z1-cost"><span>Custo mensal estimado</span><strong>{formatMoney(total)}</strong><small>Aluguel + condomínio + IPTU</small></div>{selectedAnchor && leadCaptured && <div className="z1-mobility-result"><span>{mobilityMode === "WALK" ? "A pé" : "De carro"} até {selectedAnchor.name}</span>{mobilityLoading && !mobility ? <strong className="z1-route-skeleton" aria-label="Calculando rota" /> : mobility?.status === "ok" && mobility.distanceMeters != null && mobility.durationMinutes != null ? <strong>{mobilityMode === "WALK" ? "🚶" : "🚗"} {formatMobilityDuration(mobility.durationMinutes)} · {formatMobilityDistance(mobility.distanceMeters)}</strong> : <strong>Consulte a rota atual</strong>}{mobility?.status === "ok" && <small>{mobility.provider === "openrouteservice" ? "openrouteservice · © OpenStreetMap contributors" : `Powered by Google, ©${new Date().getFullYear()} Google`}</small>}</div>}{item.url_imovel && (leadCaptured ? <span className="z1-property-cta">Quero ver! <b aria-hidden="true">↗</b></span> : <button className="z1-property-locked" type="button" onClick={startSimulation}>Salvar meu perfil para ver</button>)}</div>
           </article>;
           return item.url_imovel && leadCaptured
             ? <a className="z1-property-card-link" key={item.id || index} href={item.url_imovel} target="_blank" rel="noopener noreferrer" aria-label={`Quero ver o imóvel ${item.endereco || item.id} na 7Cantos`} onClick={() => registerPropertyInterest(item)}>{card}</a>
@@ -453,7 +454,7 @@ export function Z1Landing({ properties, hospitals, mobilityAnchorSetId, mobility
     </section>
 
     <section className="z1-hospitals" aria-labelledby="hospitals-title">
-      <div className="z1-section-head"><p className="z1-eyebrow">Ecossistema de saúde da região</p><h2 id="hospitals-title">Residência perto da sua próxima rotina.</h2><p>Mapeamos instituições com programa próprio de residência médica e campos de prática oficialmente documentados na Vila Clementino e no entorno imediato.</p></div>
+      <div className="z1-section-head"><p className="z1-eyebrow">{campaign.copy.institutionsEyebrow}</p><h2 id="hospitals-title">{campaign.copy.institutionsTitle}</h2><p>{campaign.copy.institutionsIntro}</p></div>
       <div className="z1-hospital-grid">
         {hospitals.map((hospital) => <article key={hospital.id}>
           <div><span>{hospital.relationship}</span><small>{hospital.area}</small></div>
@@ -466,7 +467,7 @@ export function Z1Landing({ properties, hospitals, mobilityAnchorSetId, mobility
     </section>
 
     <section className="z1-neighborhood">
-      <div><p className="z1-eyebrow">Morar perto muda tudo</p><h2>Por que médicos escolhem morar na Vila Clementino?</h2><p>A proximidade do ecossistema hospitalar simplifica plantões, conecta você ao transporte e mantém serviços essenciais por perto. Menos deslocamento pode significar uma rotina mais prática.</p><h3>Menos tempo no trânsito.<br/><em>Mais tempo para você.</em></h3></div>
+      <div><p className="z1-eyebrow">Morar perto muda tudo</p><h2>{campaign.copy.whyTitle}</h2><p>{campaign.copy.whyIntro}</p><h3>Menos tempo no trânsito.<br/><em>Mais tempo para você.</em></h3></div>
       <div className="z1-routine" aria-label="Hospital, casa e rotina conectados"><article><b>+</b><span>Hospital</span></article><i>↓</i><article><b>⌂</b><span>Casa</span></article><i>↓</i><article><b>○</b><span>Rotina</span></article></div>
     </section>
 
@@ -480,7 +481,7 @@ export function Z1Landing({ properties, hospitals, mobilityAnchorSetId, mobility
     <section className="z1-ambassador"><div className="z1-placeholder" aria-hidden="true">7C</div><div><p className="z1-eyebrow">Quem já passou por essa mudança</p><h2>Converse com quem já viveu a mesma experiência.</h2><p>Este espaço receberá histórias reais de residentes: cidade de origem, programa, bairro escolhido, vídeo e depoimento.</p><span>Embaixador 7Cantos — em breve</span></div></section>
     */}
 
-    <section className="z1-final"><p className="z1-eyebrow">Comece sua chegada</p><h2>Sua residência já vai exigir muito de você. <em>Sua mudança não precisa.</em></h2><p>A 7Cantos ajuda você a escolher onde morar, encontrar seu apartamento e organizar sua chegada.</p><button className="z1-btn z1-btn-light" onClick={startSimulation}>Montar meu plano de mudança ↑</button></section>
+    <section className="z1-final"><p className="z1-eyebrow">Comece sua chegada</p><h2>{campaign.copy.finalTitle} <em>{campaign.copy.finalEmphasis}</em></h2><p>{campaign.copy.finalIntro}</p><button className="z1-btn z1-btn-light" onClick={startSimulation}>Montar meu plano de mudança ↑</button></section>
 
     <footer className="z1-footer"><a className="z1-logo" href="#inicio" aria-label="7Cantos, voltar ao início"><Image src="/logo-7cantos.png" alt="7Cantos.com" width={744} height={222} /></a><p>Escolher · Alugar · Mudar · Viver</p><p>© {new Date().getFullYear()} 7Cantos</p></footer>
 

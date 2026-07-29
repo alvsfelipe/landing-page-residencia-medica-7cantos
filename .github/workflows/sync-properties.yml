@@ -35,7 +35,7 @@ jobs:
       - name: Sincroniza imóveis
         env:
           SETE_CANTOS_API_TOKEN: ${{ secrets.SETE_CANTOS_API_TOKEN }}
-        run: npm run sync:properties
+        run: npm run sync:properties -- --campanhas
 
       - name: Commita se houve mudança
         run: |
