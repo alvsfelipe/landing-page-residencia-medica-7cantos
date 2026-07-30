@@ -2355,6 +2355,41 @@
     }
   },
   {
+    "id": "56598",
+    "bairro": "Brooklin",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04555-000",
+    "endereco": "Avenida Santo Amaro, 3131",
+    "aluguel": 3400,
+    "condominio": 830,
+    "iptu": 12,
+    "area": 33,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 0,
+    "vagas": 1,
+    "url_imovel": "https://www.7cantos.com/imovel/56598",
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1785351091_8bd16f32d5b211f98efbbf6cdd531bda.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1785351091_8bd16f32d5b211f98efbbf6cdd531bda.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1785351111_a81069333a43e305f3fb402352a77f21.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1785351114_73b663547c80f648d84e1cc6598a2830.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1785351116_0363d3018b26333a208d63f24c5b6497.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1785351119_4fe248cdf900973d746c169cce6b52e0.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1785351121_8a04d7940c5bf6e0cd39cb4a983407e0.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1785351123_30ae25907b49d2a98a78d6692fd45e85.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1785351125_c20b9a3f3b686e028ff164f79552468b.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1785351127_cb42a9c3c034891b945cb50a6d77592e.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1785351129_9932979e1501faf9341469154e04c3fa.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1785351132_1389c0c082b7309ece4c690020d5603d.jpg"
+    ],
+    "coordinates": {
+      "latitude": -23.6122715,
+      "longitude": -46.677541
+    }
+  },
+  {
     "id": "55874",
     "bairro": "Brooklin",
     "cidade": "São Paulo",
