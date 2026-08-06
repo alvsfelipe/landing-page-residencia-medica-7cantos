@@ -380,6 +380,42 @@
     }
   },
   {
+    "id": "56616",
+    "bairro": "Vila Clementino",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04037-020",
+    "endereco": "Rua Mairinque, 70",
+    "aluguel": 2800,
+    "condominio": 430,
+    "iptu": 32,
+    "area": 25,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 0,
+    "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56616",
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1785950702_eaa0abe73cf74a293a8391f1860c5e97.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1785950702_eaa0abe73cf74a293a8391f1860c5e97.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1785950713_bae3807e82424b1e165fce7e45fe54d1.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1785950716_c36f6f44562611718ee0e1379a634fd2.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1785950720_783309a732ea365045827d2ae0dd2608.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1785950724_612ebb498196798a6b63a211fa4ad2e6.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1785950728_dc5bcee9392aae4e86183bfe1d43dc6d.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1785950731_4dfdc2063ff5061ac93b1f5b4388310e.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1785950736_2fb551cf49db00647c8396c4cb2d0ec8.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1785950741_9dcf85db0ac5edf911472edfe8d72613.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1785950745_4ed0e21efd643264ce5413859c179a8e.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1785950749_453a6bcbce634f441d11bf3a76e1ed80.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1785950753_6d85436aca86fbc63f76b1b4b04f7982.jpg"
+    ],
+    "coordinates": {
+      "latitude": -23.5939133,
+      "longitude": -46.6381629
+    }
+  },
+  {
     "id": "56588",
     "bairro": "Vila Cordeiro",
     "cidade": "São Paulo",
@@ -2383,50 +2419,6 @@
     }
   },
   {
-    "id": "55898",
-    "bairro": "Cidade Monções",
-    "cidade": "São Paulo",
-    "uf": "SP",
-    "cep": "04565-000",
-    "endereco": "Rua Flórida, 103",
-    "aluguel": 3900,
-    "condominio": 850,
-    "iptu": 0,
-    "area": 40,
-    "quartos": 1,
-    "banheiros": 1,
-    "suites": 1,
-    "vagas": 1,
-    "url_imovel": "https://www.7cantos.com/imovel/55898",
-    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1759350826_0188ea5cfc7051c431629eac0e64c818.jpg",
-    "fotos": [
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1759350826_0188ea5cfc7051c431629eac0e64c818.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1759350829_d1ab6d0c13fff981d5f3e77d743f61f0.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1759350832_db977ed61ade683bcb1af33db57d1fa2.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1759350835_a12b214976f102d4a4a9de7474d36146.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1759350837_ce23436709c0a9e6afaee89c4c670c61.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1759350841_fea204c39736832865256ee056a1caaa.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1759350843_19ce311e51d012efd2575a4925b04b7b.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1759350846_4dd0d281d842d9b85344693e83b8a6ec.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1759350848_a1b24ed184c89b58edae140bb489a6af.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1759350851_0a9c4f25bf2536031f4caa8e408531a2.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1759350854_83d824538a31d41771f0ac014537602b.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1759350857_dd9c1c62da7c48d60c79fdd6c3dc7218.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1759350859_9e06cb95af7d46c36b15902e4e411000.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1759350861_526a66728469fe3d600c82f991b6642d.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1759350863_daee7a7edf7987cfc11f1814411a154b.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1759350864_235aed475b7a898fe935f2632dc75e5b.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1759350866_7b43295affb08d71ff56d7fa46cac97d.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1759350868_19606ebfbcd048771748297519fd94d0.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1759350871_33a64d4773a6f1e32863d1db774c6468.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1759350872_018363f76132119462385bc6ea3e5a45.jpg"
-    ],
-    "coordinates": {
-      "latitude": -23.6170719,
-      "longitude": -46.6818081
-    }
-  },
-  {
     "id": "55808",
     "bairro": "Cidade Monções",
     "cidade": "São Paulo",
@@ -3144,6 +3136,44 @@
     }
   },
   {
+    "id": "56615",
+    "bairro": "Vila Olímpia",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04552-050",
+    "endereco": "Rua Helena, 102",
+    "aluguel": 5500,
+    "condominio": 1449,
+    "iptu": 209,
+    "area": 80,
+    "quartos": 3,
+    "banheiros": 2,
+    "suites": 0,
+    "vagas": 1,
+    "url_imovel": "https://www.7cantos.com/imovel/56615",
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1785942751_06bc3d175aa53028e01d735893676f25.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1785942751_06bc3d175aa53028e01d735893676f25.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1785942766_f2130bb022d03161a4682269350bb09e.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1785942770_bbf4d51e4c3ea6cf912d0543a82abd2b.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1785942774_b738496ddd640fbabf94e3f8d9143e48.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1785942777_5c7c580b5715baebd790deab8179f738.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1785942781_cebaa567979b26c7da9397362e3f8f55.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1785942784_54b66ed74da3f93353b2a4d7ea6d0caa.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1785942787_514bf8a988ad8388900f08719d641791.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1785942791_224b21256268fd8e86d7254fd13331ba.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1785942795_d2b1114241513c1c34d4329fde0c7ea7.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1785942798_b5409afdd7ec7f81cd71a18e1c149f17.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1785942802_49ad5dd932784f2d8d38fae73fedf27e.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1785942805_4395c3b3537987560202200027982b8b.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1785942810_d9b2354cca541b190755a97d7c9dc8f0.jpg"
+    ],
+    "coordinates": {
+      "latitude": -23.5927223,
+      "longitude": -46.6851084
+    }
+  },
+  {
     "id": "56155",
     "bairro": "Vila Clementino",
     "cidade": "São Paulo",
@@ -3223,39 +3253,6 @@
     "coordinates": {
       "latitude": -23.6599208,
       "longitude": -46.6852737
-    }
-  },
-  {
-    "id": "56160",
-    "bairro": "Vila Clementino",
-    "cidade": "São Paulo",
-    "uf": "SP",
-    "cep": "04044-060",
-    "endereco": "Rua Primeiro de Janeiro, 159",
-    "aluguel": 3990,
-    "condominio": 0,
-    "iptu": 590,
-    "area": 120,
-    "quartos": 3,
-    "banheiros": 2,
-    "suites": 0,
-    "vagas": 1,
-    "url_imovel": "https://www.7cantos.com/imovel/56160",
-    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1768326241_28723aceb6085dbc80b04c8dab6a7698.jpg",
-    "fotos": [
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1768326241_28723aceb6085dbc80b04c8dab6a7698.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1768326244_330d737fdc84195bad1a23b79eeacb59.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1768326250_9349b9c6d246780cfb4f5ef599550c1a.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1768326246_512afc05c69b1a9f7a4e4093ad219286.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1768326249_f90ed3c9f9a7f099aa91a745f470280b.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1768326254_24c088cee0c9e29d8a8d17fdd8f66a69.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1768326252_8843f5e3a1df65360379f7975c4b7369.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1768326256_ff4bafb32d90d5e4050852c7c1f8fd58.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1768326258_69bffadd43e11f4f090b3fda29c8e699.jpg"
-    ],
-    "coordinates": {
-      "latitude": -23.6010542,
-      "longitude": -46.6397344
     }
   },
   {
