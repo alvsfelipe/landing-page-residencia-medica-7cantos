@@ -2117,7 +2117,7 @@
     "uf": "SP",
     "cep": "04550-003",
     "endereco": "Rua Alvorada, 616",
-    "aluguel": 2850,
+    "aluguel": 2500,
     "condominio": 490,
     "iptu": 65,
     "area": 30,
@@ -2227,49 +2227,6 @@
     "coordinates": {
       "latitude": -23.6162975,
       "longitude": -46.6890346
-    }
-  },
-  {
-    "id": "55808",
-    "bairro": "Cidade Monções",
-    "cidade": "São Paulo",
-    "uf": "SP",
-    "cep": "04565-000",
-    "endereco": "Rua Flórida, 103",
-    "aluguel": 4300,
-    "condominio": 850,
-    "iptu": 200,
-    "area": 40,
-    "quartos": 1,
-    "banheiros": 1,
-    "suites": 1,
-    "vagas": 1,
-    "url_imovel": "https://www.7cantos.com/imovel/55808",
-    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1758804258_75f59ea7dae4cd69fb6db4fa4a0985c2.jpg",
-    "fotos": [
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1758804258_75f59ea7dae4cd69fb6db4fa4a0985c2.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1758804250_bddbb9838cb9eced84b3b6163f1c2cc7.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1758804253_6abd87e1d5cd4b99709a5dae74dcccb7.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1758804246_56e959ebd5e17bf7d03b44754b43a477.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1758804261_6e234b949541db3616433dc0c1fcb434.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1758804265_81a661802b8bf29a0e9e77dbeb3fa33e.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1758804267_50626dd8d822d7cac9fd2f2b777bcfd0.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1758804273_0323e1b1d456dd22c499d75d022d37cd.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1758804256_f64e38b63b7e74c13faca9a382669a05.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1758804270_fb1f70c6bc7e8d63fef004b21c0f7b73.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1758804276_1ef2345c52f65573d557b5c1e94b45d9.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1758804279_7ae44e5a19b89310e7b41c946ce266eb.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1758804282_0cc5fa220dc8fd665e08b7d62b7e071c.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1758804283_9be30a4c79e152f94d8dcee62b5d9ce4.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1758804285_b6bd807ac2fa114e5ef1f7cff3a9c9be.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1758804287_abb06143e347c4df9b789549e9fa648a.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1758804288_de55532a11e18db95d83b3e9a825ade3.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1758804290_4132bc237f1c46ac906760457db8bcdc.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1758804292_e7978d07e4eb6da42853b256d924cd69.jpg"
-    ],
-    "coordinates": {
-      "latitude": -23.6170719,
-      "longitude": -46.6818081
     }
   },
   {
@@ -2544,54 +2501,6 @@
     "coordinates": {
       "latitude": -23.5939133,
       "longitude": -46.6381629
-    }
-  },
-  {
-    "id": "55890",
-    "bairro": "Vila Olímpia",
-    "cidade": "São Paulo",
-    "uf": "SP",
-    "cep": "04547-004",
-    "endereco": "Rua Gomes de Carvalho, 1146",
-    "aluguel": 5850,
-    "condominio": 1000,
-    "iptu": 134,
-    "area": 55,
-    "quartos": 1,
-    "banheiros": 1,
-    "suites": 1,
-    "vagas": 1,
-    "url_imovel": "https://www.7cantos.com/imovel/55890",
-    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1758898497_980235a7d9795d028f5ad84e5214d173.jpg",
-    "fotos": [
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1758898497_980235a7d9795d028f5ad84e5214d173.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1758898501_698ac298feede86466ee5d46c876159e.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1758898504_2c6263e9dbba0adc2077d7d9657ba450.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1758898507_66d02093496ba7cfbfb5798c8e3db3c6.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1758898510_0a54bce0b22e6f5195c7e33525974e2e.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1758898513_7d170e1ac4ef5cd0db07cbcfe9e5d733.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1758898516_904fb091c5015941751296d017daa840.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1758898519_261e51711706546014c5ec913d961b5d.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1758898522_a87451d67c2a93b293fcaa517e8d1c3d.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1758898524_f995a7476f247053a08573e36a7e4807.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1758898527_3fef86672c5ae479679d5491085ae52c.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1758898530_fa37eeb147997b2ac6451b16568c0998.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1758898533_17354b284cd0aab8641bf35acaa1ac89.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1758898536_d99000f6617e5a5ac6b8b3a080938a04.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1758898539_a3485d6d38cfc9354d9ef2b6365d4794.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1758909704_05f06bcd964fccac3ad5d2d495c8c88d.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1758909707_d1acb6fbd97c18388c8b04add0ea85c8.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1758909711_540a5934698c9594bde517bf0f00612a.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1758909714_22b7aa168172eb907f86d64263bdfaa5.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1758909717_dc724f76b7c7d57e7944d969b571f7d4.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1758909721_be75fe68df334f8f1381e302611873d0.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1758909724_4ce15e597c4736dbd29a4956c8c5b4bc.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1758909727_e5110ea217c75c55ec5c080f7f212a87.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1758909731_33571706979a908eae504eb39bcbdc02.jpg"
-    ],
-    "coordinates": {
-      "latitude": -23.5973269,
-      "longitude": -46.6843883
     }
   },
   {
