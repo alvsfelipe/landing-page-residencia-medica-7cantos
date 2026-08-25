@@ -1,5 +1,27 @@
 [
   {
+    "id": "56688",
+    "bairro": "Itaim Bibi",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04530-030",
+    "endereco": "Rua Tenente Negrão, 166",
+    "aluguel": 0,
+    "condominio": 0,
+    "iptu": 0,
+    "area": 0,
+    "quartos": 0,
+    "banheiros": 0,
+    "suites": 0,
+    "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56688",
+    "fotos": [],
+    "coordinates": {
+      "latitude": -23.5851063,
+      "longitude": -46.6723422
+    }
+  },
+  {
     "id": "56178",
     "bairro": "Vila Clementino",
     "cidade": "São Paulo",
@@ -2191,6 +2213,74 @@
     }
   },
   {
+    "id": "56681",
+    "bairro": "Itaim Bibi",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04530-030",
+    "endereco": "Rua Tenente Negrão, 166",
+    "complemento": "Apto 0320",
+    "aluguel": 6216.09,
+    "condominio": 596.91,
+    "iptu": 177,
+    "area": 33.17,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 0,
+    "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56681",
+    "fotos": [],
+    "coordinates": {
+      "latitude": -23.5851063,
+      "longitude": -46.6723422
+    }
+  },
+  {
+    "id": "56680",
+    "bairro": "Itaim Bibi",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04530-030",
+    "endereco": "Rua Tenente Negrão, 166",
+    "complemento": "Apto 0240",
+    "aluguel": 6216.09,
+    "condominio": 596.91,
+    "iptu": 177,
+    "area": 33.17,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 0,
+    "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56680",
+    "fotos": [],
+    "coordinates": {
+      "latitude": -23.5851063,
+      "longitude": -46.6723422
+    }
+  },
+  {
+    "id": "56679",
+    "bairro": "Itaim Bibi",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04530-030",
+    "endereco": "Rua Tenente Negrão, 166",
+    "aluguel": 6216.09,
+    "condominio": 596.91,
+    "iptu": 177,
+    "area": 33.17,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 0,
+    "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56679",
+    "fotos": [],
+    "coordinates": {
+      "latitude": -23.5851063,
+      "longitude": -46.6723422
+    }
+  },
+  {
     "id": "56657",
     "bairro": "Brooklin",
     "cidade": "São Paulo",
@@ -2546,6 +2636,293 @@
     }
   },
   {
+    "id": "56683",
+    "bairro": "Itaim Bibi",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04530-030",
+    "endereco": "Rua Tenente Negrão, 166",
+    "complemento": "Apto 0204",
+    "aluguel": 6590.55,
+    "condominio": 724.59,
+    "iptu": 214.86,
+    "area": 38.97,
+    "quartos": 2,
+    "banheiros": 1,
+    "suites": 0,
+    "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56683",
+    "fotos": [],
+    "coordinates": {
+      "latitude": -23.5851063,
+      "longitude": -46.6723422
+    }
+  },
+  {
+    "id": "56682",
+    "bairro": "Itaim Bibi",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04530-030",
+    "endereco": "Rua Tenente Negrão, 166",
+    "aluguel": 6590.55,
+    "condominio": 724.59,
+    "iptu": 214.86,
+    "area": 38.97,
+    "quartos": 2,
+    "banheiros": 1,
+    "suites": 0,
+    "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56682",
+    "fotos": [],
+    "coordinates": {
+      "latitude": -23.5851063,
+      "longitude": -46.6723422
+    }
+  },
+  {
+    "id": "56690",
+    "bairro": "Vila Cordeiro",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04582-030",
+    "endereco": "Rua Godói Colaço, 575",
+    "complemento": "Apt 122",
+    "aluguel": 4083,
+    "condominio": 725,
+    "iptu": 142,
+    "area": 50,
+    "quartos": 2,
+    "banheiros": 1,
+    "suites": 0,
+    "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56690",
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1787600731_de647aca66a8b3b370c83800156ae415.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1787600731_de647aca66a8b3b370c83800156ae415.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1787600729_55faf48e5d75d50b428b90d1f726a12d.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1787600725_91adc409d896eb0fd96d7dda4b6ef5cb.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1787600736_3bf9f920412244576c8d84521e53a0db.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1787600720_a942eb59a44fe90a5660ec60b3bd0146.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1787600722_7644345988e444160eae343a0517b9e0.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1787600724_6db059237ce4348bfb35bda8fbcf6e99.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1787600727_af0b5f42ae2adcc6ec33f3126751ad60.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1787600732_d9cbbf7e139f37bf34eb959cc6d808b0.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1787600734_261a81ddd2dfee9ef23c7601f5b18f73.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1787600738_a9bf64ee10dd2db521652f5270170382.jpg"
+    ],
+    "coordinates": {
+      "latitude": -23.6162975,
+      "longitude": -46.6890346
+    }
+  },
+  {
+    "id": "56678",
+    "bairro": "Itaim Bibi",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04530-030",
+    "endereco": "Rua Tenente Negrão, 166",
+    "complemento": "Apto 1204",
+    "aluguel": 10739.13,
+    "condominio": 1132.93,
+    "iptu": 335.94,
+    "area": 60.93,
+    "quartos": 2,
+    "banheiros": 2,
+    "suites": 0,
+    "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56678",
+    "fotos": [],
+    "coordinates": {
+      "latitude": -23.5851063,
+      "longitude": -46.6723422
+    }
+  },
+  {
+    "id": "56677",
+    "bairro": "Itaim Bibi",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04530-030",
+    "endereco": "Rua Tenente Negrão, 166",
+    "complemento": "Apto 1107",
+    "aluguel": 10739.13,
+    "condominio": 1132.93,
+    "iptu": 335.94,
+    "area": 60.93,
+    "quartos": 2,
+    "banheiros": 2,
+    "suites": 0,
+    "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56677",
+    "fotos": [],
+    "coordinates": {
+      "latitude": -23.5851063,
+      "longitude": -46.6723422
+    }
+  },
+  {
+    "id": "56676",
+    "bairro": "Itaim Bibi",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04530-030",
+    "endereco": "Rua Tenente Negrão, 166",
+    "complemento": "Apto 1102",
+    "aluguel": 10739.13,
+    "condominio": 1132.93,
+    "iptu": 335.94,
+    "area": 60.93,
+    "quartos": 2,
+    "banheiros": 2,
+    "suites": 0,
+    "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56676",
+    "fotos": [],
+    "coordinates": {
+      "latitude": -23.5851063,
+      "longitude": -46.6723422
+    }
+  },
+  {
+    "id": "56675",
+    "bairro": "Itaim Bibi",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04530-030",
+    "endereco": "Rua Tenente Negrão, 166",
+    "complemento": "Apto 1006",
+    "aluguel": 10739.13,
+    "condominio": 1132.93,
+    "iptu": 335.94,
+    "area": 60.93,
+    "quartos": 2,
+    "banheiros": 2,
+    "suites": 0,
+    "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56675",
+    "fotos": [],
+    "coordinates": {
+      "latitude": -23.5851063,
+      "longitude": -46.6723422
+    }
+  },
+  {
+    "id": "56674",
+    "bairro": "Itaim Bibi",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04530-030",
+    "endereco": "Rua Tenente Negrão, 166",
+    "complemento": "Apto 0907",
+    "aluguel": 10739.13,
+    "condominio": 1132.93,
+    "iptu": 335.94,
+    "area": 60.93,
+    "quartos": 2,
+    "banheiros": 2,
+    "suites": 0,
+    "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56674",
+    "fotos": [],
+    "coordinates": {
+      "latitude": -23.5851063,
+      "longitude": -46.6723422
+    }
+  },
+  {
+    "id": "56673",
+    "bairro": "Itaim Bibi",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04530-030",
+    "endereco": "Rua Tenente Negrão, 166",
+    "complemento": "Apto 0906",
+    "aluguel": 10739.13,
+    "condominio": 1132.93,
+    "iptu": 335.94,
+    "area": 60.93,
+    "quartos": 2,
+    "banheiros": 2,
+    "suites": 0,
+    "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56673",
+    "fotos": [],
+    "coordinates": {
+      "latitude": -23.5851063,
+      "longitude": -46.6723422
+    }
+  },
+  {
+    "id": "56672",
+    "bairro": "Itaim Bibi",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04530-030",
+    "endereco": "Rua Tenente Negrão, 166",
+    "complemento": "Apto 0807",
+    "aluguel": 10739.13,
+    "condominio": 1132.93,
+    "iptu": 335.94,
+    "area": 60.93,
+    "quartos": 2,
+    "banheiros": 2,
+    "suites": 0,
+    "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56672",
+    "fotos": [],
+    "coordinates": {
+      "latitude": -23.5851063,
+      "longitude": -46.6723422
+    }
+  },
+  {
+    "id": "56671",
+    "bairro": "Itaim Bibi",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04530-030",
+    "endereco": "Rua Tenente Negrão, 166",
+    "complemento": "Apto 0806",
+    "aluguel": 10739.13,
+    "condominio": 1132.93,
+    "iptu": 335.94,
+    "area": 60.93,
+    "quartos": 2,
+    "banheiros": 2,
+    "suites": 0,
+    "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56671",
+    "fotos": [],
+    "coordinates": {
+      "latitude": -23.5851063,
+      "longitude": -46.6723422
+    }
+  },
+  {
+    "id": "56670",
+    "bairro": "Itaim Bibi",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04530-030",
+    "endereco": "Rua Tenente Negrão, 166",
+    "aluguel": 10739.13,
+    "condominio": 1132.93,
+    "iptu": 335.94,
+    "area": 60.93,
+    "quartos": 2,
+    "banheiros": 2,
+    "suites": 0,
+    "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56670",
+    "fotos": [],
+    "coordinates": {
+      "latitude": -23.5851063,
+      "longitude": -46.6723422
+    }
+  },
+  {
     "id": "55873",
     "bairro": "Brooklin",
     "cidade": "São Paulo",
@@ -2721,6 +3098,51 @@
     }
   },
   {
+    "id": "56685",
+    "bairro": "Itaim Bibi",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04530-030",
+    "endereco": "Rua Tenente Negrão, 166",
+    "complemento": "Apto 0530",
+    "aluguel": 9282.74,
+    "condominio": 1231.95,
+    "iptu": 365.31,
+    "area": 68.47,
+    "quartos": 2,
+    "banheiros": 2,
+    "suites": 0,
+    "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56685",
+    "fotos": [],
+    "coordinates": {
+      "latitude": -23.5851063,
+      "longitude": -46.6723422
+    }
+  },
+  {
+    "id": "56684",
+    "bairro": "Itaim Bibi",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04530-030",
+    "endereco": "Rua Tenente Negrão, 166",
+    "aluguel": 9282.74,
+    "condominio": 1231.95,
+    "iptu": 365.31,
+    "area": 68.47,
+    "quartos": 2,
+    "banheiros": 2,
+    "suites": 0,
+    "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56684",
+    "fotos": [],
+    "coordinates": {
+      "latitude": -23.5851063,
+      "longitude": -46.6723422
+    }
+  },
+  {
     "id": "56655",
     "bairro": "Brooklin",
     "cidade": "São Paulo",
@@ -2764,50 +3186,6 @@
     "coordinates": {
       "latitude": -23.6115777,
       "longitude": -46.6929462
-    }
-  },
-  {
-    "id": "56000",
-    "bairro": "Campo Belo",
-    "cidade": "São Paulo",
-    "uf": "SP",
-    "cep": "04616-005",
-    "endereco": "Rua Pascal, 1973",
-    "aluguel": 8500,
-    "condominio": 1500,
-    "iptu": 400,
-    "area": 95,
-    "quartos": 2,
-    "banheiros": 2,
-    "suites": 1,
-    "vagas": 1,
-    "url_imovel": "https://www.7cantos.com/imovel/56000",
-    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1768584753_f99bc46268a80d0b8c2b6ed3a03e704d.jpg",
-    "fotos": [
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1768584753_f99bc46268a80d0b8c2b6ed3a03e704d.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1768584756_07eaa3d8884e3f924bf1a496fed18546.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1768584759_e64d8740e549ff0ac6c5b4a7d90f5494.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1768584763_b6688a68c6e7481a96564dbd893a6f00.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1768584766_4ffc8cbb57151226ac696b3268f46063.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1768584769_d6393d6b8e743de74fe5f8c46c883c4d.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1768584772_5cf441ec8cb762d2569b632f577eb8f4.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1768584775_70ec16f93285e84cd97ac3699561314c.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1768584778_b3ab784302f456a0f89a77d0b5535f48.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1768584781_aa6f4f93eb104b613c499e3b7bee4fc3.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1768584784_edd3c4d173e1dc8502a1dc3307f15763.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1768584787_669ac89f2c676202e0a5f3e771bc2baa.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1768584791_37706bc327cfed231245ab08298453b5.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1768584795_86d95a33611969b252d0b3cbcd1fe640.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1768584799_583d2d63a2779fee49af2469f8bb2600.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1768584802_27589fac49dc3d49d7b04ac962023964.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1768584806_781280cc7e76ce818dbc353e2b40cb51.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1768584809_d6e29523e1e55d19c51d7f8fbd4dcdfd.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1768584812_788bf5bcb9fc0b746d63fa9414549a8d.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1768584936_4178ec5b6f3de273fe06524ebd2f09d2.jpg"
-    ],
-    "coordinates": {
-      "latitude": -23.6264879,
-      "longitude": -46.6648279
     }
   },
   {
@@ -2928,6 +3306,51 @@
     "coordinates": {
       "latitude": -23.6599208,
       "longitude": -46.6852737
+    }
+  },
+  {
+    "id": "56687",
+    "bairro": "Itaim Bibi",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04530-030",
+    "endereco": "Rua Tenente Negrão, 166",
+    "complemento": "Apto 1402",
+    "aluguel": 18694.34,
+    "condominio": 1747.48,
+    "iptu": 518.18,
+    "area": 132.08,
+    "quartos": 3,
+    "banheiros": 3,
+    "suites": 0,
+    "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56687",
+    "fotos": [],
+    "coordinates": {
+      "latitude": -23.5851063,
+      "longitude": -46.6723422
+    }
+  },
+  {
+    "id": "56686",
+    "bairro": "Itaim Bibi",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04530-030",
+    "endereco": "Rua Tenente Negrão, 166",
+    "aluguel": 18694.34,
+    "condominio": 1747.48,
+    "iptu": 518.18,
+    "area": 132.08,
+    "quartos": 3,
+    "banheiros": 3,
+    "suites": 0,
+    "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56686",
+    "fotos": [],
+    "coordinates": {
+      "latitude": -23.5851063,
+      "longitude": -46.6723422
     }
   },
   {
