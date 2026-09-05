@@ -1,0 +1,84 @@
+{
+  "residencia-medica-vila-clementino": {
+    "label": "Hospitais e instituições de saúde",
+    "anchors": [
+      {
+        "id": "hospital-sao-paulo-unifesp",
+        "name": "Hospital São Paulo / UNIFESP",
+        "type": "hospital",
+        "address": "Rua Napoleão de Barros, 715, Vila Clementino, São Paulo - SP, 04024-002"
+      },
+      {
+        "id": "hspe-iamspe",
+        "name": "Hospital do Servidor Público Estadual / IAMSPE",
+        "type": "hospital",
+        "address": "Avenida Ibirapuera, 981, Vila Clementino, São Paulo - SP, 04029-000"
+      },
+      {
+        "id": "instituto-dante-pazzanese",
+        "name": "Instituto Dante Pazzanese de Cardiologia",
+        "type": "hospital",
+        "address": "Avenida Doutor Dante Pazzanese, 500, Vila Mariana, São Paulo - SP, 04012-909"
+      },
+      {
+        "id": "hospital-do-rim",
+        "name": "Hospital do Rim",
+        "type": "hospital",
+        "address": "Rua Borges Lagoa, 960, Vila Clementino, São Paulo - SP, 04038-002"
+      }
+    ]
+  },
+  "trabalho-faria-lima-berrini": {
+    "label": "Polos de trabalho e estações",
+    "anchors": [
+      {
+        "id": "estacao-faria-lima",
+        "name": "Estação Faria Lima (Linha 4-Amarela)",
+        "type": "transit",
+        "address": "Avenida Brigadeiro Faria Lima, 1400, Pinheiros, São Paulo - SP, 01451-001"
+      },
+      {
+        "id": "faria-lima-3500",
+        "name": "Faria Lima 3500",
+        "type": "work",
+        "address": "Avenida Brigadeiro Faria Lima, 3500, Itaim Bibi, São Paulo - SP"
+      },
+      {
+        "id": "faria-lima-4440",
+        "name": "Faria Lima 4440 (Acqua)",
+        "type": "work",
+        "address": "Avenida Brigadeiro Faria Lima, 4440, Itaim Bibi, São Paulo - SP"
+      },
+      {
+        "id": "complexo-jk",
+        "name": "Complexo JK / JK Iguatemi",
+        "type": "work",
+        "address": "Avenida Presidente Juscelino Kubitschek, 2041, Vila Olímpia, São Paulo - SP, 04543-011"
+      },
+      {
+        "id": "estacao-vila-olimpia",
+        "name": "Estação Vila Olímpia (CPTM Linha 9)",
+        "type": "transit",
+        "address": "Avenida das Nações Unidas, 10797, Vila Olímpia, São Paulo - SP, 04583-105"
+      },
+      {
+        "id": "cenu-nacoes-unidas",
+        "name": "CENU – Centro Empresarial Nações Unidas",
+        "type": "work",
+        "address": "Avenida das Nações Unidas, 12901, Brooklin Paulista, São Paulo - SP, 04578-910"
+      },
+      {
+        "id": "rochavera",
+        "name": "Rochaverá Corporate Towers",
+        "type": "work",
+        "address": "Avenida das Nações Unidas, 14171, Brooklin Paulista, São Paulo - SP"
+      },
+      {
+        "id": "parque-da-cidade",
+        "name": "Parque da Cidade",
+        "type": "work",
+        "address": "Avenida das Nações Unidas, 14401, Chácara Santo Antônio, São Paulo - SP"
+      }
+    ]
+  }
+}
