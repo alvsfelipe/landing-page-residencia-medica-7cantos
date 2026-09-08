@@ -1409,42 +1409,6 @@
     }
   },
   {
-    "id": "56190",
-    "bairro": "Brooklin",
-    "cidade": "São Paulo",
-    "uf": "SP",
-    "cep": "04582-030",
-    "endereco": "Rua Godói Colaço, 575",
-    "aluguel": 2500,
-    "condominio": 398.26,
-    "iptu": 73.73,
-    "area": 28,
-    "quartos": 1,
-    "banheiros": 1,
-    "suites": 0,
-    "vagas": 0,
-    "url_imovel": "https://www.7cantos.com/imovel/56190",
-    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1769085362_cf7184a6d52e1291dad0cb65c93570d4.jpg",
-    "fotos": [
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1769085362_cf7184a6d52e1291dad0cb65c93570d4.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1769085351_40d32056e1a9ef62798b490c8f08a92c.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1769085358_e626ed67d3425f463729de1212a13ae1.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1769085365_28ced7c60001021dfff21897eadb0734.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1769085368_54e2b0bd5c612a75a86f7d802f6a5754.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1769085371_9a270928754b364b4bf2071124717e4a.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1769085373_001423f66ca21cd4d30917be9e2bf3e7.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1769085376_e5c16cc3e6689426f77043cd3d3d6163.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1769085379_0216a769875df6570f2e4a8a7b33c8ac.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1769085381_5f24707b67098b09e674e490be1418ba.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1769085384_456889825b612b845abaad632df2ad8e.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1769085386_548c738776271bc83c155e7f5ddef4db.jpg"
-    ],
-    "coordinates": {
-      "latitude": -23.6162975,
-      "longitude": -46.6890346
-    }
-  },
-  {
     "id": "56143",
     "bairro": "Campo Belo",
     "cidade": "São Paulo",
