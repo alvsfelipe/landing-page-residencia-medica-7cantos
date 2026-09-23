@@ -643,6 +643,52 @@
     }
   },
   {
+    "id": "56775",
+    "bairro": "Vila Clementino",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04026-001",
+    "endereco": "Rua Doutor Bacelar, 780",
+    "aluguel": 3000,
+    "condominio": 500,
+    "iptu": 0,
+    "area": 26,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 0,
+    "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56775",
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1790089809_fed2a258fcaa99951e3bc9486780dd40.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1790089809_fed2a258fcaa99951e3bc9486780dd40.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1790089877_f0fcb8762407782e1dd7647fd2cc78aa.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1790089838_5da32e8fe8768386a7d6b1c6e04693a5.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1790089825_bd417154476643f1d7652faa537b9a43.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1790089869_342333b9450305e98be58ab2687bf9c7.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1790089849_5c8346363278f3a754da1accf6b00818.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1790089860_994e9e5d1d22c7dc000b58920e1c2227.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1790089888_7c7ca0e821beffad58523850e08d45b6.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1790089898_38eabf23e3307a576cd53a6c15c58496.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1790089900_ec849a5da4f7c0d84d2ca6057f3ef896.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1790089902_19451639f27b1115402cb2de97366689.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1790089903_9873cf4097d0e7cb9ac8d6039ac0e0ae.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1790089905_be6ece9a45a5802fb4e4bedc6f368af4.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1790089906_74ce78f04b27e973ff700866035e4e4f.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1790089907_390655091afb63a9a91dc9b8e7732b31.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1790089909_93c309414b4d8036148d5102e56f23fe.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1790089910_b393c9219aaf98bd843d93d9dbd3b948.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1790089912_c7addaf4dcc91a99b05b89bad66176b4.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1790089914_98edf100c8a6a6f558741d810fd12c25.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1790089915_35a0018f15a0c86437b08b4d21e612cd.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1790089917_d288c8a1d3c08525c5f3a5046c88dde7.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1790089918_940e01069d02dc9cea955d8b2ca2a18b.jpg"
+    ],
+    "coordinates": {
+      "latitude": -23.6011311,
+      "longitude": -46.6485124
+    }
+  },
+  {
     "id": "56764",
     "bairro": "Vila Clementino",
     "cidade": "São Paulo",
@@ -651,7 +697,7 @@
     "endereco": "Rua Doutor Bacelar, 780",
     "aluguel": 3500,
     "condominio": 450,
-    "iptu": 90,
+    "iptu": 0,
     "area": 26,
     "quartos": 1,
     "banheiros": 1,
@@ -1407,6 +1453,37 @@
     "coordinates": {
       "latitude": -23.6011311,
       "longitude": -46.6485124
+    }
+  },
+  {
+    "id": "56778",
+    "bairro": "Brooklin",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04709-011",
+    "endereco": "Rua do Estilo Barroco, 695",
+    "aluguel": 3000,
+    "condominio": 1000,
+    "iptu": 0,
+    "area": 28,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 0,
+    "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56778",
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1790103341_4e51a6d285e2cb1e7a13d698ebc0f517.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1790103341_4e51a6d285e2cb1e7a13d698ebc0f517.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1790103347_8f68764f5c77e92404f23b53b74005d3.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1790103348_e3233a84cedc0415a3430edbd1f6c0e3.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1790103350_21ed7d13ed5c7741291e8a28392010b5.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1790103352_e0a04bdc8f03f8df01693acd12500dd2.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1790103353_b4a44c29900113725f29b52f4344bb3d.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1790103355_f86bc44549546e00b6109146df18e924.jpg"
+    ],
+    "coordinates": {
+      "latitude": -23.6299413,
+      "longitude": -46.6917648
     }
   },
   {
