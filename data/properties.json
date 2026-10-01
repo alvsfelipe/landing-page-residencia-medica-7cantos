@@ -22,6 +22,28 @@
     }
   },
   {
+    "id": "56801",
+    "bairro": "Itaim Bibi",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04566-000",
+    "endereco": "Rua Michigan, 531",
+    "aluguel": 0,
+    "condominio": 0,
+    "iptu": 0,
+    "area": 26,
+    "quartos": 0,
+    "banheiros": 0,
+    "suites": 0,
+    "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56801",
+    "fotos": [],
+    "coordinates": {
+      "latitude": -23.6153761,
+      "longitude": -46.6859995
+    }
+  },
+  {
     "id": "56793",
     "bairro": "Vila Cordeiro",
     "cidade": "São Paulo",
