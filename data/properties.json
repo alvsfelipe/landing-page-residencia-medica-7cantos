@@ -110,6 +110,45 @@
     }
   },
   {
+    "id": "56818",
+    "bairro": "Brooklin",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04602-010",
+    "endereco": "Rua Sebastião Gomes, 75",
+    "aluguel": 2700,
+    "condominio": 535,
+    "iptu": 78,
+    "area": 25,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 0,
+    "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56818",
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1791393264_ba83d4b5f35656c5b36fe770c423b7cb.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1791393264_ba83d4b5f35656c5b36fe770c423b7cb.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1791393274_925a87e825e1456b6ceb1bb5014873d8.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1791393281_a60488a30e720445fa7f90ab454a3118.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1791393288_6060787df181f5e77d924f53b57cf6dc.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1791393297_65dc2ee48e5ae663fdffaf63c75ed4ae.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1791393305_937f38ce56e8999c6da4f1b19c4f85ae.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1791393313_9805b9601dc661cbdd897eb9c07066dc.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1791393322_b5e346fad19fc9db40685107dbfeec4e.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1791393330_a883a3bf2a1b2e91b7093c29782d808a.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1791393338_36d89f4d58518382b46ec8fed6c0f9a5.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1791393346_0fcc7f8a6f4e3b0d65a0b88ee7d5f165.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1791393353_106b33806eccf977a4966ae5dd9fb0c9.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1791393360_1077afec17dcb27d64a8a320fecf6507.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1791393368_8d5d13b0a0e4aa14dad75e8d6326a00a.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1791393376_186bdebd7b2b0fa9c4364635d78608fb.jpg"
+    ],
+    "coordinates": {
+      "latitude": -23.6261927,
+      "longitude": -46.6842086
+    }
+  },
+  {
     "id": "56658",
     "bairro": "Brooklin",
     "cidade": "São Paulo",
