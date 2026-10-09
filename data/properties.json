@@ -496,38 +496,6 @@
     }
   },
   {
-    "id": "56588",
-    "bairro": "Vila Cordeiro",
-    "cidade": "São Paulo",
-    "uf": "SP",
-    "cep": "04583-110",
-    "endereco": "Avenida Doutor Chucri Zaidan, 111",
-    "aluguel": 3000,
-    "condominio": 0,
-    "iptu": 0,
-    "area": 25,
-    "quartos": 1,
-    "banheiros": 1,
-    "suites": 0,
-    "vagas": 0,
-    "url_imovel": "https://www.7cantos.com/imovel/56588",
-    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1785251308_c4ac400c67630ab954b1f3fdeafdda2a.jpg",
-    "fotos": [
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1785251308_c4ac400c67630ab954b1f3fdeafdda2a.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1785251319_2b8b9289acb883454e394a8c824cd82b.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1785251321_ac91b8686876905ceefafbacce8c9b0c.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1785251322_4ecde177bbd8253d6e5af3d50aa8ae33.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1785251324_eaf124f18299803239763e16ac9e0617.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1785251326_21b77f74676f7b2abf1863032985947f.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1785251328_ae2181bbc378ebf7b5cea5fe398dabfc.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1785251330_3199ca6e5a5884192523a5de32435794.jpg"
-    ],
-    "coordinates": {
-      "latitude": -23.6200528,
-      "longitude": -46.6977812
-    }
-  },
-  {
     "id": "56804",
     "bairro": "Vila Olímpia",
     "cidade": "São Paulo",
@@ -1628,54 +1596,6 @@
     "coordinates": {
       "latitude": -23.6162975,
       "longitude": -46.6890346
-    }
-  },
-  {
-    "id": "56708",
-    "bairro": "Vila Olímpia",
-    "cidade": "São Paulo",
-    "uf": "SP",
-    "cep": "04546-002",
-    "endereco": "Rua Casa do Ator, 566",
-    "aluguel": 2900,
-    "condominio": 480,
-    "iptu": 90,
-    "area": 26,
-    "quartos": 1,
-    "banheiros": 1,
-    "suites": 1,
-    "vagas": 0,
-    "url_imovel": "https://www.7cantos.com/imovel/56708",
-    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1788272303_6212b32cfdf1bb81bd98657123ceb334.jpg",
-    "fotos": [
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1788272303_6212b32cfdf1bb81bd98657123ceb334.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1788272307_d1a63a2202660c12cdf249a1a2fc4699.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1788272310_df564722ecdaf5d01c0264ef99fd9820.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1788272312_43b82e769c07392686760d7a73e56933.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1788272315_4a82fb09c108e1a44a04ec01da7a97ec.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1788272317_8db2e2b454a7577ec11006902eee2198.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1788272320_15af3d79d7f7020276193dbbd0cfc094.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1788272322_bacf3eb8a8ad546409c1b7e621443554.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1788272324_702940b5c59220c94eb5048fb29f6b91.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1788272327_5fa029bd817b9dc8c061ffdbcd3e3e9e.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1788272329_71a9fd1fd95cf7b703b485ebdc452f49.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1788272331_047f74fd1c8ca37547e3791eafc3bdb1.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1788272334_635f1890c58f8f02014b70d4d8afe1a7.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1788272336_811d656f771a3e085e7acb0ca30bddc3.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1788272339_e8b5a951941088aa53d68575f3b0f2d2.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1788272341_a39e7e912fa826cd36cb05b4fc101e83.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1788272344_b333605e759f3d26071828a7b331da8b.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1788272346_1dfde4fc6d260211a95018f45f3ea9f1.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1788272349_4e0eaab01816e86af3da6a0ac6a6eaa9.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1788272351_d26c24199c2870b732632ab469775323.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1788272354_2e0c127e9933dcf1ee749a01cc37a134.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1788272356_8774057c71aa627340cd9c40fdc6f9fe.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1788272359_b7d8df14eefa0f171b06781727b9ea23.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1788272361_65d2f8e87029c7b3ec0713c59a42c2d0.jpg"
-    ],
-    "coordinates": {
-      "latitude": -23.5987545,
-      "longitude": -46.6789551
     }
   },
   {
