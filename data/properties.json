@@ -2929,45 +2929,6 @@
     }
   },
   {
-    "id": "56104",
-    "bairro": "Brooklin",
-    "cidade": "São Paulo",
-    "uf": "SP",
-    "cep": "04622-000",
-    "endereco": "Rua Laplace, 276",
-    "aluguel": 3000,
-    "condominio": 450,
-    "iptu": 100,
-    "area": 45,
-    "quartos": 1,
-    "banheiros": 1,
-    "suites": 1,
-    "vagas": 1,
-    "url_imovel": "https://www.7cantos.com/imovel/56104",
-    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1766406820_0609fe48c337078579076700d1f1c762.jpg",
-    "fotos": [
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1766406820_0609fe48c337078579076700d1f1c762.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1766406827_627fbd0f2f2c1866a4c6a650cca2c329.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1766406831_5a108fa279b264b88e5d9e5a5d9a5d95.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1766406835_688518cbb8901935caa8bdb52763e748.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1766406838_8beed0a6c8148c4a1c18085a1a00660e.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1766406842_b0cf42d23833bf6130ab6ee889dee2cb.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1766406847_e73fadaf1f01a27b83405a4ea6ddbf16.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1766406850_77b21bc395e8f496b5dd685eb552dbf1.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1766406853_703574ee4b20b9d301399b79554fe993.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1766406857_2cacdfe381feb8d72a284e1ead9a992e.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1766406861_f8ffbb7c665eb689d99c6211974a4cf8.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1766406865_b0bf043a1e6d62b4b35b43b0a5d284c5.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1766406869_6df3f79c7f1be6c2086109b3ac744fc0.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1766406873_7be15ae2f83982a01bf92b81e22500a4.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1766406877_b1bcd8d8960b50e8faebc6d573d3bacb.jpg"
-    ],
-    "coordinates": {
-      "latitude": -23.6265118,
-      "longitude": -46.6830871
-    }
-  },
-  {
     "id": "55871",
     "bairro": "Brooklin",
     "cidade": "São Paulo",
