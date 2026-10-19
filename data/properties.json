@@ -528,6 +528,58 @@
     }
   },
   {
+    "id": "56845",
+    "bairro": "Brooklin",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04582-030",
+    "endereco": "Rua Godói Colaço, 575",
+    "aluguel": 0,
+    "condominio": 0,
+    "iptu": 0,
+    "area": 26,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 0,
+    "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56845",
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1792420857_d1a88ce773920ddbe2b8fcaf6c282ef6.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1792420857_d1a88ce773920ddbe2b8fcaf6c282ef6.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1792420867_04998eb4afb4c62c4755a59e2bb30288.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1792420874_5763dd08a0a6260bf120a549cbf7c2b4.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1792420882_a97d6285ae52806e456a10f63666a284.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1792420889_3235dbf3bf732aa96ad85e3a626ea7fe.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1792420897_90ec38e96c3f683f57d0cd2fc291acdc.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1792420904_ed5883e11cd35409764f58b180d03380.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1792420912_542710675825127487e84222f1b487df.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1792420920_c7544b7bacdfdcffef84722f8e2124c3.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1792420927_40b823f19a47aa3b81c1e3b3ad8ef099.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1792420930_da68528eb0fb3a11a92481c76d06cff2.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1792420933_0571d7b3f9684c3ed0a97053274bf72a.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1792420936_cd07d42b140a070ae74392ba35cab771.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1792420939_6b63f5efb988a2864cd04daba98f849e.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1792420942_d2085b7fd609cd7c0512311db1fe635a.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1792420945_f7c7069666fcbae59c868976229f8b5a.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1792420949_e43ff101594be7cfc4ccb0c4e6913137.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1792420951_95e79c1833f970157590866310cd9e93.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1792420954_2ca9211a9202e977dd4ce590becfa446.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1792420957_7ee93ea8ce3249f65d550af621519f9e.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1792420960_f8a12f56f2c7695a5f7a7bd620603b41.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1792420963_149730fe9ec45a0a300898203eb1ff4c.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1792420967_e1c0ecd9dd615a9f38766f18699f2809.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1792420970_27aad1799376d9a1173789bc88499c3d.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1792420973_0a7d0467716fb787ce99c3fe9f4695e7.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1792420976_6944383c94dbfd3048419a918f57ff2a.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1792420979_ed6c9d9e1e9362f087d599eac4cad172.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1792420982_b64d3a64ec38d63d24e6d3593b1a6979.jpg"
+    ],
+    "coordinates": {
+      "latitude": -23.6162975,
+      "longitude": -46.6890346
+    }
+  },
+  {
     "id": "56834",
     "bairro": "Brooklin",
     "cidade": "São Paulo",
@@ -1775,6 +1827,43 @@
     "coordinates": {
       "latitude": -23.6011311,
       "longitude": -46.6485124
+    }
+  },
+  {
+    "id": "56844",
+    "bairro": "Vila Olímpia",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04550-081",
+    "endereco": "Rua Cabo Verde, 350",
+    "aluguel": 2900,
+    "condominio": 1000,
+    "iptu": 0,
+    "area": 27,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 0,
+    "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56844",
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1792419322_7b34bc21918863541ad2e0a99d447721.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1792419322_7b34bc21918863541ad2e0a99d447721.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1792419336_0661fd4b52db310b1402f0f333c1336e.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1792419348_334e7f7b68fa892102b65c2dcdd09a71.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1792419360_ee6ca2356d15691ff5a6f058a7dddcad.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1792419371_aea127bbef928a8d3a45a3bd730cadc4.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1792419382_50602c79968ccc4f8719565cb2901d43.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1792419391_538d87865e8e9b28b26a6d811f89d84b.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1792419402_08480a96107ee87d33dff2df4182a805.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1792419411_c5e6a393d792ca021efa9a3a78e39068.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1792419420_f538a216708ce79f1b7835c1472e2c01.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1792419429_208747e53c122dc89ea8c25e7d88bb3d.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1792419442_bd9e4e86f11def79bcdcdbccde761fec.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1792419453_03dff8727b4cd6e9ce0ea345c70f45a9.jpg"
+    ],
+    "coordinates": {
+      "latitude": -23.6045177,
+      "longitude": -46.6789431
     }
   },
   {
