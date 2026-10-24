@@ -2602,6 +2602,47 @@
     }
   },
   {
+    "id": "56864",
+    "bairro": "Santo Amaro",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04709-011",
+    "endereco": "Rua do Estilo Barroco, 633",
+    "aluguel": 3500,
+    "condominio": 400,
+    "iptu": 0,
+    "area": 32,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 0,
+    "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56864",
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1792768083_83839f0b336840a06387a0b9d43e1b21.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1792768083_83839f0b336840a06387a0b9d43e1b21.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1792768090_78943a4039fab31d539763456ecf89dc.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1792768094_bd15b38f029f021f17b15be8ba5ba2f3.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1792768100_2544ff727f7e171691053e455623b43a.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1792768103_e14c89e1a8ade9c50ed05784aee10a51.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1792768108_c9608075f5913d1539eb585ace0d3a7c.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1792768112_0664895dd81c31af3ea2f4dd5c8e3ffb.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1792768116_e8bcbdd3781b9551374c34cab5d88eb7.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1792768120_5150bd52623c360d67b1e4615149227f.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1792768125_475f4d67e5cc37288554b83877e5844d.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1792768129_ff63a5e8044cdb04273785eda77d4edc.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1792768135_afce641485429fa791cd1c3ee7259c7e.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1792768140_494626c74db5f3228cf581c3d23d770f.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1792768145_eb955d97c4c3101fca80911d342b2664.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1792768150_978853a4a4148e82e9b0fb56236028f5.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1792768155_764ba6ecd9a9e2badafdf672d4c022f2.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1792768160_9a6085f5f1bfc4a961f79b986a8997f7.jpg"
+    ],
+    "coordinates": {
+      "latitude": -23.6304326,
+      "longitude": -46.6919538
+    }
+  },
+  {
     "id": "56598",
     "bairro": "Brooklin",
     "cidade": "São Paulo",
