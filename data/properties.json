@@ -460,6 +460,43 @@
     }
   },
   {
+    "id": "56874",
+    "bairro": "Santo Amaro",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04603-000",
+    "endereco": "Avenida Vereador José Diniz, 341",
+    "aluguel": 2199,
+    "condominio": 345,
+    "iptu": 82,
+    "area": 25,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 0,
+    "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56874",
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1793379576_ab85b543bb19fad265c0d823fd93da59.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1793379576_ab85b543bb19fad265c0d823fd93da59.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1793379590_442d2205335bf9fb9bf70c983e443c10.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1793379600_96721c4559abe9497cea919de037e344.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1793379610_ba581a2009f0a9ce01dffeed0b4daa36.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1793379621_b76cf66919b8651d1fc1b9fb664da82e.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1793379631_0f06fdd03330497d947429f849bac685.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1793379640_50d3a2cd97e29445d03360baa3e9d506.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1793379648_3ac2c96e56acbb12aac6be35cb461ea5.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1793379659_20612049f95081ba9110714dabf99c23.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1793379874_81a3f534c7c453e998ffa6ccf934d1b3.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1793379925_546091562163577e507b608061193c53.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1793379932_8976206599c551c406c6e48290582867.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1793379938_7cdb71b8012abd676c060f1d62b29c26.jpg"
+    ],
+    "coordinates": {
+      "latitude": -23.6396484,
+      "longitude": -46.6964298
+    }
+  },
+  {
     "id": "56616",
     "bairro": "Vila Clementino",
     "cidade": "São Paulo",
@@ -1944,6 +1981,49 @@
     }
   },
   {
+    "id": "56010",
+    "bairro": "Brooklin",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04582-030",
+    "endereco": "Rua Godói Colaço, 575",
+    "aluguel": 2700,
+    "condominio": 306.4,
+    "iptu": 91.22,
+    "area": 28,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 1,
+    "vagas": 1,
+    "url_imovel": "https://www.7cantos.com/imovel/56010",
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1763559469_24c781af59cb87758fd6ba08da7f0097.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1763559469_24c781af59cb87758fd6ba08da7f0097.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1763559472_ae11a9024a7c572db3898a99a6c22728.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1763559475_eeb135bd1f1c8b47f2d191b926b4430a.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1763559478_be8a0e4126d130a20a5a75ba6c9972b1.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1763559481_100750448ed5d3703031b92f47ce185c.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1763559484_6627cdb2944b5de9ff5b866ed5f780de.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1763559487_3b7f13605384d0df253b2b4bbcec1211.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1763559490_42edcd00a794adcaf104873b481cb193.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1763559494_e9976624dda261d8a826bd5155d15a20.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1763559498_468704e890b10eefd6f49ca3172de6aa.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1763559502_ae450e4aafdccdb1c50c8f53d61361ad.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1763559506_1d638e013d3613bf6944ec66234bc8b8.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1763559510_4bc63a3d50fb4715fb7b511d96d6f93c.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1763559514_b521cc34084f85f9545efce371161ddb.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1763559518_658a40303484ef51ed95518f6de4b2b6.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1763559522_5e549c7374c00a8deb5b709eab468a72.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1763559526_cefe44bdeb3b03f8ec992482b1af8f6d.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1763559530_d699f2e4a89afbade049c780a7a83ad3.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1763559534_c0e680d84152d9da2c18d9af9b0fe729.jpg"
+    ],
+    "coordinates": {
+      "latitude": -23.6162975,
+      "longitude": -46.6890346
+    }
+  },
+  {
     "id": "56143",
     "bairro": "Campo Belo",
     "cidade": "São Paulo",
@@ -3257,6 +3337,49 @@
     "coordinates": {
       "latitude": -23.5939133,
       "longitude": -46.6381629
+    }
+  },
+  {
+    "id": "56872",
+    "bairro": "Campo Belo",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04617-007",
+    "endereco": "Rua Vieira de Morais, 1936",
+    "aluguel": 4800,
+    "condominio": 1046,
+    "iptu": 0,
+    "area": 48,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 0,
+    "vagas": 1,
+    "url_imovel": "https://www.7cantos.com/imovel/56872",
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1793368822_35a5f6617534fb4c59f8261b8aeb4eb1.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1793368822_35a5f6617534fb4c59f8261b8aeb4eb1.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1793368829_88fd4d75273b82e6db3dbe1f2ef353d1.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1793368833_26842e4607b0371b0283f65a9e275d51.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1793368837_62467eecc225b6e1c1a5835bb212ce5c.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1793368841_b2ef10ec307590884fa409f510519d05.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1793368846_af16624cf979e9326217108082bf646f.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1793368850_ed6ccc1a06deb1a8160ed6bb0bf6ca5c.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1793368853_7434156610f5881b748f105b7a41289e.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1793368857_f3351f0cdb2177694c6b98769af964fa.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1793368861_db7d86a2da3fe836a641a92970ea2690.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1793368865_a6a9cae05d923df1aa3d0b38fc439944.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1793368870_009fbf07457b61382b077f8536fa00fc.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1793368875_03b1f555c0178318a849277101fa7f16.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1793368880_cd1e6c207506ee2a6227fd8468597b2e.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1793368884_71590901ac0166ba2d054dcde9fe1bbb.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1793368889_e1103a31b9845cc5c514aa9ddf84ab51.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1793368893_85d6e1cb8de1ee5314f8a48b64c07987.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1793368897_a185af10cac06cc0b20fe07e7afd5edf.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1793368904_b9ee49406d6d00b7cb349a6ab231494b.jpg"
+    ],
+    "coordinates": {
+      "latitude": -23.6271451,
+      "longitude": -46.6652207
     }
   },
   {
