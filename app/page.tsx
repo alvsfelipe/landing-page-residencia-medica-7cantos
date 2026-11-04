@@ -1,6 +1,6 @@
-import properties from "@/data/properties.json";
-import { Property, Z1Landing } from "@/components/z1-landing";
+import { CampaignLanding } from "@/components/campaign-landing";
+import { DEFAULT_CAMPAIGN } from "@/lib/campaigns";
 
 export default function Home() {
-  return <Z1Landing properties={properties as Property[]} />;
+  return <CampaignLanding slug={DEFAULT_CAMPAIGN} />;
 }
