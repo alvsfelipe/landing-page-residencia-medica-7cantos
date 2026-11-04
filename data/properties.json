@@ -3224,6 +3224,45 @@
     }
   },
   {
+    "id": "56880",
+    "bairro": "Vila Clementino",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04042-034",
+    "endereco": "Avenida Doutor Altino Arantes, 835",
+    "aluguel": 2500,
+    "condominio": 1093,
+    "iptu": 260,
+    "area": 44,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 0,
+    "vagas": 1,
+    "url_imovel": "https://www.7cantos.com/imovel/56880",
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1793737923_2a7bf6e50b78116ec5d2fe1cecccf060.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1793737923_2a7bf6e50b78116ec5d2fe1cecccf060.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1793737928_6ec65896d5f37d717ba646da1af5fb66.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1793737931_2774d672f85c967f56684509231938e6.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1793737934_cdeb6cb984738296e60e6cff6839ecf3.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1793737936_a3dcfd45181e7ad2c7442009d43bf411.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1793737939_93f8205b7c8e19f249631e2660f91603.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1793737941_15758044c3426a8ed6d75ece152d417c.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1793737944_bd8113809215ee83cbd4d858048b3c70.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1793737946_0d8de1d45393a441ea55ecca7613234d.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1793737949_58489eb3d3bd683aa3d49cd9003a6905.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1793737952_13ba300a94c0de543d86eaec72adeb6c.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1793737955_aef920ca0c76f75cc1ac21b97646a040.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1793737958_3b18a388190159a7a1788fe969c33022.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1793737961_66b19100c0d2d4c90c9a87b50663a9d3.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1793737965_76723732b8c39ed2efa6c8bed186cdb7.jpg"
+    ],
+    "coordinates": {
+      "latitude": -23.6029446,
+      "longitude": -46.6450307
+    }
+  },
+  {
     "id": "55871",
     "bairro": "Brooklin",
     "cidade": "São Paulo",
