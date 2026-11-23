@@ -1973,7 +1973,7 @@
     "uf": "SP",
     "cep": "04026-001",
     "endereco": "Rua Doutor Bacelar, 780",
-    "aluguel": 3400,
+    "aluguel": 3300,
     "condominio": 450,
     "iptu": 90,
     "area": 27,
@@ -2645,37 +2645,6 @@
     "coordinates": {
       "latitude": -23.6011311,
       "longitude": -46.6485124
-    }
-  },
-  {
-    "id": "56300",
-    "bairro": "Santo Amaro",
-    "cidade": "São Paulo",
-    "uf": "SP",
-    "cep": "04709-011",
-    "endereco": "Rua do Estilo Barroco, 695",
-    "aluguel": 3500,
-    "condominio": 600,
-    "iptu": 50,
-    "area": 30,
-    "quartos": 1,
-    "banheiros": 1,
-    "suites": 1,
-    "vagas": 0,
-    "url_imovel": "https://www.7cantos.com/imovel/56300",
-    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1773075059_1a52560e125f1970d0d403c51698f8c5.jpg",
-    "fotos": [
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1773075059_1a52560e125f1970d0d403c51698f8c5.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1773075069_3886de60eeb3c7b3b8a5a72e3bf13475.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1773075073_30e1842c4c0674b661d2b2d290dccf24.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1773075076_465b59bcf1b08ba8bb58298c96365832.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1773075080_b138196117e64ef11f9e8ed0a750b8aa.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1773075083_5c5c446d50ce93c75147929d9b8fa1a2.jpg",
-      "https://7cantos.s3.sa-east-1.amazonaws.com/image1773075089_ff5245dd54d0c24460ece433f435ef18.jpg"
-    ],
-    "coordinates": {
-      "latitude": -23.6299365,
-      "longitude": -46.6917196
     }
   },
   {
