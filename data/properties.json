@@ -2648,6 +2648,39 @@
     }
   },
   {
+    "id": "56959",
+    "bairro": "Itaim Bibi",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "cep": "04535-008",
+    "endereco": "Rua João Cachoeira, 1720",
+    "aluguel": 3000,
+    "condominio": 600,
+    "iptu": 0,
+    "area": 30,
+    "quartos": 1,
+    "banheiros": 1,
+    "suites": 0,
+    "vagas": 0,
+    "url_imovel": "https://www.7cantos.com/imovel/56959",
+    "foto": "https://7cantos.s3.sa-east-1.amazonaws.com/image1795545976_0c2f1a23be88d3242a81c8ea9c0461e2.jpg",
+    "fotos": [
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1795545976_0c2f1a23be88d3242a81c8ea9c0461e2.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1795545986_edf462f34f2844d341520710439935f4.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1795545993_91089bb37e2560c25d616b3fc1049bb1.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1795546007_c9ee0f6ab03244ae801a55202980c515.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1795546014_ebf5b7245238e389ea2470da73829ac4.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1795546021_63ed3b372fb9d2b0ddbf52ad7f5a31d7.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1795546027_d033aef63ddf9ea1042930f6b1ca5055.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1795546034_3a42ff1308449ff14b8aca245ea81e30.jpg",
+      "https://7cantos.s3.sa-east-1.amazonaws.com/image1795546040_c3b2447efca247ab7eed4b86bee6f4d2.jpg"
+    ],
+    "coordinates": {
+      "latitude": -23.5955097,
+      "longitude": -46.67448
+    }
+  },
+  {
     "id": "56508",
     "bairro": "Vila Clementino",
     "cidade": "São Paulo",
