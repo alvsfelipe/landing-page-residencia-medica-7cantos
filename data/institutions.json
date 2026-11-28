@@ -1,0 +1,70 @@
+{
+  "hospitais-vila-clementino": [
+    {
+      "id": "hospital-sao-paulo-unifesp",
+      "name": "Hospital São Paulo / UNIFESP",
+      "area": "Vila Clementino",
+      "relationship": "Programa próprio",
+      "summary": "Hospital universitário e principal cenário dos programas de residência médica da Escola Paulista de Medicina.",
+      "sourceUrl": "https://medicina.unifesp.br/ensino-e-pesquisa/resid%C3%AAncia"
+    },
+    {
+      "id": "hspe-iamspe",
+      "name": "Hospital do Servidor Público Estadual / IAMSPE",
+      "area": "Vila Clementino",
+      "relationship": "Programa próprio",
+      "summary": "Mantém programas de residência médica e recebe novas turmas em diferentes especialidades.",
+      "sourceUrl": "https://www.iamspe.sp.gov.br/wcm/connect/iamspe3_content/iamspe/noticias/recepcao_novos_residentes_0%21"
+    },
+    {
+      "id": "instituto-dante-pazzanese",
+      "name": "Instituto Dante Pazzanese de Cardiologia",
+      "area": "Ibirapuera / Vila Mariana",
+      "relationship": "Programa próprio",
+      "summary": "Oferece residência médica em Cardiologia, Cirurgia Cardiovascular e Cirurgia Vascular.",
+      "sourceUrl": "https://idpc.org.br/ensino/lato-sensu/"
+    },
+    {
+      "id": "hospital-do-rim",
+      "name": "Hospital do Rim",
+      "area": "Vila Clementino",
+      "relationship": "Campo de prática UNIFESP",
+      "summary": "Recebe atividades práticas de programas da UNIFESP, incluindo Anestesiologia e áreas ligadas a transplante renal.",
+      "sourceUrl": "https://anestesia.unifesp.br/resid%C3%AAncia/anestesiologia"
+    }
+  ],
+  "polos-faria-lima-berrini": [
+    {
+      "id": "faria-lima",
+      "name": "Eixo Faria Lima",
+      "area": "Itaim Bibi / Pinheiros",
+      "relationship": "Polo corporativo",
+      "summary": "Concentra bancos, gestoras, escritórios de advocacia e sedes de tecnologia entre o Largo da Batata e a Vila Olímpia, servido pela Linha 4-Amarela.",
+      "sourceUrl": "https://pt.wikipedia.org/wiki/Avenida_Brigadeiro_Faria_Lima"
+    },
+    {
+      "id": "vila-olimpia",
+      "name": "Vila Olímpia",
+      "area": "Vila Olímpia",
+      "relationship": "Polo corporativo",
+      "summary": "Complexo JK e torres vizinhas reúnem multinacionais e consultorias, com acesso pela estação Vila Olímpia da Linha 9-Esmeralda.",
+      "sourceUrl": "https://pt.wikipedia.org/wiki/Vila_Ol%C3%ADmpia"
+    },
+    {
+      "id": "berrini",
+      "name": "Eixo Berrini",
+      "area": "Brooklin / Cidade Monções",
+      "relationship": "Polo corporativo",
+      "summary": "O Centro Empresarial Nações Unidas e as torres da Berrini abrigam empresas como Microsoft, HP e Unilever, às margens do rio Pinheiros.",
+      "sourceUrl": "https://pt.wikipedia.org/wiki/Avenida_Engenheiro_Lu%C3%ADs_Carlos_Berrini"
+    },
+    {
+      "id": "chucri-zaidan",
+      "name": "Eixo Chucri Zaidan",
+      "area": "Chácara Santo Antônio / Vila Gertrudes",
+      "relationship": "Polo corporativo",
+      "summary": "Rochaverá e Parque da Cidade formam o vetor mais recente de expansão corporativa da zona sul, com shopping, hotel e parque integrados.",
+      "sourceUrl": "https://revista.buildings.com.br/parque-da-cidade-da-impulso-ao-eixo-da-chucri-zaidan/"
+    }
+  ]
+}
